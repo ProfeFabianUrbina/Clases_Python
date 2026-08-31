@@ -1,0 +1,5146 @@
+[
+    {
+        "campaña":"Cyber_Ofertas_Meta_001",
+        "plataforma":"Meta Ads",
+        "impresiones":161958,
+        "clics":7109,
+        "gasto_clp":431000,
+        "conversiones":383
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_002",
+        "plataforma":"TikTok Ads",
+        "impresiones":287892,
+        "clics":3552,
+        "gasto_clp":207000,
+        "conversiones":63
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_003",
+        "plataforma":"Google Ads",
+        "impresiones":142727,
+        "clics":7376,
+        "gasto_clp":738000,
+        "conversiones":350
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_004",
+        "plataforma":"Meta Ads",
+        "impresiones":104820,
+        "clics":5146,
+        "gasto_clp":596000,
+        "conversiones":131
+    },
+    {
+        "campaña":"Instalacion_App_Meta_005",
+        "plataforma":"Meta Ads",
+        "impresiones":45311,
+        "clics":2254,
+        "gasto_clp":220000,
+        "conversiones":102
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_006",
+        "plataforma":"YouTube Ads",
+        "impresiones":338795,
+        "clics":3505,
+        "gasto_clp":314000,
+        "conversiones":122
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_007",
+        "plataforma":"Meta Ads",
+        "impresiones":189503,
+        "clics":5450,
+        "gasto_clp":415000,
+        "conversiones":206
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_008",
+        "plataforma":"Google Ads",
+        "impresiones":114654,
+        "clics":7557,
+        "gasto_clp":1009000,
+        "conversiones":484
+    },
+    {
+        "campaña":"Instalacion_App_LinkedIn_009",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":65680,
+        "clics":1046,
+        "gasto_clp":788000,
+        "conversiones":24
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_010",
+        "plataforma":"Meta Ads",
+        "impresiones":127313,
+        "clics":6170,
+        "gasto_clp":784000,
+        "conversiones":341
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_011",
+        "plataforma":"Google Ads",
+        "impresiones":98148,
+        "clics":4568,
+        "gasto_clp":520000,
+        "conversiones":224
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_012",
+        "plataforma":"YouTube Ads",
+        "impresiones":128555,
+        "clics":2240,
+        "gasto_clp":107000,
+        "conversiones":135
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_013",
+        "plataforma":"YouTube Ads",
+        "impresiones":280551,
+        "clics":5984,
+        "gasto_clp":486000,
+        "conversiones":151
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_014",
+        "plataforma":"TikTok Ads",
+        "impresiones":395139,
+        "clics":5047,
+        "gasto_clp":643000,
+        "conversiones":271
+    },
+    {
+        "campaña":"Promo_Flash_Google_015",
+        "plataforma":"Google Ads",
+        "impresiones":67065,
+        "clics":5347,
+        "gasto_clp":875000,
+        "conversiones":326
+    },
+    {
+        "campaña":"Google_Search_Marca_TikTok_016",
+        "plataforma":"TikTok Ads",
+        "impresiones":120397,
+        "clics":1557,
+        "gasto_clp":76000,
+        "conversiones":48
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_017",
+        "plataforma":"Google Ads",
+        "impresiones":53247,
+        "clics":3853,
+        "gasto_clp":599000,
+        "conversiones":170
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_018",
+        "plataforma":"TikTok Ads",
+        "impresiones":274776,
+        "clics":3905,
+        "gasto_clp":356000,
+        "conversiones":86
+    },
+    {
+        "campaña":"Promo_Flash_Meta_019",
+        "plataforma":"Meta Ads",
+        "impresiones":91214,
+        "clics":2276,
+        "gasto_clp":105000,
+        "conversiones":82
+    },
+    {
+        "campaña":"LeadGen_B2B_Meta_020",
+        "plataforma":"Meta Ads",
+        "impresiones":233664,
+        "clics":6066,
+        "gasto_clp":276000,
+        "conversiones":338
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_021",
+        "plataforma":"TikTok Ads",
+        "impresiones":381648,
+        "clics":7888,
+        "gasto_clp":885000,
+        "conversiones":357
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_022",
+        "plataforma":"TikTok Ads",
+        "impresiones":214633,
+        "clics":3300,
+        "gasto_clp":181000,
+        "conversiones":191
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_023",
+        "plataforma":"YouTube Ads",
+        "impresiones":110535,
+        "clics":1850,
+        "gasto_clp":98000,
+        "conversiones":62
+    },
+    {
+        "campaña":"Promo_Flash_Meta_024",
+        "plataforma":"Meta Ads",
+        "impresiones":117373,
+        "clics":3492,
+        "gasto_clp":374000,
+        "conversiones":163
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_025",
+        "plataforma":"Meta Ads",
+        "impresiones":64538,
+        "clics":2377,
+        "gasto_clp":184000,
+        "conversiones":151
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_026",
+        "plataforma":"TikTok Ads",
+        "impresiones":238338,
+        "clics":5103,
+        "gasto_clp":473000,
+        "conversiones":273
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_027",
+        "plataforma":"TikTok Ads",
+        "impresiones":170982,
+        "clics":1813,
+        "gasto_clp":191000,
+        "conversiones":37
+    },
+    {
+        "campaña":"Brand_Awareness_Google_028",
+        "plataforma":"Google Ads",
+        "impresiones":53419,
+        "clics":2157,
+        "gasto_clp":182000,
+        "conversiones":100
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_029",
+        "plataforma":"Meta Ads",
+        "impresiones":147059,
+        "clics":5426,
+        "gasto_clp":565000,
+        "conversiones":119
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_030",
+        "plataforma":"TikTok Ads",
+        "impresiones":282982,
+        "clics":4571,
+        "gasto_clp":499000,
+        "conversiones":120
+    },
+    {
+        "campaña":"Brand_Awareness_Google_031",
+        "plataforma":"Google Ads",
+        "impresiones":92623,
+        "clics":6015,
+        "gasto_clp":1066000,
+        "conversiones":355
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_032",
+        "plataforma":"YouTube Ads",
+        "impresiones":144044,
+        "clics":2079,
+        "gasto_clp":112000,
+        "conversiones":78
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_033",
+        "plataforma":"YouTube Ads",
+        "impresiones":323307,
+        "clics":4137,
+        "gasto_clp":500000,
+        "conversiones":173
+    },
+    {
+        "campaña":"LeadGen_B2B_Google_034",
+        "plataforma":"Google Ads",
+        "impresiones":56105,
+        "clics":2306,
+        "gasto_clp":300000,
+        "conversiones":139
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_035",
+        "plataforma":"TikTok Ads",
+        "impresiones":241152,
+        "clics":3236,
+        "gasto_clp":263000,
+        "conversiones":180
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_036",
+        "plataforma":"TikTok Ads",
+        "impresiones":135016,
+        "clics":1967,
+        "gasto_clp":116000,
+        "conversiones":82
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_037",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":68565,
+        "clics":1333,
+        "gasto_clp":680000,
+        "conversiones":42
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_038",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":49766,
+        "clics":913,
+        "gasto_clp":511000,
+        "conversiones":39
+    },
+    {
+        "campaña":"Performance_Max_Google_039",
+        "plataforma":"Google Ads",
+        "impresiones":148451,
+        "clics":7894,
+        "gasto_clp":1705000,
+        "conversiones":498
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_040",
+        "plataforma":"YouTube Ads",
+        "impresiones":394877,
+        "clics":8073,
+        "gasto_clp":852000,
+        "conversiones":180
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_041",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":42728,
+        "clics":868,
+        "gasto_clp":814000,
+        "conversiones":30
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_042",
+        "plataforma":"TikTok Ads",
+        "impresiones":432228,
+        "clics":6559,
+        "gasto_clp":649000,
+        "conversiones":321
+    },
+    {
+        "campaña":"Cyber_Ofertas_Google_043",
+        "plataforma":"Google Ads",
+        "impresiones":80859,
+        "clics":4640,
+        "gasto_clp":730000,
+        "conversiones":207
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_044",
+        "plataforma":"TikTok Ads",
+        "impresiones":263734,
+        "clics":5650,
+        "gasto_clp":368000,
+        "conversiones":290
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_045",
+        "plataforma":"TikTok Ads",
+        "impresiones":448452,
+        "clics":8737,
+        "gasto_clp":864000,
+        "conversiones":365
+    },
+    {
+        "campaña":"Instalacion_App_Google_046",
+        "plataforma":"Google Ads",
+        "impresiones":110623,
+        "clics":8287,
+        "gasto_clp":838000,
+        "conversiones":334
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_047",
+        "plataforma":"TikTok Ads",
+        "impresiones":131663,
+        "clics":1397,
+        "gasto_clp":133000,
+        "conversiones":68
+    },
+    {
+        "campaña":"Promo_Flash_YouTube_048",
+        "plataforma":"YouTube Ads",
+        "impresiones":114754,
+        "clics":2540,
+        "gasto_clp":190000,
+        "conversiones":50
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_049",
+        "plataforma":"YouTube Ads",
+        "impresiones":164896,
+        "clics":2632,
+        "gasto_clp":234000,
+        "conversiones":149
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_050",
+        "plataforma":"TikTok Ads",
+        "impresiones":212874,
+        "clics":3217,
+        "gasto_clp":176000,
+        "conversiones":196
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_051",
+        "plataforma":"Google Ads",
+        "impresiones":115981,
+        "clics":8094,
+        "gasto_clp":907000,
+        "conversiones":192
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_052",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":40199,
+        "clics":1049,
+        "gasto_clp":750000,
+        "conversiones":28
+    },
+    {
+        "campaña":"Promo_Flash_LinkedIn_053",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":53191,
+        "clics":1824,
+        "gasto_clp":1330000,
+        "conversiones":107
+    },
+    {
+        "campaña":"Promo_Flash_LinkedIn_054",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":22158,
+        "clics":482,
+        "gasto_clp":301000,
+        "conversiones":24
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_055",
+        "plataforma":"TikTok Ads",
+        "impresiones":146690,
+        "clics":3351,
+        "gasto_clp":266000,
+        "conversiones":199
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_056",
+        "plataforma":"Google Ads",
+        "impresiones":173946,
+        "clics":14225,
+        "gasto_clp":2702000,
+        "conversiones":689
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_057",
+        "plataforma":"YouTube Ads",
+        "impresiones":259426,
+        "clics":4042,
+        "gasto_clp":505000,
+        "conversiones":257
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_058",
+        "plataforma":"Meta Ads",
+        "impresiones":239569,
+        "clics":5947,
+        "gasto_clp":545000,
+        "conversiones":294
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_059",
+        "plataforma":"Google Ads",
+        "impresiones":80108,
+        "clics":3702,
+        "gasto_clp":665000,
+        "conversiones":99
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_060",
+        "plataforma":"YouTube Ads",
+        "impresiones":433556,
+        "clics":5498,
+        "gasto_clp":419000,
+        "conversiones":287
+    },
+    {
+        "campaña":"Promo_Flash_Meta_061",
+        "plataforma":"Meta Ads",
+        "impresiones":126416,
+        "clics":3696,
+        "gasto_clp":337000,
+        "conversiones":149
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_062",
+        "plataforma":"YouTube Ads",
+        "impresiones":361974,
+        "clics":4979,
+        "gasto_clp":474000,
+        "conversiones":318
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_063",
+        "plataforma":"YouTube Ads",
+        "impresiones":285362,
+        "clics":6671,
+        "gasto_clp":658000,
+        "conversiones":365
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_064",
+        "plataforma":"TikTok Ads",
+        "impresiones":396189,
+        "clics":7795,
+        "gasto_clp":794000,
+        "conversiones":453
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_065",
+        "plataforma":"Meta Ads",
+        "impresiones":133179,
+        "clics":5550,
+        "gasto_clp":382000,
+        "conversiones":89
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_066",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":59080,
+        "clics":937,
+        "gasto_clp":888000,
+        "conversiones":36
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_067",
+        "plataforma":"TikTok Ads",
+        "impresiones":162989,
+        "clics":3866,
+        "gasto_clp":296000,
+        "conversiones":60
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_068",
+        "plataforma":"TikTok Ads",
+        "impresiones":345564,
+        "clics":5675,
+        "gasto_clp":722000,
+        "conversiones":358
+    },
+    {
+        "campaña":"Performance_Max_Google_069",
+        "plataforma":"Google Ads",
+        "impresiones":154019,
+        "clics":7658,
+        "gasto_clp":1026000,
+        "conversiones":440
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_070",
+        "plataforma":"Meta Ads",
+        "impresiones":158015,
+        "clics":5460,
+        "gasto_clp":419000,
+        "conversiones":189
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_071",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":38093,
+        "clics":1101,
+        "gasto_clp":809000,
+        "conversiones":21
+    },
+    {
+        "campaña":"Brand_Awareness_LinkedIn_072",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":22455,
+        "clics":638,
+        "gasto_clp":402000,
+        "conversiones":17
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_073",
+        "plataforma":"TikTok Ads",
+        "impresiones":90729,
+        "clics":2101,
+        "gasto_clp":227000,
+        "conversiones":104
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_074",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":27533,
+        "clics":610,
+        "gasto_clp":364000,
+        "conversiones":33
+    },
+    {
+        "campaña":"LeadGen_B2B_Google_075",
+        "plataforma":"Google Ads",
+        "impresiones":59592,
+        "clics":3907,
+        "gasto_clp":357000,
+        "conversiones":59
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_076",
+        "plataforma":"Google Ads",
+        "impresiones":140627,
+        "clics":10535,
+        "gasto_clp":1801000,
+        "conversiones":527
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_077",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":19495,
+        "clics":312,
+        "gasto_clp":279000,
+        "conversiones":5
+    },
+    {
+        "campaña":"LeadGen_B2B_LinkedIn_078",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":47097,
+        "clics":794,
+        "gasto_clp":587000,
+        "conversiones":13
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_079",
+        "plataforma":"YouTube Ads",
+        "impresiones":173848,
+        "clics":2142,
+        "gasto_clp":275000,
+        "conversiones":121
+    },
+    {
+        "campaña":"LeadGen_B2B_Meta_080",
+        "plataforma":"Meta Ads",
+        "impresiones":227733,
+        "clics":6264,
+        "gasto_clp":303000,
+        "conversiones":188
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_081",
+        "plataforma":"TikTok Ads",
+        "impresiones":193632,
+        "clics":4340,
+        "gasto_clp":295000,
+        "conversiones":274
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_082",
+        "plataforma":"Meta Ads",
+        "impresiones":127235,
+        "clics":5758,
+        "gasto_clp":354000,
+        "conversiones":204
+    },
+    {
+        "campaña":"Brand_Awareness_LinkedIn_083",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":30202,
+        "clics":838,
+        "gasto_clp":681000,
+        "conversiones":53
+    },
+    {
+        "campaña":"Performance_Max_Meta_084",
+        "plataforma":"Meta Ads",
+        "impresiones":57019,
+        "clics":2362,
+        "gasto_clp":115000,
+        "conversiones":82
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_085",
+        "plataforma":"Meta Ads",
+        "impresiones":68251,
+        "clics":2888,
+        "gasto_clp":192000,
+        "conversiones":69
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_086",
+        "plataforma":"Google Ads",
+        "impresiones":35949,
+        "clics":2760,
+        "gasto_clp":490000,
+        "conversiones":97
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_087",
+        "plataforma":"YouTube Ads",
+        "impresiones":408761,
+        "clics":9699,
+        "gasto_clp":801000,
+        "conversiones":261
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_088",
+        "plataforma":"Google Ads",
+        "impresiones":35237,
+        "clics":2492,
+        "gasto_clp":430000,
+        "conversiones":72
+    },
+    {
+        "campaña":"Instalacion_App_LinkedIn_089",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":18343,
+        "clics":464,
+        "gasto_clp":361000,
+        "conversiones":17
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_090",
+        "plataforma":"YouTube Ads",
+        "impresiones":332764,
+        "clics":5422,
+        "gasto_clp":358000,
+        "conversiones":177
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_091",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":28284,
+        "clics":492,
+        "gasto_clp":306000,
+        "conversiones":9
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_092",
+        "plataforma":"TikTok Ads",
+        "impresiones":255150,
+        "clics":2707,
+        "gasto_clp":319000,
+        "conversiones":135
+    },
+    {
+        "campaña":"Performance_Max_TikTok_093",
+        "plataforma":"TikTok Ads",
+        "impresiones":306507,
+        "clics":3143,
+        "gasto_clp":345000,
+        "conversiones":173
+    },
+    {
+        "campaña":"Performance_Max_LinkedIn_094",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":41211,
+        "clics":760,
+        "gasto_clp":507000,
+        "conversiones":26
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_095",
+        "plataforma":"Meta Ads",
+        "impresiones":63049,
+        "clics":3056,
+        "gasto_clp":368000,
+        "conversiones":85
+    },
+    {
+        "campaña":"Brand_Awareness_Google_096",
+        "plataforma":"Google Ads",
+        "impresiones":53289,
+        "clics":4352,
+        "gasto_clp":653000,
+        "conversiones":182
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_097",
+        "plataforma":"TikTok Ads",
+        "impresiones":96364,
+        "clics":1199,
+        "gasto_clp":61000,
+        "conversiones":56
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_098",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":44168,
+        "clics":1428,
+        "gasto_clp":1097000,
+        "conversiones":78
+    },
+    {
+        "campaña":"Instalacion_App_Google_099",
+        "plataforma":"Google Ads",
+        "impresiones":41938,
+        "clics":2816,
+        "gasto_clp":406000,
+        "conversiones":119
+    },
+    {
+        "campaña":"Cyber_Ofertas_Google_100",
+        "plataforma":"Google Ads",
+        "impresiones":133691,
+        "clics":7260,
+        "gasto_clp":1558000,
+        "conversiones":437
+    },
+    {
+        "campaña":"Cyber_Ofertas_Meta_101",
+        "plataforma":"Meta Ads",
+        "impresiones":191836,
+        "clics":4235,
+        "gasto_clp":227000,
+        "conversiones":67
+    },
+    {
+        "campaña":"Brand_Awareness_Google_102",
+        "plataforma":"Google Ads",
+        "impresiones":122658,
+        "clics":8084,
+        "gasto_clp":1028000,
+        "conversiones":386
+    },
+    {
+        "campaña":"LeadGen_B2B_Meta_103",
+        "plataforma":"Meta Ads",
+        "impresiones":128668,
+        "clics":5834,
+        "gasto_clp":274000,
+        "conversiones":325
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_104",
+        "plataforma":"Meta Ads",
+        "impresiones":60358,
+        "clics":1421,
+        "gasto_clp":148000,
+        "conversiones":66
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_105",
+        "plataforma":"Google Ads",
+        "impresiones":161484,
+        "clics":5968,
+        "gasto_clp":827000,
+        "conversiones":378
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_106",
+        "plataforma":"YouTube Ads",
+        "impresiones":386569,
+        "clics":6321,
+        "gasto_clp":590000,
+        "conversiones":276
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_107",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":32506,
+        "clics":755,
+        "gasto_clp":480000,
+        "conversiones":40
+    },
+    {
+        "campaña":"Instalacion_App_LinkedIn_108",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":38190,
+        "clics":1283,
+        "gasto_clp":1128000,
+        "conversiones":46
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_109",
+        "plataforma":"YouTube Ads",
+        "impresiones":151180,
+        "clics":3189,
+        "gasto_clp":208000,
+        "conversiones":108
+    },
+    {
+        "campaña":"Promo_Flash_YouTube_110",
+        "plataforma":"YouTube Ads",
+        "impresiones":190448,
+        "clics":3347,
+        "gasto_clp":386000,
+        "conversiones":103
+    },
+    {
+        "campaña":"Brand_Awareness_Google_111",
+        "plataforma":"Google Ads",
+        "impresiones":96234,
+        "clics":3849,
+        "gasto_clp":337000,
+        "conversiones":242
+    },
+    {
+        "campaña":"Promo_Flash_Meta_112",
+        "plataforma":"Meta Ads",
+        "impresiones":195538,
+        "clics":4446,
+        "gasto_clp":321000,
+        "conversiones":277
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_113",
+        "plataforma":"TikTok Ads",
+        "impresiones":275967,
+        "clics":4757,
+        "gasto_clp":413000,
+        "conversiones":91
+    },
+    {
+        "campaña":"Performance_Max_YouTube_114",
+        "plataforma":"YouTube Ads",
+        "impresiones":206020,
+        "clics":2966,
+        "gasto_clp":216000,
+        "conversiones":144
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_115",
+        "plataforma":"Meta Ads",
+        "impresiones":158324,
+        "clics":6926,
+        "gasto_clp":777000,
+        "conversiones":135
+    },
+    {
+        "campaña":"Promo_Flash_Meta_116",
+        "plataforma":"Meta Ads",
+        "impresiones":192617,
+        "clics":9482,
+        "gasto_clp":1229000,
+        "conversiones":168
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_117",
+        "plataforma":"TikTok Ads",
+        "impresiones":118102,
+        "clics":2148,
+        "gasto_clp":226000,
+        "conversiones":136
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_118",
+        "plataforma":"Google Ads",
+        "impresiones":31542,
+        "clics":1775,
+        "gasto_clp":197000,
+        "conversiones":61
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_119",
+        "plataforma":"Google Ads",
+        "impresiones":49065,
+        "clics":2076,
+        "gasto_clp":315000,
+        "conversiones":55
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_120",
+        "plataforma":"YouTube Ads",
+        "impresiones":108295,
+        "clics":1690,
+        "gasto_clp":129000,
+        "conversiones":94
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_121",
+        "plataforma":"YouTube Ads",
+        "impresiones":248152,
+        "clics":4684,
+        "gasto_clp":350000,
+        "conversiones":236
+    },
+    {
+        "campaña":"Performance_Max_TikTok_122",
+        "plataforma":"TikTok Ads",
+        "impresiones":283196,
+        "clics":4437,
+        "gasto_clp":466000,
+        "conversiones":121
+    },
+    {
+        "campaña":"Brand_Awareness_Google_123",
+        "plataforma":"Google Ads",
+        "impresiones":45485,
+        "clics":2712,
+        "gasto_clp":221000,
+        "conversiones":104
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_124",
+        "plataforma":"YouTube Ads",
+        "impresiones":203961,
+        "clics":4306,
+        "gasto_clp":475000,
+        "conversiones":241
+    },
+    {
+        "campaña":"Cyber_Ofertas_Meta_125",
+        "plataforma":"Meta Ads",
+        "impresiones":82918,
+        "clics":3514,
+        "gasto_clp":332000,
+        "conversiones":221
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_126",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":48982,
+        "clics":1202,
+        "gasto_clp":591000,
+        "conversiones":49
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_127",
+        "plataforma":"Meta Ads",
+        "impresiones":154821,
+        "clics":6821,
+        "gasto_clp":874000,
+        "conversiones":291
+    },
+    {
+        "campaña":"Promo_Flash_Google_128",
+        "plataforma":"Google Ads",
+        "impresiones":158148,
+        "clics":5878,
+        "gasto_clp":1231000,
+        "conversiones":358
+    },
+    {
+        "campaña":"Performance_Max_YouTube_129",
+        "plataforma":"YouTube Ads",
+        "impresiones":339747,
+        "clics":6220,
+        "gasto_clp":792000,
+        "conversiones":255
+    },
+    {
+        "campaña":"Promo_Flash_Google_130",
+        "plataforma":"Google Ads",
+        "impresiones":47640,
+        "clics":2183,
+        "gasto_clp":265000,
+        "conversiones":141
+    },
+    {
+        "campaña":"Retargeting_Carro_Meta_131",
+        "plataforma":"Meta Ads",
+        "impresiones":150133,
+        "clics":5634,
+        "gasto_clp":685000,
+        "conversiones":97
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_132",
+        "plataforma":"YouTube Ads",
+        "impresiones":421003,
+        "clics":10264,
+        "gasto_clp":512000,
+        "conversiones":356
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_133",
+        "plataforma":"YouTube Ads",
+        "impresiones":366103,
+        "clics":7066,
+        "gasto_clp":485000,
+        "conversiones":172
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_134",
+        "plataforma":"YouTube Ads",
+        "impresiones":403673,
+        "clics":6387,
+        "gasto_clp":412000,
+        "conversiones":180
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_135",
+        "plataforma":"YouTube Ads",
+        "impresiones":207016,
+        "clics":2877,
+        "gasto_clp":240000,
+        "conversiones":47
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_136",
+        "plataforma":"YouTube Ads",
+        "impresiones":420896,
+        "clics":6805,
+        "gasto_clp":655000,
+        "conversiones":194
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_137",
+        "plataforma":"Google Ads",
+        "impresiones":57532,
+        "clics":4633,
+        "gasto_clp":904000,
+        "conversiones":289
+    },
+    {
+        "campaña":"Cyber_Ofertas_Google_138",
+        "plataforma":"Google Ads",
+        "impresiones":79407,
+        "clics":5086,
+        "gasto_clp":1061000,
+        "conversiones":97
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_139",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":38793,
+        "clics":1009,
+        "gasto_clp":537000,
+        "conversiones":35
+    },
+    {
+        "campaña":"LeadGen_B2B_Meta_140",
+        "plataforma":"Meta Ads",
+        "impresiones":101813,
+        "clics":4512,
+        "gasto_clp":582000,
+        "conversiones":101
+    },
+    {
+        "campaña":"Cyber_Ofertas_Meta_141",
+        "plataforma":"Meta Ads",
+        "impresiones":102292,
+        "clics":4346,
+        "gasto_clp":341000,
+        "conversiones":245
+    },
+    {
+        "campaña":"Performance_Max_LinkedIn_142",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":36168,
+        "clics":1148,
+        "gasto_clp":786000,
+        "conversiones":41
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_143",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":15384,
+        "clics":234,
+        "gasto_clp":114000,
+        "conversiones":11
+    },
+    {
+        "campaña":"Cyber_Ofertas_Google_144",
+        "plataforma":"Google Ads",
+        "impresiones":128142,
+        "clics":9289,
+        "gasto_clp":1931000,
+        "conversiones":411
+    },
+    {
+        "campaña":"Brand_Awareness_LinkedIn_145",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":18636,
+        "clics":631,
+        "gasto_clp":552000,
+        "conversiones":17
+    },
+    {
+        "campaña":"Brand_Awareness_Google_146",
+        "plataforma":"Google Ads",
+        "impresiones":151288,
+        "clics":6272,
+        "gasto_clp":1339000,
+        "conversiones":284
+    },
+    {
+        "campaña":"Brand_Awareness_LinkedIn_147",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":36949,
+        "clics":1203,
+        "gasto_clp":997000,
+        "conversiones":20
+    },
+    {
+        "campaña":"Promo_Flash_Google_148",
+        "plataforma":"Google Ads",
+        "impresiones":168311,
+        "clics":6077,
+        "gasto_clp":910000,
+        "conversiones":235
+    },
+    {
+        "campaña":"Instalacion_App_Meta_149",
+        "plataforma":"Meta Ads",
+        "impresiones":89922,
+        "clics":3201,
+        "gasto_clp":376000,
+        "conversiones":136
+    },
+    {
+        "campaña":"Instalacion_App_Google_150",
+        "plataforma":"Google Ads",
+        "impresiones":136884,
+        "clics":5396,
+        "gasto_clp":1030000,
+        "conversiones":240
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_151",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":34198,
+        "clics":532,
+        "gasto_clp":440000,
+        "conversiones":24
+    },
+    {
+        "campaña":"Brand_Awareness_LinkedIn_152",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":52441,
+        "clics":1630,
+        "gasto_clp":1470000,
+        "conversiones":74
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_153",
+        "plataforma":"YouTube Ads",
+        "impresiones":86949,
+        "clics":1662,
+        "gasto_clp":165000,
+        "conversiones":71
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_154",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":25209,
+        "clics":553,
+        "gasto_clp":391000,
+        "conversiones":29
+    },
+    {
+        "campaña":"Google_Search_Marca_TikTok_155",
+        "plataforma":"TikTok Ads",
+        "impresiones":330875,
+        "clics":4787,
+        "gasto_clp":428000,
+        "conversiones":238
+    },
+    {
+        "campaña":"LeadGen_B2B_Google_156",
+        "plataforma":"Google Ads",
+        "impresiones":133196,
+        "clics":5641,
+        "gasto_clp":1183000,
+        "conversiones":223
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_157",
+        "plataforma":"Google Ads",
+        "impresiones":49963,
+        "clics":1914,
+        "gasto_clp":165000,
+        "conversiones":88
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_158",
+        "plataforma":"YouTube Ads",
+        "impresiones":85569,
+        "clics":1277,
+        "gasto_clp":126000,
+        "conversiones":34
+    },
+    {
+        "campaña":"Performance_Max_TikTok_159",
+        "plataforma":"TikTok Ads",
+        "impresiones":327666,
+        "clics":5917,
+        "gasto_clp":498000,
+        "conversiones":261
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_160",
+        "plataforma":"TikTok Ads",
+        "impresiones":217162,
+        "clics":2623,
+        "gasto_clp":261000,
+        "conversiones":63
+    },
+    {
+        "campaña":"Performance_Max_Meta_161",
+        "plataforma":"Meta Ads",
+        "impresiones":148215,
+        "clics":4794,
+        "gasto_clp":572000,
+        "conversiones":195
+    },
+    {
+        "campaña":"Instalacion_App_LinkedIn_162",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":64823,
+        "clics":1195,
+        "gasto_clp":653000,
+        "conversiones":20
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_163",
+        "plataforma":"Meta Ads",
+        "impresiones":151195,
+        "clics":4600,
+        "gasto_clp":219000,
+        "conversiones":195
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_164",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":54144,
+        "clics":1197,
+        "gasto_clp":1074000,
+        "conversiones":25
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_165",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":41329,
+        "clics":1190,
+        "gasto_clp":559000,
+        "conversiones":65
+    },
+    {
+        "campaña":"LeadGen_B2B_Google_166",
+        "plataforma":"Google Ads",
+        "impresiones":166312,
+        "clics":11540,
+        "gasto_clp":1750000,
+        "conversiones":263
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_167",
+        "plataforma":"Meta Ads",
+        "impresiones":158831,
+        "clics":3467,
+        "gasto_clp":238000,
+        "conversiones":191
+    },
+    {
+        "campaña":"Google_Search_Marca_TikTok_168",
+        "plataforma":"TikTok Ads",
+        "impresiones":392572,
+        "clics":9733,
+        "gasto_clp":882000,
+        "conversiones":595
+    },
+    {
+        "campaña":"Performance_Max_Google_169",
+        "plataforma":"Google Ads",
+        "impresiones":169789,
+        "clics":11191,
+        "gasto_clp":1473000,
+        "conversiones":426
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_170",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":31748,
+        "clics":515,
+        "gasto_clp":270000,
+        "conversiones":11
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_171",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":20122,
+        "clics":662,
+        "gasto_clp":467000,
+        "conversiones":27
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_172",
+        "plataforma":"Meta Ads",
+        "impresiones":158033,
+        "clics":5281,
+        "gasto_clp":477000,
+        "conversiones":143
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_173",
+        "plataforma":"TikTok Ads",
+        "impresiones":415832,
+        "clics":8757,
+        "gasto_clp":530000,
+        "conversiones":378
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_174",
+        "plataforma":"Google Ads",
+        "impresiones":80448,
+        "clics":3666,
+        "gasto_clp":461000,
+        "conversiones":76
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_175",
+        "plataforma":"Meta Ads",
+        "impresiones":144592,
+        "clics":4379,
+        "gasto_clp":373000,
+        "conversiones":143
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_176",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":31616,
+        "clics":789,
+        "gasto_clp":389000,
+        "conversiones":33
+    },
+    {
+        "campaña":"Google_Search_Marca_TikTok_177",
+        "plataforma":"TikTok Ads",
+        "impresiones":290977,
+        "clics":5344,
+        "gasto_clp":507000,
+        "conversiones":230
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_178",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":30913,
+        "clics":639,
+        "gasto_clp":404000,
+        "conversiones":30
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_179",
+        "plataforma":"TikTok Ads",
+        "impresiones":155703,
+        "clics":2720,
+        "gasto_clp":199000,
+        "conversiones":167
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_180",
+        "plataforma":"TikTok Ads",
+        "impresiones":196421,
+        "clics":3040,
+        "gasto_clp":263000,
+        "conversiones":174
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_181",
+        "plataforma":"YouTube Ads",
+        "impresiones":341949,
+        "clics":7552,
+        "gasto_clp":376000,
+        "conversiones":431
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_182",
+        "plataforma":"Meta Ads",
+        "impresiones":195890,
+        "clics":4025,
+        "gasto_clp":420000,
+        "conversiones":261
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_183",
+        "plataforma":"YouTube Ads",
+        "impresiones":96389,
+        "clics":1539,
+        "gasto_clp":196000,
+        "conversiones":89
+    },
+    {
+        "campaña":"Cyber_Ofertas_Meta_184",
+        "plataforma":"Meta Ads",
+        "impresiones":171189,
+        "clics":4748,
+        "gasto_clp":283000,
+        "conversiones":229
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_185",
+        "plataforma":"TikTok Ads",
+        "impresiones":314936,
+        "clics":6543,
+        "gasto_clp":592000,
+        "conversiones":254
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_186",
+        "plataforma":"TikTok Ads",
+        "impresiones":430380,
+        "clics":9271,
+        "gasto_clp":565000,
+        "conversiones":289
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_187",
+        "plataforma":"YouTube Ads",
+        "impresiones":171922,
+        "clics":2233,
+        "gasto_clp":240000,
+        "conversiones":92
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_188",
+        "plataforma":"YouTube Ads",
+        "impresiones":409728,
+        "clics":7850,
+        "gasto_clp":546000,
+        "conversiones":345
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_189",
+        "plataforma":"Meta Ads",
+        "impresiones":60618,
+        "clics":2907,
+        "gasto_clp":210000,
+        "conversiones":129
+    },
+    {
+        "campaña":"Retargeting_Carro_Meta_190",
+        "plataforma":"Meta Ads",
+        "impresiones":163781,
+        "clics":4929,
+        "gasto_clp":278000,
+        "conversiones":89
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_191",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":17219,
+        "clics":327,
+        "gasto_clp":259000,
+        "conversiones":6
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_192",
+        "plataforma":"TikTok Ads",
+        "impresiones":212414,
+        "clics":4295,
+        "gasto_clp":471000,
+        "conversiones":192
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_193",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":29231,
+        "clics":792,
+        "gasto_clp":671000,
+        "conversiones":16
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_194",
+        "plataforma":"YouTube Ads",
+        "impresiones":163524,
+        "clics":3672,
+        "gasto_clp":466000,
+        "conversiones":77
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_195",
+        "plataforma":"Meta Ads",
+        "impresiones":179639,
+        "clics":8933,
+        "gasto_clp":558000,
+        "conversiones":303
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_196",
+        "plataforma":"TikTok Ads",
+        "impresiones":328320,
+        "clics":6933,
+        "gasto_clp":651000,
+        "conversiones":395
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_197",
+        "plataforma":"TikTok Ads",
+        "impresiones":88007,
+        "clics":1973,
+        "gasto_clp":215000,
+        "conversiones":108
+    },
+    {
+        "campaña":"Brand_Awareness_Google_198",
+        "plataforma":"Google Ads",
+        "impresiones":116740,
+        "clics":5173,
+        "gasto_clp":585000,
+        "conversiones":241
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_199",
+        "plataforma":"TikTok Ads",
+        "impresiones":205501,
+        "clics":3161,
+        "gasto_clp":378000,
+        "conversiones":109
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_200",
+        "plataforma":"YouTube Ads",
+        "impresiones":385447,
+        "clics":6467,
+        "gasto_clp":683000,
+        "conversiones":387
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_201",
+        "plataforma":"Google Ads",
+        "impresiones":103340,
+        "clics":5174,
+        "gasto_clp":955000,
+        "conversiones":207
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_202",
+        "plataforma":"Google Ads",
+        "impresiones":97728,
+        "clics":7816,
+        "gasto_clp":1045000,
+        "conversiones":329
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_203",
+        "plataforma":"YouTube Ads",
+        "impresiones":172263,
+        "clics":3335,
+        "gasto_clp":183000,
+        "conversiones":206
+    },
+    {
+        "campaña":"LeadGen_B2B_Google_204",
+        "plataforma":"Google Ads",
+        "impresiones":126646,
+        "clics":9058,
+        "gasto_clp":1604000,
+        "conversiones":211
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_205",
+        "plataforma":"YouTube Ads",
+        "impresiones":413468,
+        "clics":7207,
+        "gasto_clp":779000,
+        "conversiones":314
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_206",
+        "plataforma":"TikTok Ads",
+        "impresiones":131356,
+        "clics":1612,
+        "gasto_clp":115000,
+        "conversiones":44
+    },
+    {
+        "campaña":"Promo_Flash_Meta_207",
+        "plataforma":"Meta Ads",
+        "impresiones":42336,
+        "clics":889,
+        "gasto_clp":83000,
+        "conversiones":47
+    },
+    {
+        "campaña":"Performance_Max_Meta_208",
+        "plataforma":"Meta Ads",
+        "impresiones":214944,
+        "clics":4962,
+        "gasto_clp":450000,
+        "conversiones":168
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_209",
+        "plataforma":"Google Ads",
+        "impresiones":158876,
+        "clics":6573,
+        "gasto_clp":891000,
+        "conversiones":360
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_210",
+        "plataforma":"YouTube Ads",
+        "impresiones":144772,
+        "clics":2503,
+        "gasto_clp":200000,
+        "conversiones":134
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_211",
+        "plataforma":"TikTok Ads",
+        "impresiones":227550,
+        "clics":4318,
+        "gasto_clp":402000,
+        "conversiones":219
+    },
+    {
+        "campaña":"Cyber_Ofertas_Google_212",
+        "plataforma":"Google Ads",
+        "impresiones":160330,
+        "clics":8382,
+        "gasto_clp":884000,
+        "conversiones":506
+    },
+    {
+        "campaña":"Promo_Flash_Google_213",
+        "plataforma":"Google Ads",
+        "impresiones":106325,
+        "clics":4930,
+        "gasto_clp":687000,
+        "conversiones":144
+    },
+    {
+        "campaña":"Google_Search_Marca_TikTok_214",
+        "plataforma":"TikTok Ads",
+        "impresiones":432618,
+        "clics":5321,
+        "gasto_clp":505000,
+        "conversiones":214
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_215",
+        "plataforma":"Meta Ads",
+        "impresiones":57368,
+        "clics":1587,
+        "gasto_clp":169000,
+        "conversiones":70
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_216",
+        "plataforma":"TikTok Ads",
+        "impresiones":250987,
+        "clics":4637,
+        "gasto_clp":483000,
+        "conversiones":283
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_217",
+        "plataforma":"YouTube Ads",
+        "impresiones":446407,
+        "clics":8825,
+        "gasto_clp":976000,
+        "conversiones":297
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_218",
+        "plataforma":"TikTok Ads",
+        "impresiones":397320,
+        "clics":6500,
+        "gasto_clp":699000,
+        "conversiones":401
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_219",
+        "plataforma":"Meta Ads",
+        "impresiones":174869,
+        "clics":8274,
+        "gasto_clp":459000,
+        "conversiones":221
+    },
+    {
+        "campaña":"Instalacion_App_Google_220",
+        "plataforma":"Google Ads",
+        "impresiones":162717,
+        "clics":7210,
+        "gasto_clp":1422000,
+        "conversiones":227
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_221",
+        "plataforma":"TikTok Ads",
+        "impresiones":264245,
+        "clics":4698,
+        "gasto_clp":448000,
+        "conversiones":164
+    },
+    {
+        "campaña":"Instalacion_App_Meta_222",
+        "plataforma":"Meta Ads",
+        "impresiones":96264,
+        "clics":4074,
+        "gasto_clp":255000,
+        "conversiones":221
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_223",
+        "plataforma":"YouTube Ads",
+        "impresiones":440089,
+        "clics":6602,
+        "gasto_clp":521000,
+        "conversiones":276
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_224",
+        "plataforma":"TikTok Ads",
+        "impresiones":319690,
+        "clics":7622,
+        "gasto_clp":645000,
+        "conversiones":297
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_225",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":51368,
+        "clics":1373,
+        "gasto_clp":640000,
+        "conversiones":83
+    },
+    {
+        "campaña":"Promo_Flash_Meta_226",
+        "plataforma":"Meta Ads",
+        "impresiones":107526,
+        "clics":2684,
+        "gasto_clp":129000,
+        "conversiones":82
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_227",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":52148,
+        "clics":1387,
+        "gasto_clp":1063000,
+        "conversiones":21
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_228",
+        "plataforma":"TikTok Ads",
+        "impresiones":446036,
+        "clics":7907,
+        "gasto_clp":1011000,
+        "conversiones":300
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_229",
+        "plataforma":"YouTube Ads",
+        "impresiones":313619,
+        "clics":5086,
+        "gasto_clp":266000,
+        "conversiones":329
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_230",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":35806,
+        "clics":963,
+        "gasto_clp":466000,
+        "conversiones":50
+    },
+    {
+        "campaña":"LeadGen_B2B_Google_231",
+        "plataforma":"Google Ads",
+        "impresiones":54442,
+        "clics":4082,
+        "gasto_clp":526000,
+        "conversiones":156
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_232",
+        "plataforma":"YouTube Ads",
+        "impresiones":297516,
+        "clics":4660,
+        "gasto_clp":541000,
+        "conversiones":206
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_233",
+        "plataforma":"TikTok Ads",
+        "impresiones":144077,
+        "clics":2983,
+        "gasto_clp":268000,
+        "conversiones":124
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_234",
+        "plataforma":"TikTok Ads",
+        "impresiones":118000,
+        "clics":1889,
+        "gasto_clp":175000,
+        "conversiones":42
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_235",
+        "plataforma":"TikTok Ads",
+        "impresiones":266240,
+        "clics":3997,
+        "gasto_clp":206000,
+        "conversiones":210
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_236",
+        "plataforma":"TikTok Ads",
+        "impresiones":445321,
+        "clics":6261,
+        "gasto_clp":624000,
+        "conversiones":221
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_237",
+        "plataforma":"TikTok Ads",
+        "impresiones":293046,
+        "clics":3616,
+        "gasto_clp":383000,
+        "conversiones":173
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_238",
+        "plataforma":"TikTok Ads",
+        "impresiones":287606,
+        "clics":3971,
+        "gasto_clp":245000,
+        "conversiones":159
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_239",
+        "plataforma":"Google Ads",
+        "impresiones":104055,
+        "clics":4183,
+        "gasto_clp":803000,
+        "conversiones":100
+    },
+    {
+        "campaña":"Promo_Flash_YouTube_240",
+        "plataforma":"YouTube Ads",
+        "impresiones":235232,
+        "clics":4316,
+        "gasto_clp":459000,
+        "conversiones":238
+    },
+    {
+        "campaña":"Instalacion_App_Google_241",
+        "plataforma":"Google Ads",
+        "impresiones":117127,
+        "clics":8329,
+        "gasto_clp":1664000,
+        "conversiones":470
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_242",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":68699,
+        "clics":2328,
+        "gasto_clp":1212000,
+        "conversiones":82
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_243",
+        "plataforma":"YouTube Ads",
+        "impresiones":146358,
+        "clics":3431,
+        "gasto_clp":158000,
+        "conversiones":66
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_244",
+        "plataforma":"Meta Ads",
+        "impresiones":42198,
+        "clics":1917,
+        "gasto_clp":106000,
+        "conversiones":112
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_245",
+        "plataforma":"TikTok Ads",
+        "impresiones":242491,
+        "clics":4985,
+        "gasto_clp":610000,
+        "conversiones":230
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_246",
+        "plataforma":"YouTube Ads",
+        "impresiones":296586,
+        "clics":4119,
+        "gasto_clp":318000,
+        "conversiones":183
+    },
+    {
+        "campaña":"LeadGen_B2B_LinkedIn_247",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":68643,
+        "clics":2170,
+        "gasto_clp":1351000,
+        "conversiones":116
+    },
+    {
+        "campaña":"Performance_Max_YouTube_248",
+        "plataforma":"YouTube Ads",
+        "impresiones":218155,
+        "clics":2899,
+        "gasto_clp":371000,
+        "conversiones":156
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_249",
+        "plataforma":"YouTube Ads",
+        "impresiones":336713,
+        "clics":6224,
+        "gasto_clp":801000,
+        "conversiones":239
+    },
+    {
+        "campaña":"Performance_Max_LinkedIn_250",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":52599,
+        "clics":1236,
+        "gasto_clp":570000,
+        "conversiones":35
+    },
+    {
+        "campaña":"Brand_Awareness_Google_251",
+        "plataforma":"Google Ads",
+        "impresiones":65367,
+        "clics":4571,
+        "gasto_clp":623000,
+        "conversiones":118
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_252",
+        "plataforma":"TikTok Ads",
+        "impresiones":228757,
+        "clics":5152,
+        "gasto_clp":663000,
+        "conversiones":212
+    },
+    {
+        "campaña":"LeadGen_B2B_LinkedIn_253",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":26372,
+        "clics":760,
+        "gasto_clp":602000,
+        "conversiones":42
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_254",
+        "plataforma":"Meta Ads",
+        "impresiones":101268,
+        "clics":4501,
+        "gasto_clp":393000,
+        "conversiones":82
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_255",
+        "plataforma":"TikTok Ads",
+        "impresiones":308504,
+        "clics":5387,
+        "gasto_clp":572000,
+        "conversiones":109
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_256",
+        "plataforma":"Google Ads",
+        "impresiones":46725,
+        "clics":1955,
+        "gasto_clp":403000,
+        "conversiones":114
+    },
+    {
+        "campaña":"Cyber_Ofertas_Meta_257",
+        "plataforma":"Meta Ads",
+        "impresiones":44263,
+        "clics":1218,
+        "gasto_clp":120000,
+        "conversiones":48
+    },
+    {
+        "campaña":"Performance_Max_Google_258",
+        "plataforma":"Google Ads",
+        "impresiones":172736,
+        "clics":9662,
+        "gasto_clp":1291000,
+        "conversiones":395
+    },
+    {
+        "campaña":"Brand_Awareness_LinkedIn_259",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":35609,
+        "clics":652,
+        "gasto_clp":534000,
+        "conversiones":12
+    },
+    {
+        "campaña":"Promo_Flash_YouTube_260",
+        "plataforma":"YouTube Ads",
+        "impresiones":91555,
+        "clics":1974,
+        "gasto_clp":100000,
+        "conversiones":112
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_261",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":39063,
+        "clics":1301,
+        "gasto_clp":1055000,
+        "conversiones":59
+    },
+    {
+        "campaña":"Performance_Max_YouTube_262",
+        "plataforma":"YouTube Ads",
+        "impresiones":264374,
+        "clics":5275,
+        "gasto_clp":657000,
+        "conversiones":272
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_263",
+        "plataforma":"YouTube Ads",
+        "impresiones":139129,
+        "clics":1456,
+        "gasto_clp":98000,
+        "conversiones":65
+    },
+    {
+        "campaña":"Cyber_Ofertas_Google_264",
+        "plataforma":"Google Ads",
+        "impresiones":176922,
+        "clics":13679,
+        "gasto_clp":2924000,
+        "conversiones":310
+    },
+    {
+        "campaña":"Promo_Flash_Meta_265",
+        "plataforma":"Meta Ads",
+        "impresiones":218376,
+        "clics":9417,
+        "gasto_clp":509000,
+        "conversiones":176
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_266",
+        "plataforma":"Google Ads",
+        "impresiones":84912,
+        "clics":5075,
+        "gasto_clp":895000,
+        "conversiones":186
+    },
+    {
+        "campaña":"Performance_Max_LinkedIn_267",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":28350,
+        "clics":468,
+        "gasto_clp":229000,
+        "conversiones":7
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_268",
+        "plataforma":"Meta Ads",
+        "impresiones":246258,
+        "clics":6935,
+        "gasto_clp":660000,
+        "conversiones":229
+    },
+    {
+        "campaña":"Brand_Awareness_Google_269",
+        "plataforma":"Google Ads",
+        "impresiones":155995,
+        "clics":11757,
+        "gasto_clp":2524000,
+        "conversiones":640
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_270",
+        "plataforma":"YouTube Ads",
+        "impresiones":116408,
+        "clics":1942,
+        "gasto_clp":118000,
+        "conversiones":81
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_271",
+        "plataforma":"YouTube Ads",
+        "impresiones":170327,
+        "clics":3640,
+        "gasto_clp":361000,
+        "conversiones":192
+    },
+    {
+        "campaña":"Instalacion_App_LinkedIn_272",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":69756,
+        "clics":2012,
+        "gasto_clp":1760000,
+        "conversiones":55
+    },
+    {
+        "campaña":"Performance_Max_TikTok_273",
+        "plataforma":"TikTok Ads",
+        "impresiones":273624,
+        "clics":5390,
+        "gasto_clp":560000,
+        "conversiones":94
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_274",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":61617,
+        "clics":972,
+        "gasto_clp":780000,
+        "conversiones":59
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_275",
+        "plataforma":"YouTube Ads",
+        "impresiones":223254,
+        "clics":4093,
+        "gasto_clp":349000,
+        "conversiones":125
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_276",
+        "plataforma":"YouTube Ads",
+        "impresiones":248270,
+        "clics":5079,
+        "gasto_clp":357000,
+        "conversiones":310
+    },
+    {
+        "campaña":"Performance_Max_YouTube_277",
+        "plataforma":"YouTube Ads",
+        "impresiones":121786,
+        "clics":2942,
+        "gasto_clp":251000,
+        "conversiones":170
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_278",
+        "plataforma":"TikTok Ads",
+        "impresiones":367654,
+        "clics":6186,
+        "gasto_clp":553000,
+        "conversiones":292
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_279",
+        "plataforma":"TikTok Ads",
+        "impresiones":169613,
+        "clics":3213,
+        "gasto_clp":207000,
+        "conversiones":67
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_280",
+        "plataforma":"YouTube Ads",
+        "impresiones":290017,
+        "clics":6750,
+        "gasto_clp":608000,
+        "conversiones":250
+    },
+    {
+        "campaña":"Performance_Max_TikTok_281",
+        "plataforma":"TikTok Ads",
+        "impresiones":365654,
+        "clics":4015,
+        "gasto_clp":288000,
+        "conversiones":168
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_282",
+        "plataforma":"Meta Ads",
+        "impresiones":94620,
+        "clics":3770,
+        "gasto_clp":406000,
+        "conversiones":154
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_283",
+        "plataforma":"Google Ads",
+        "impresiones":109273,
+        "clics":8614,
+        "gasto_clp":1193000,
+        "conversiones":328
+    },
+    {
+        "campaña":"LeadGen_B2B_TikTok_284",
+        "plataforma":"TikTok Ads",
+        "impresiones":205341,
+        "clics":2054,
+        "gasto_clp":125000,
+        "conversiones":70
+    },
+    {
+        "campaña":"Brand_Awareness_LinkedIn_285",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":28919,
+        "clics":895,
+        "gasto_clp":849000,
+        "conversiones":29
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_286",
+        "plataforma":"Google Ads",
+        "impresiones":91916,
+        "clics":3389,
+        "gasto_clp":499000,
+        "conversiones":149
+    },
+    {
+        "campaña":"Promo_Flash_Google_287",
+        "plataforma":"Google Ads",
+        "impresiones":113691,
+        "clics":9573,
+        "gasto_clp":1795000,
+        "conversiones":343
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_288",
+        "plataforma":"Google Ads",
+        "impresiones":164502,
+        "clics":10055,
+        "gasto_clp":1835000,
+        "conversiones":152
+    },
+    {
+        "campaña":"Promo_Flash_Meta_289",
+        "plataforma":"Meta Ads",
+        "impresiones":149996,
+        "clics":4595,
+        "gasto_clp":319000,
+        "conversiones":137
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_290",
+        "plataforma":"YouTube Ads",
+        "impresiones":268847,
+        "clics":2760,
+        "gasto_clp":356000,
+        "conversiones":100
+    },
+    {
+        "campaña":"Performance_Max_LinkedIn_291",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":30152,
+        "clics":688,
+        "gasto_clp":352000,
+        "conversiones":43
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_292",
+        "plataforma":"YouTube Ads",
+        "impresiones":147364,
+        "clics":3211,
+        "gasto_clp":169000,
+        "conversiones":115
+    },
+    {
+        "campaña":"Promo_Flash_Google_293",
+        "plataforma":"Google Ads",
+        "impresiones":154343,
+        "clics":12225,
+        "gasto_clp":2006000,
+        "conversiones":735
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_294",
+        "plataforma":"YouTube Ads",
+        "impresiones":291169,
+        "clics":3641,
+        "gasto_clp":471000,
+        "conversiones":96
+    },
+    {
+        "campaña":"Instalacion_App_Meta_295",
+        "plataforma":"Meta Ads",
+        "impresiones":228051,
+        "clics":10293,
+        "gasto_clp":665000,
+        "conversiones":581
+    },
+    {
+        "campaña":"Performance_Max_YouTube_296",
+        "plataforma":"YouTube Ads",
+        "impresiones":419273,
+        "clics":4487,
+        "gasto_clp":348000,
+        "conversiones":75
+    },
+    {
+        "campaña":"LeadGen_B2B_Meta_297",
+        "plataforma":"Meta Ads",
+        "impresiones":226626,
+        "clics":10149,
+        "gasto_clp":1148000,
+        "conversiones":471
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_298",
+        "plataforma":"TikTok Ads",
+        "impresiones":146262,
+        "clics":3401,
+        "gasto_clp":421000,
+        "conversiones":220
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_299",
+        "plataforma":"YouTube Ads",
+        "impresiones":368316,
+        "clics":5120,
+        "gasto_clp":455000,
+        "conversiones":202
+    },
+    {
+        "campaña":"Instalacion_App_LinkedIn_300",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":62319,
+        "clics":2053,
+        "gasto_clp":1400000,
+        "conversiones":94
+    },
+    {
+        "campaña":"Performance_Max_Google_301",
+        "plataforma":"Google Ads",
+        "impresiones":63660,
+        "clics":3937,
+        "gasto_clp":642000,
+        "conversiones":173
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_302",
+        "plataforma":"Google Ads",
+        "impresiones":178746,
+        "clics":14098,
+        "gasto_clp":1652000,
+        "conversiones":302
+    },
+    {
+        "campaña":"Performance_Max_YouTube_303",
+        "plataforma":"YouTube Ads",
+        "impresiones":407304,
+        "clics":4344,
+        "gasto_clp":510000,
+        "conversiones":72
+    },
+    {
+        "campaña":"Promo_Flash_Meta_304",
+        "plataforma":"Meta Ads",
+        "impresiones":86542,
+        "clics":3432,
+        "gasto_clp":315000,
+        "conversiones":66
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_305",
+        "plataforma":"TikTok Ads",
+        "impresiones":105559,
+        "clics":1455,
+        "gasto_clp":66000,
+        "conversiones":72
+    },
+    {
+        "campaña":"Performance_Max_Google_306",
+        "plataforma":"Google Ads",
+        "impresiones":100831,
+        "clics":6029,
+        "gasto_clp":551000,
+        "conversiones":156
+    },
+    {
+        "campaña":"Instalacion_App_Google_307",
+        "plataforma":"Google Ads",
+        "impresiones":164092,
+        "clics":13082,
+        "gasto_clp":2862000,
+        "conversiones":236
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_308",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":24516,
+        "clics":603,
+        "gasto_clp":450000,
+        "conversiones":33
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_309",
+        "plataforma":"YouTube Ads",
+        "impresiones":212663,
+        "clics":4238,
+        "gasto_clp":387000,
+        "conversiones":246
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_310",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":49080,
+        "clics":1598,
+        "gasto_clp":1356000,
+        "conversiones":76
+    },
+    {
+        "campaña":"Promo_Flash_Meta_311",
+        "plataforma":"Meta Ads",
+        "impresiones":236154,
+        "clics":5859,
+        "gasto_clp":430000,
+        "conversiones":157
+    },
+    {
+        "campaña":"Performance_Max_Google_312",
+        "plataforma":"Google Ads",
+        "impresiones":141785,
+        "clics":5712,
+        "gasto_clp":1016000,
+        "conversiones":139
+    },
+    {
+        "campaña":"Cyber_Ofertas_Google_313",
+        "plataforma":"Google Ads",
+        "impresiones":78874,
+        "clics":6551,
+        "gasto_clp":951000,
+        "conversiones":386
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_314",
+        "plataforma":"TikTok Ads",
+        "impresiones":158249,
+        "clics":1888,
+        "gasto_clp":139000,
+        "conversiones":98
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_315",
+        "plataforma":"TikTok Ads",
+        "impresiones":172241,
+        "clics":3835,
+        "gasto_clp":444000,
+        "conversiones":154
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_316",
+        "plataforma":"YouTube Ads",
+        "impresiones":244134,
+        "clics":3148,
+        "gasto_clp":164000,
+        "conversiones":98
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_317",
+        "plataforma":"TikTok Ads",
+        "impresiones":208232,
+        "clics":4055,
+        "gasto_clp":272000,
+        "conversiones":189
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_318",
+        "plataforma":"TikTok Ads",
+        "impresiones":373719,
+        "clics":8326,
+        "gasto_clp":466000,
+        "conversiones":242
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_319",
+        "plataforma":"TikTok Ads",
+        "impresiones":109257,
+        "clics":1800,
+        "gasto_clp":210000,
+        "conversiones":62
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_320",
+        "plataforma":"YouTube Ads",
+        "impresiones":311758,
+        "clics":7476,
+        "gasto_clp":402000,
+        "conversiones":462
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_321",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":33271,
+        "clics":1012,
+        "gasto_clp":935000,
+        "conversiones":23
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_322",
+        "plataforma":"TikTok Ads",
+        "impresiones":406032,
+        "clics":7606,
+        "gasto_clp":566000,
+        "conversiones":350
+    },
+    {
+        "campaña":"Cyber_Ofertas_Meta_323",
+        "plataforma":"Meta Ads",
+        "impresiones":154682,
+        "clics":7049,
+        "gasto_clp":910000,
+        "conversiones":344
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_324",
+        "plataforma":"Meta Ads",
+        "impresiones":192267,
+        "clics":8169,
+        "gasto_clp":458000,
+        "conversiones":432
+    },
+    {
+        "campaña":"Cyber_Ofertas_Google_325",
+        "plataforma":"Google Ads",
+        "impresiones":87372,
+        "clics":3154,
+        "gasto_clp":395000,
+        "conversiones":124
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_326",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":42570,
+        "clics":853,
+        "gasto_clp":384000,
+        "conversiones":19
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_327",
+        "plataforma":"Google Ads",
+        "impresiones":174097,
+        "clics":14773,
+        "gasto_clp":2063000,
+        "conversiones":555
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_328",
+        "plataforma":"YouTube Ads",
+        "impresiones":293030,
+        "clics":5246,
+        "gasto_clp":604000,
+        "conversiones":156
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_329",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":65975,
+        "clics":1098,
+        "gasto_clp":868000,
+        "conversiones":52
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_330",
+        "plataforma":"YouTube Ads",
+        "impresiones":364186,
+        "clics":8383,
+        "gasto_clp":1064000,
+        "conversiones":138
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_331",
+        "plataforma":"TikTok Ads",
+        "impresiones":375900,
+        "clics":9079,
+        "gasto_clp":732000,
+        "conversiones":426
+    },
+    {
+        "campaña":"Instalacion_App_LinkedIn_332",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":63901,
+        "clics":1929,
+        "gasto_clp":1295000,
+        "conversiones":59
+    },
+    {
+        "campaña":"Retargeting_Carro_Meta_333",
+        "plataforma":"Meta Ads",
+        "impresiones":52857,
+        "clics":2474,
+        "gasto_clp":160000,
+        "conversiones":63
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_334",
+        "plataforma":"TikTok Ads",
+        "impresiones":106431,
+        "clics":2450,
+        "gasto_clp":259000,
+        "conversiones":105
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_335",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":38019,
+        "clics":930,
+        "gasto_clp":869000,
+        "conversiones":22
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_336",
+        "plataforma":"TikTok Ads",
+        "impresiones":285390,
+        "clics":4796,
+        "gasto_clp":432000,
+        "conversiones":76
+    },
+    {
+        "campaña":"Promo_Flash_YouTube_337",
+        "plataforma":"YouTube Ads",
+        "impresiones":272860,
+        "clics":3265,
+        "gasto_clp":156000,
+        "conversiones":199
+    },
+    {
+        "campaña":"Brand_Awareness_Google_338",
+        "plataforma":"Google Ads",
+        "impresiones":82098,
+        "clics":3634,
+        "gasto_clp":526000,
+        "conversiones":54
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_339",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":26536,
+        "clics":720,
+        "gasto_clp":413000,
+        "conversiones":30
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_340",
+        "plataforma":"Meta Ads",
+        "impresiones":105455,
+        "clics":3664,
+        "gasto_clp":185000,
+        "conversiones":161
+    },
+    {
+        "campaña":"Brand_Awareness_LinkedIn_341",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":64268,
+        "clics":1722,
+        "gasto_clp":1148000,
+        "conversiones":110
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_342",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":51935,
+        "clics":1261,
+        "gasto_clp":996000,
+        "conversiones":43
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_343",
+        "plataforma":"TikTok Ads",
+        "impresiones":273118,
+        "clics":5688,
+        "gasto_clp":574000,
+        "conversiones":300
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_344",
+        "plataforma":"YouTube Ads",
+        "impresiones":131195,
+        "clics":2846,
+        "gasto_clp":138000,
+        "conversiones":111
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_345",
+        "plataforma":"Meta Ads",
+        "impresiones":86167,
+        "clics":2100,
+        "gasto_clp":113000,
+        "conversiones":91
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_346",
+        "plataforma":"TikTok Ads",
+        "impresiones":325198,
+        "clics":5685,
+        "gasto_clp":555000,
+        "conversiones":284
+    },
+    {
+        "campaña":"Performance_Max_YouTube_347",
+        "plataforma":"YouTube Ads",
+        "impresiones":416585,
+        "clics":9013,
+        "gasto_clp":1127000,
+        "conversiones":167
+    },
+    {
+        "campaña":"Promo_Flash_Meta_348",
+        "plataforma":"Meta Ads",
+        "impresiones":46368,
+        "clics":1049,
+        "gasto_clp":78000,
+        "conversiones":17
+    },
+    {
+        "campaña":"Performance_Max_TikTok_349",
+        "plataforma":"TikTok Ads",
+        "impresiones":136985,
+        "clics":2185,
+        "gasto_clp":123000,
+        "conversiones":94
+    },
+    {
+        "campaña":"Promo_Flash_Google_350",
+        "plataforma":"Google Ads",
+        "impresiones":80861,
+        "clics":5632,
+        "gasto_clp":1098000,
+        "conversiones":96
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_351",
+        "plataforma":"Google Ads",
+        "impresiones":92768,
+        "clics":7660,
+        "gasto_clp":746000,
+        "conversiones":458
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_352",
+        "plataforma":"TikTok Ads",
+        "impresiones":295048,
+        "clics":7093,
+        "gasto_clp":351000,
+        "conversiones":298
+    },
+    {
+        "campaña":"Performance_Max_LinkedIn_353",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":40291,
+        "clics":1306,
+        "gasto_clp":1054000,
+        "conversiones":71
+    },
+    {
+        "campaña":"Promo_Flash_YouTube_354",
+        "plataforma":"YouTube Ads",
+        "impresiones":403694,
+        "clics":8971,
+        "gasto_clp":465000,
+        "conversiones":535
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_355",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":15899,
+        "clics":428,
+        "gasto_clp":360000,
+        "conversiones":16
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_356",
+        "plataforma":"TikTok Ads",
+        "impresiones":232360,
+        "clics":2895,
+        "gasto_clp":238000,
+        "conversiones":148
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_357",
+        "plataforma":"Meta Ads",
+        "impresiones":112715,
+        "clics":3089,
+        "gasto_clp":181000,
+        "conversiones":180
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_358",
+        "plataforma":"YouTube Ads",
+        "impresiones":242962,
+        "clics":5986,
+        "gasto_clp":441000,
+        "conversiones":144
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_359",
+        "plataforma":"YouTube Ads",
+        "impresiones":190198,
+        "clics":3139,
+        "gasto_clp":153000,
+        "conversiones":72
+    },
+    {
+        "campaña":"Promo_Flash_LinkedIn_360",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":25181,
+        "clics":739,
+        "gasto_clp":417000,
+        "conversiones":47
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_361",
+        "plataforma":"TikTok Ads",
+        "impresiones":345064,
+        "clics":6003,
+        "gasto_clp":312000,
+        "conversiones":211
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_362",
+        "plataforma":"YouTube Ads",
+        "impresiones":315612,
+        "clics":5136,
+        "gasto_clp":320000,
+        "conversiones":292
+    },
+    {
+        "campaña":"Performance_Max_Google_363",
+        "plataforma":"Google Ads",
+        "impresiones":142340,
+        "clics":10157,
+        "gasto_clp":1869000,
+        "conversiones":368
+    },
+    {
+        "campaña":"LeadGen_B2B_Google_364",
+        "plataforma":"Google Ads",
+        "impresiones":55963,
+        "clics":4106,
+        "gasto_clp":619000,
+        "conversiones":173
+    },
+    {
+        "campaña":"LeadGen_B2B_TikTok_365",
+        "plataforma":"TikTok Ads",
+        "impresiones":422962,
+        "clics":7900,
+        "gasto_clp":650000,
+        "conversiones":404
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_366",
+        "plataforma":"TikTok Ads",
+        "impresiones":123585,
+        "clics":2343,
+        "gasto_clp":263000,
+        "conversiones":111
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_367",
+        "plataforma":"TikTok Ads",
+        "impresiones":371570,
+        "clics":7017,
+        "gasto_clp":860000,
+        "conversiones":179
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_368",
+        "plataforma":"Meta Ads",
+        "impresiones":219436,
+        "clics":7455,
+        "gasto_clp":865000,
+        "conversiones":199
+    },
+    {
+        "campaña":"Brand_Awareness_Google_369",
+        "plataforma":"Google Ads",
+        "impresiones":49975,
+        "clics":2761,
+        "gasto_clp":454000,
+        "conversiones":128
+    },
+    {
+        "campaña":"Promo_Flash_Google_370",
+        "plataforma":"Google Ads",
+        "impresiones":118397,
+        "clics":7178,
+        "gasto_clp":989000,
+        "conversiones":132
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_371",
+        "plataforma":"YouTube Ads",
+        "impresiones":215720,
+        "clics":2957,
+        "gasto_clp":352000,
+        "conversiones":110
+    },
+    {
+        "campaña":"Performance_Max_Google_372",
+        "plataforma":"Google Ads",
+        "impresiones":65046,
+        "clics":3444,
+        "gasto_clp":561000,
+        "conversiones":79
+    },
+    {
+        "campaña":"Performance_Max_YouTube_373",
+        "plataforma":"YouTube Ads",
+        "impresiones":141272,
+        "clics":3466,
+        "gasto_clp":232000,
+        "conversiones":165
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_374",
+        "plataforma":"Meta Ads",
+        "impresiones":184832,
+        "clics":7985,
+        "gasto_clp":448000,
+        "conversiones":506
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_375",
+        "plataforma":"TikTok Ads",
+        "impresiones":312750,
+        "clics":4228,
+        "gasto_clp":508000,
+        "conversiones":156
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_376",
+        "plataforma":"YouTube Ads",
+        "impresiones":418511,
+        "clics":7448,
+        "gasto_clp":549000,
+        "conversiones":420
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_377",
+        "plataforma":"TikTok Ads",
+        "impresiones":325011,
+        "clics":6116,
+        "gasto_clp":768000,
+        "conversiones":168
+    },
+    {
+        "campaña":"Performance_Max_TikTok_378",
+        "plataforma":"TikTok Ads",
+        "impresiones":151635,
+        "clics":2379,
+        "gasto_clp":230000,
+        "conversiones":78
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_379",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":30563,
+        "clics":748,
+        "gasto_clp":652000,
+        "conversiones":41
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_380",
+        "plataforma":"TikTok Ads",
+        "impresiones":196891,
+        "clics":4521,
+        "gasto_clp":418000,
+        "conversiones":189
+    },
+    {
+        "campaña":"LeadGen_B2B_LinkedIn_381",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":49707,
+        "clics":1013,
+        "gasto_clp":485000,
+        "conversiones":42
+    },
+    {
+        "campaña":"Performance_Max_TikTok_382",
+        "plataforma":"TikTok Ads",
+        "impresiones":433299,
+        "clics":4668,
+        "gasto_clp":464000,
+        "conversiones":122
+    },
+    {
+        "campaña":"Google_Search_Marca_TikTok_383",
+        "plataforma":"TikTok Ads",
+        "impresiones":418404,
+        "clics":10045,
+        "gasto_clp":722000,
+        "conversiones":405
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_384",
+        "plataforma":"TikTok Ads",
+        "impresiones":376141,
+        "clics":7644,
+        "gasto_clp":602000,
+        "conversiones":298
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_385",
+        "plataforma":"Meta Ads",
+        "impresiones":236733,
+        "clics":11494,
+        "gasto_clp":1142000,
+        "conversiones":671
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_386",
+        "plataforma":"TikTok Ads",
+        "impresiones":200030,
+        "clics":2763,
+        "gasto_clp":247000,
+        "conversiones":88
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_387",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":28605,
+        "clics":508,
+        "gasto_clp":236000,
+        "conversiones":15
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_388",
+        "plataforma":"Google Ads",
+        "impresiones":158335,
+        "clics":12982,
+        "gasto_clp":2371000,
+        "conversiones":300
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_389",
+        "plataforma":"YouTube Ads",
+        "impresiones":203008,
+        "clics":4255,
+        "gasto_clp":248000,
+        "conversiones":113
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_390",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":60141,
+        "clics":1209,
+        "gasto_clp":944000,
+        "conversiones":77
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_391",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":37473,
+        "clics":575,
+        "gasto_clp":329000,
+        "conversiones":32
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_392",
+        "plataforma":"Meta Ads",
+        "impresiones":236910,
+        "clics":8793,
+        "gasto_clp":418000,
+        "conversiones":541
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_393",
+        "plataforma":"TikTok Ads",
+        "impresiones":396205,
+        "clics":9421,
+        "gasto_clp":905000,
+        "conversiones":584
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_394",
+        "plataforma":"TikTok Ads",
+        "impresiones":323341,
+        "clics":5143,
+        "gasto_clp":516000,
+        "conversiones":104
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_395",
+        "plataforma":"TikTok Ads",
+        "impresiones":116059,
+        "clics":1437,
+        "gasto_clp":139000,
+        "conversiones":44
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_396",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":22848,
+        "clics":796,
+        "gasto_clp":658000,
+        "conversiones":15
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_397",
+        "plataforma":"TikTok Ads",
+        "impresiones":277096,
+        "clics":3224,
+        "gasto_clp":323000,
+        "conversiones":171
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_398",
+        "plataforma":"Meta Ads",
+        "impresiones":107203,
+        "clics":4291,
+        "gasto_clp":488000,
+        "conversiones":227
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_399",
+        "plataforma":"TikTok Ads",
+        "impresiones":441448,
+        "clics":6514,
+        "gasto_clp":774000,
+        "conversiones":220
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_400",
+        "plataforma":"YouTube Ads",
+        "impresiones":318389,
+        "clics":6283,
+        "gasto_clp":458000,
+        "conversiones":292
+    },
+    {
+        "campaña":"Instalacion_App_Meta_401",
+        "plataforma":"Meta Ads",
+        "impresiones":166969,
+        "clics":5323,
+        "gasto_clp":554000,
+        "conversiones":183
+    },
+    {
+        "campaña":"Performance_Max_TikTok_402",
+        "plataforma":"TikTok Ads",
+        "impresiones":446040,
+        "clics":8451,
+        "gasto_clp":772000,
+        "conversiones":314
+    },
+    {
+        "campaña":"Performance_Max_YouTube_403",
+        "plataforma":"YouTube Ads",
+        "impresiones":159973,
+        "clics":1775,
+        "gasto_clp":171000,
+        "conversiones":85
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_404",
+        "plataforma":"TikTok Ads",
+        "impresiones":367681,
+        "clics":6233,
+        "gasto_clp":482000,
+        "conversiones":362
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_405",
+        "plataforma":"Meta Ads",
+        "impresiones":206703,
+        "clics":9387,
+        "gasto_clp":1152000,
+        "conversiones":522
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_406",
+        "plataforma":"YouTube Ads",
+        "impresiones":215832,
+        "clics":3389,
+        "gasto_clp":267000,
+        "conversiones":149
+    },
+    {
+        "campaña":"Promo_Flash_Meta_407",
+        "plataforma":"Meta Ads",
+        "impresiones":182635,
+        "clics":6264,
+        "gasto_clp":492000,
+        "conversiones":266
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_408",
+        "plataforma":"YouTube Ads",
+        "impresiones":292781,
+        "clics":6081,
+        "gasto_clp":768000,
+        "conversiones":96
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_409",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":48174,
+        "clics":1137,
+        "gasto_clp":1021000,
+        "conversiones":21
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_410",
+        "plataforma":"Google Ads",
+        "impresiones":69310,
+        "clics":3269,
+        "gasto_clp":686000,
+        "conversiones":58
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_411",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":28076,
+        "clics":690,
+        "gasto_clp":378000,
+        "conversiones":16
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_412",
+        "plataforma":"Meta Ads",
+        "impresiones":221187,
+        "clics":6127,
+        "gasto_clp":424000,
+        "conversiones":186
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_413",
+        "plataforma":"Meta Ads",
+        "impresiones":243502,
+        "clics":8758,
+        "gasto_clp":827000,
+        "conversiones":170
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_414",
+        "plataforma":"YouTube Ads",
+        "impresiones":92289,
+        "clics":1300,
+        "gasto_clp":104000,
+        "conversiones":27
+    },
+    {
+        "campaña":"Instalacion_App_LinkedIn_415",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":67682,
+        "clics":1182,
+        "gasto_clp":1040000,
+        "conversiones":64
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_416",
+        "plataforma":"Google Ads",
+        "impresiones":93646,
+        "clics":6597,
+        "gasto_clp":626000,
+        "conversiones":286
+    },
+    {
+        "campaña":"Performance_Max_YouTube_417",
+        "plataforma":"YouTube Ads",
+        "impresiones":199735,
+        "clics":4882,
+        "gasto_clp":420000,
+        "conversiones":269
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_418",
+        "plataforma":"YouTube Ads",
+        "impresiones":318976,
+        "clics":4976,
+        "gasto_clp":447000,
+        "conversiones":102
+    },
+    {
+        "campaña":"Promo_Flash_LinkedIn_419",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":37668,
+        "clics":1018,
+        "gasto_clp":875000,
+        "conversiones":60
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_420",
+        "plataforma":"TikTok Ads",
+        "impresiones":305160,
+        "clics":6684,
+        "gasto_clp":668000,
+        "conversiones":158
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_421",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":53520,
+        "clics":1701,
+        "gasto_clp":1531000,
+        "conversiones":55
+    },
+    {
+        "campaña":"Brand_Awareness_LinkedIn_422",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":50993,
+        "clics":1025,
+        "gasto_clp":616000,
+        "conversiones":52
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_423",
+        "plataforma":"Google Ads",
+        "impresiones":168299,
+        "clics":11540,
+        "gasto_clp":2231000,
+        "conversiones":615
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_424",
+        "plataforma":"TikTok Ads",
+        "impresiones":276553,
+        "clics":4639,
+        "gasto_clp":440000,
+        "conversiones":108
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_425",
+        "plataforma":"Google Ads",
+        "impresiones":47633,
+        "clics":2793,
+        "gasto_clp":433000,
+        "conversiones":66
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_426",
+        "plataforma":"Google Ads",
+        "impresiones":98388,
+        "clics":6601,
+        "gasto_clp":1089000,
+        "conversiones":279
+    },
+    {
+        "campaña":"Retargeting_Carro_Meta_427",
+        "plataforma":"Meta Ads",
+        "impresiones":97993,
+        "clics":2715,
+        "gasto_clp":268000,
+        "conversiones":48
+    },
+    {
+        "campaña":"Promo_Flash_Meta_428",
+        "plataforma":"Meta Ads",
+        "impresiones":57727,
+        "clics":1390,
+        "gasto_clp":145000,
+        "conversiones":48
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_429",
+        "plataforma":"YouTube Ads",
+        "impresiones":374054,
+        "clics":7805,
+        "gasto_clp":362000,
+        "conversiones":250
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_430",
+        "plataforma":"YouTube Ads",
+        "impresiones":380611,
+        "clics":7941,
+        "gasto_clp":748000,
+        "conversiones":227
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_431",
+        "plataforma":"Meta Ads",
+        "impresiones":94253,
+        "clics":2634,
+        "gasto_clp":263000,
+        "conversiones":117
+    },
+    {
+        "campaña":"Google_Search_Marca_TikTok_432",
+        "plataforma":"TikTok Ads",
+        "impresiones":358600,
+        "clics":5325,
+        "gasto_clp":342000,
+        "conversiones":174
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_433",
+        "plataforma":"YouTube Ads",
+        "impresiones":196492,
+        "clics":3494,
+        "gasto_clp":177000,
+        "conversiones":192
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_434",
+        "plataforma":"Google Ads",
+        "impresiones":66378,
+        "clics":4447,
+        "gasto_clp":525000,
+        "conversiones":198
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_435",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":23258,
+        "clics":596,
+        "gasto_clp":365000,
+        "conversiones":18
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_436",
+        "plataforma":"YouTube Ads",
+        "impresiones":309189,
+        "clics":3334,
+        "gasto_clp":257000,
+        "conversiones":110
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_437",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":68026,
+        "clics":2014,
+        "gasto_clp":1375000,
+        "conversiones":36
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_438",
+        "plataforma":"Google Ads",
+        "impresiones":125673,
+        "clics":10415,
+        "gasto_clp":1089000,
+        "conversiones":515
+    },
+    {
+        "campaña":"Brand_Awareness_Google_439",
+        "plataforma":"Google Ads",
+        "impresiones":55592,
+        "clics":2419,
+        "gasto_clp":332000,
+        "conversiones":87
+    },
+    {
+        "campaña":"Retargeting_Carro_Meta_440",
+        "plataforma":"Meta Ads",
+        "impresiones":164982,
+        "clics":7042,
+        "gasto_clp":525000,
+        "conversiones":339
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_441",
+        "plataforma":"TikTok Ads",
+        "impresiones":250963,
+        "clics":4297,
+        "gasto_clp":333000,
+        "conversiones":90
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_442",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":63231,
+        "clics":973,
+        "gasto_clp":796000,
+        "conversiones":51
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_443",
+        "plataforma":"YouTube Ads",
+        "impresiones":98752,
+        "clics":2234,
+        "gasto_clp":199000,
+        "conversiones":103
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_444",
+        "plataforma":"YouTube Ads",
+        "impresiones":136273,
+        "clics":2973,
+        "gasto_clp":352000,
+        "conversiones":135
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_445",
+        "plataforma":"YouTube Ads",
+        "impresiones":90699,
+        "clics":1970,
+        "gasto_clp":207000,
+        "conversiones":33
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_446",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":68728,
+        "clics":1343,
+        "gasto_clp":834000,
+        "conversiones":45
+    },
+    {
+        "campaña":"Performance_Max_YouTube_447",
+        "plataforma":"YouTube Ads",
+        "impresiones":115585,
+        "clics":2780,
+        "gasto_clp":256000,
+        "conversiones":84
+    },
+    {
+        "campaña":"Instalacion_App_Meta_448",
+        "plataforma":"Meta Ads",
+        "impresiones":78067,
+        "clics":2216,
+        "gasto_clp":277000,
+        "conversiones":130
+    },
+    {
+        "campaña":"Promo_Flash_Meta_449",
+        "plataforma":"Meta Ads",
+        "impresiones":130373,
+        "clics":6203,
+        "gasto_clp":541000,
+        "conversiones":400
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_450",
+        "plataforma":"TikTok Ads",
+        "impresiones":301427,
+        "clics":3957,
+        "gasto_clp":491000,
+        "conversiones":82
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_451",
+        "plataforma":"TikTok Ads",
+        "impresiones":367313,
+        "clics":7132,
+        "gasto_clp":730000,
+        "conversiones":296
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_452",
+        "plataforma":"Meta Ads",
+        "impresiones":244237,
+        "clics":10789,
+        "gasto_clp":1210000,
+        "conversiones":326
+    },
+    {
+        "campaña":"Instalacion_App_LinkedIn_453",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":23264,
+        "clics":499,
+        "gasto_clp":230000,
+        "conversiones":11
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_454",
+        "plataforma":"Meta Ads",
+        "impresiones":223202,
+        "clics":6781,
+        "gasto_clp":867000,
+        "conversiones":319
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_455",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":20656,
+        "clics":547,
+        "gasto_clp":377000,
+        "conversiones":16
+    },
+    {
+        "campaña":"Performance_Max_Google_456",
+        "plataforma":"Google Ads",
+        "impresiones":35901,
+        "clics":1506,
+        "gasto_clp":310000,
+        "conversiones":85
+    },
+    {
+        "campaña":"Performance_Max_LinkedIn_457",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":63563,
+        "clics":1592,
+        "gasto_clp":1034000,
+        "conversiones":35
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_458",
+        "plataforma":"TikTok Ads",
+        "impresiones":328289,
+        "clics":3618,
+        "gasto_clp":171000,
+        "conversiones":78
+    },
+    {
+        "campaña":"Promo_Flash_LinkedIn_459",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":61659,
+        "clics":1023,
+        "gasto_clp":858000,
+        "conversiones":21
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_460",
+        "plataforma":"YouTube Ads",
+        "impresiones":305371,
+        "clics":4482,
+        "gasto_clp":395000,
+        "conversiones":165
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_461",
+        "plataforma":"YouTube Ads",
+        "impresiones":397243,
+        "clics":9045,
+        "gasto_clp":407000,
+        "conversiones":143
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_462",
+        "plataforma":"YouTube Ads",
+        "impresiones":140545,
+        "clics":2776,
+        "gasto_clp":161000,
+        "conversiones":50
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_463",
+        "plataforma":"TikTok Ads",
+        "impresiones":122913,
+        "clics":2076,
+        "gasto_clp":104000,
+        "conversiones":134
+    },
+    {
+        "campaña":"LeadGen_B2B_Google_464",
+        "plataforma":"Google Ads",
+        "impresiones":149863,
+        "clics":7473,
+        "gasto_clp":1048000,
+        "conversiones":175
+    },
+    {
+        "campaña":"Performance_Max_YouTube_465",
+        "plataforma":"YouTube Ads",
+        "impresiones":272660,
+        "clics":3223,
+        "gasto_clp":228000,
+        "conversiones":64
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_466",
+        "plataforma":"TikTok Ads",
+        "impresiones":177359,
+        "clics":3613,
+        "gasto_clp":352000,
+        "conversiones":168
+    },
+    {
+        "campaña":"Cyber_Ofertas_LinkedIn_467",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":69823,
+        "clics":2184,
+        "gasto_clp":1655000,
+        "conversiones":66
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_468",
+        "plataforma":"YouTube Ads",
+        "impresiones":440867,
+        "clics":7893,
+        "gasto_clp":641000,
+        "conversiones":169
+    },
+    {
+        "campaña":"Google_Search_Marca_TikTok_469",
+        "plataforma":"TikTok Ads",
+        "impresiones":112371,
+        "clics":1806,
+        "gasto_clp":182000,
+        "conversiones":59
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_470",
+        "plataforma":"TikTok Ads",
+        "impresiones":368859,
+        "clics":6353,
+        "gasto_clp":381000,
+        "conversiones":218
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_471",
+        "plataforma":"YouTube Ads",
+        "impresiones":411396,
+        "clics":4182,
+        "gasto_clp":336000,
+        "conversiones":163
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_472",
+        "plataforma":"Meta Ads",
+        "impresiones":156981,
+        "clics":6861,
+        "gasto_clp":648000,
+        "conversiones":336
+    },
+    {
+        "campaña":"Promo_Flash_YouTube_473",
+        "plataforma":"YouTube Ads",
+        "impresiones":216614,
+        "clics":4177,
+        "gasto_clp":303000,
+        "conversiones":236
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_474",
+        "plataforma":"Meta Ads",
+        "impresiones":153132,
+        "clics":7545,
+        "gasto_clp":854000,
+        "conversiones":475
+    },
+    {
+        "campaña":"LeadGen_B2B_LinkedIn_475",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":15163,
+        "clics":340,
+        "gasto_clp":198000,
+        "conversiones":16
+    },
+    {
+        "campaña":"Performance_Max_LinkedIn_476",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":37420,
+        "clics":1193,
+        "gasto_clp":595000,
+        "conversiones":47
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_477",
+        "plataforma":"YouTube Ads",
+        "impresiones":184131,
+        "clics":4229,
+        "gasto_clp":278000,
+        "conversiones":201
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_478",
+        "plataforma":"Google Ads",
+        "impresiones":102930,
+        "clics":5537,
+        "gasto_clp":749000,
+        "conversiones":210
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_479",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":58404,
+        "clics":1031,
+        "gasto_clp":517000,
+        "conversiones":49
+    },
+    {
+        "campaña":"Performance_Max_TikTok_480",
+        "plataforma":"TikTok Ads",
+        "impresiones":432680,
+        "clics":8792,
+        "gasto_clp":723000,
+        "conversiones":243
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_481",
+        "plataforma":"YouTube Ads",
+        "impresiones":300169,
+        "clics":7190,
+        "gasto_clp":478000,
+        "conversiones":388
+    },
+    {
+        "campaña":"Instalacion_App_Meta_482",
+        "plataforma":"Meta Ads",
+        "impresiones":167734,
+        "clics":6672,
+        "gasto_clp":808000,
+        "conversiones":312
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_483",
+        "plataforma":"Google Ads",
+        "impresiones":37099,
+        "clics":2134,
+        "gasto_clp":434000,
+        "conversiones":43
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_484",
+        "plataforma":"TikTok Ads",
+        "impresiones":143936,
+        "clics":2396,
+        "gasto_clp":118000,
+        "conversiones":40
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_485",
+        "plataforma":"Meta Ads",
+        "impresiones":103530,
+        "clics":4117,
+        "gasto_clp":466000,
+        "conversiones":83
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_486",
+        "plataforma":"YouTube Ads",
+        "impresiones":287888,
+        "clics":7009,
+        "gasto_clp":755000,
+        "conversiones":228
+    },
+    {
+        "campaña":"Brand_Awareness_Google_487",
+        "plataforma":"Google Ads",
+        "impresiones":145053,
+        "clics":12268,
+        "gasto_clp":2649000,
+        "conversiones":762
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_488",
+        "plataforma":"YouTube Ads",
+        "impresiones":205426,
+        "clics":2624,
+        "gasto_clp":157000,
+        "conversiones":52
+    },
+    {
+        "campaña":"Performance_Max_Google_489",
+        "plataforma":"Google Ads",
+        "impresiones":134797,
+        "clics":10315,
+        "gasto_clp":924000,
+        "conversiones":373
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_490",
+        "plataforma":"TikTok Ads",
+        "impresiones":158815,
+        "clics":2814,
+        "gasto_clp":342000,
+        "conversiones":152
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_491",
+        "plataforma":"TikTok Ads",
+        "impresiones":334311,
+        "clics":6475,
+        "gasto_clp":502000,
+        "conversiones":163
+    },
+    {
+        "campaña":"Performance_Max_YouTube_492",
+        "plataforma":"YouTube Ads",
+        "impresiones":288432,
+        "clics":3989,
+        "gasto_clp":268000,
+        "conversiones":73
+    },
+    {
+        "campaña":"Performance_Max_Google_493",
+        "plataforma":"Google Ads",
+        "impresiones":153257,
+        "clics":9028,
+        "gasto_clp":1854000,
+        "conversiones":280
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_494",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":35131,
+        "clics":732,
+        "gasto_clp":688000,
+        "conversiones":33
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_495",
+        "plataforma":"YouTube Ads",
+        "impresiones":188212,
+        "clics":4480,
+        "gasto_clp":400000,
+        "conversiones":205
+    },
+    {
+        "campaña":"Trafico_Catalogo_LinkedIn_496",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":44921,
+        "clics":788,
+        "gasto_clp":488000,
+        "conversiones":48
+    },
+    {
+        "campaña":"Brand_Awareness_Google_497",
+        "plataforma":"Google Ads",
+        "impresiones":56806,
+        "clics":2258,
+        "gasto_clp":299000,
+        "conversiones":95
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_498",
+        "plataforma":"TikTok Ads",
+        "impresiones":185432,
+        "clics":2309,
+        "gasto_clp":158000,
+        "conversiones":141
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_499",
+        "plataforma":"TikTok Ads",
+        "impresiones":419115,
+        "clics":5432,
+        "gasto_clp":654000,
+        "conversiones":256
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_500",
+        "plataforma":"TikTok Ads",
+        "impresiones":157794,
+        "clics":3167,
+        "gasto_clp":228000,
+        "conversiones":186
+    },
+    {
+        "campaña":"Google_Search_Marca_TikTok_501",
+        "plataforma":"TikTok Ads",
+        "impresiones":117643,
+        "clics":2798,
+        "gasto_clp":186000,
+        "conversiones":147
+    },
+    {
+        "campaña":"Instalacion_App_LinkedIn_502",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":30997,
+        "clics":986,
+        "gasto_clp":803000,
+        "conversiones":53
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_503",
+        "plataforma":"YouTube Ads",
+        "impresiones":225643,
+        "clics":2438,
+        "gasto_clp":176000,
+        "conversiones":128
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_504",
+        "plataforma":"YouTube Ads",
+        "impresiones":269784,
+        "clics":6491,
+        "gasto_clp":316000,
+        "conversiones":150
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_505",
+        "plataforma":"YouTube Ads",
+        "impresiones":144028,
+        "clics":2920,
+        "gasto_clp":154000,
+        "conversiones":184
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_506",
+        "plataforma":"TikTok Ads",
+        "impresiones":257558,
+        "clics":5823,
+        "gasto_clp":625000,
+        "conversiones":245
+    },
+    {
+        "campaña":"Promo_Flash_LinkedIn_507",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":16724,
+        "clics":499,
+        "gasto_clp":377000,
+        "conversiones":10
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_508",
+        "plataforma":"YouTube Ads",
+        "impresiones":424086,
+        "clics":8623,
+        "gasto_clp":1028000,
+        "conversiones":403
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_509",
+        "plataforma":"Google Ads",
+        "impresiones":86447,
+        "clics":4900,
+        "gasto_clp":502000,
+        "conversiones":210
+    },
+    {
+        "campaña":"Promo_Flash_LinkedIn_510",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":37656,
+        "clics":1123,
+        "gasto_clp":1000000,
+        "conversiones":32
+    },
+    {
+        "campaña":"Promo_Flash_Google_511",
+        "plataforma":"Google Ads",
+        "impresiones":51727,
+        "clics":4085,
+        "gasto_clp":703000,
+        "conversiones":124
+    },
+    {
+        "campaña":"LeadGen_B2B_Meta_512",
+        "plataforma":"Meta Ads",
+        "impresiones":205268,
+        "clics":8619,
+        "gasto_clp":839000,
+        "conversiones":210
+    },
+    {
+        "campaña":"Promo_Flash_YouTube_513",
+        "plataforma":"YouTube Ads",
+        "impresiones":242728,
+        "clics":3793,
+        "gasto_clp":344000,
+        "conversiones":156
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_514",
+        "plataforma":"YouTube Ads",
+        "impresiones":188777,
+        "clics":4042,
+        "gasto_clp":194000,
+        "conversiones":211
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_515",
+        "plataforma":"YouTube Ads",
+        "impresiones":225016,
+        "clics":5483,
+        "gasto_clp":418000,
+        "conversiones":171
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_516",
+        "plataforma":"Google Ads",
+        "impresiones":130082,
+        "clics":10029,
+        "gasto_clp":1463000,
+        "conversiones":402
+    },
+    {
+        "campaña":"LeadGen_B2B_LinkedIn_517",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":32081,
+        "clics":717,
+        "gasto_clp":483000,
+        "conversiones":36
+    },
+    {
+        "campaña":"Performance_Max_Meta_518",
+        "plataforma":"Meta Ads",
+        "impresiones":153175,
+        "clics":4061,
+        "gasto_clp":230000,
+        "conversiones":195
+    },
+    {
+        "campaña":"Trafico_Catalogo_Meta_519",
+        "plataforma":"Meta Ads",
+        "impresiones":249717,
+        "clics":10205,
+        "gasto_clp":462000,
+        "conversiones":469
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_520",
+        "plataforma":"YouTube Ads",
+        "impresiones":184195,
+        "clics":2342,
+        "gasto_clp":183000,
+        "conversiones":82
+    },
+    {
+        "campaña":"Promo_Flash_Google_521",
+        "plataforma":"Google Ads",
+        "impresiones":98099,
+        "clics":5935,
+        "gasto_clp":1076000,
+        "conversiones":119
+    },
+    {
+        "campaña":"Brand_Awareness_Google_522",
+        "plataforma":"Google Ads",
+        "impresiones":125286,
+        "clics":8788,
+        "gasto_clp":768000,
+        "conversiones":345
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_523",
+        "plataforma":"YouTube Ads",
+        "impresiones":96029,
+        "clics":2119,
+        "gasto_clp":144000,
+        "conversiones":119
+    },
+    {
+        "campaña":"Instalacion_App_TikTok_524",
+        "plataforma":"TikTok Ads",
+        "impresiones":148926,
+        "clics":1661,
+        "gasto_clp":83000,
+        "conversiones":52
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_525",
+        "plataforma":"YouTube Ads",
+        "impresiones":232889,
+        "clics":4801,
+        "gasto_clp":538000,
+        "conversiones":196
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_526",
+        "plataforma":"TikTok Ads",
+        "impresiones":137775,
+        "clics":2149,
+        "gasto_clp":119000,
+        "conversiones":111
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_527",
+        "plataforma":"YouTube Ads",
+        "impresiones":156256,
+        "clics":1770,
+        "gasto_clp":113000,
+        "conversiones":79
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_528",
+        "plataforma":"YouTube Ads",
+        "impresiones":369530,
+        "clics":7944,
+        "gasto_clp":853000,
+        "conversiones":238
+    },
+    {
+        "campaña":"Instalacion_App_Meta_529",
+        "plataforma":"Meta Ads",
+        "impresiones":117984,
+        "clics":3850,
+        "gasto_clp":381000,
+        "conversiones":208
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Meta_530",
+        "plataforma":"Meta Ads",
+        "impresiones":201326,
+        "clics":9098,
+        "gasto_clp":706000,
+        "conversiones":396
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_531",
+        "plataforma":"TikTok Ads",
+        "impresiones":83471,
+        "clics":1088,
+        "gasto_clp":101000,
+        "conversiones":69
+    },
+    {
+        "campaña":"Promo_Flash_Meta_532",
+        "plataforma":"Meta Ads",
+        "impresiones":86850,
+        "clics":1805,
+        "gasto_clp":85000,
+        "conversiones":102
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_533",
+        "plataforma":"Meta Ads",
+        "impresiones":206597,
+        "clics":7342,
+        "gasto_clp":517000,
+        "conversiones":455
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_534",
+        "plataforma":"YouTube Ads",
+        "impresiones":163369,
+        "clics":3723,
+        "gasto_clp":239000,
+        "conversiones":126
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_535",
+        "plataforma":"TikTok Ads",
+        "impresiones":350143,
+        "clics":4478,
+        "gasto_clp":507000,
+        "conversiones":169
+    },
+    {
+        "campaña":"LeadGen_B2B_Meta_536",
+        "plataforma":"Meta Ads",
+        "impresiones":148899,
+        "clics":3574,
+        "gasto_clp":185000,
+        "conversiones":183
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_537",
+        "plataforma":"Meta Ads",
+        "impresiones":45105,
+        "clics":2132,
+        "gasto_clp":237000,
+        "conversiones":32
+    },
+    {
+        "campaña":"LeadGen_B2B_TikTok_538",
+        "plataforma":"TikTok Ads",
+        "impresiones":205736,
+        "clics":2547,
+        "gasto_clp":247000,
+        "conversiones":55
+    },
+    {
+        "campaña":"Retargeting_Carro_YouTube_539",
+        "plataforma":"YouTube Ads",
+        "impresiones":218782,
+        "clics":5215,
+        "gasto_clp":444000,
+        "conversiones":81
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_540",
+        "plataforma":"Google Ads",
+        "impresiones":162503,
+        "clics":6151,
+        "gasto_clp":735000,
+        "conversiones":172
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_541",
+        "plataforma":"YouTube Ads",
+        "impresiones":211234,
+        "clics":2985,
+        "gasto_clp":334000,
+        "conversiones":190
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_542",
+        "plataforma":"Google Ads",
+        "impresiones":170905,
+        "clics":13200,
+        "gasto_clp":1552000,
+        "conversiones":301
+    },
+    {
+        "campaña":"Brand_Awareness_Google_543",
+        "plataforma":"Google Ads",
+        "impresiones":35347,
+        "clics":1296,
+        "gasto_clp":115000,
+        "conversiones":78
+    },
+    {
+        "campaña":"Promo_Flash_LinkedIn_544",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":53328,
+        "clics":1168,
+        "gasto_clp":710000,
+        "conversiones":62
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_545",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":46358,
+        "clics":914,
+        "gasto_clp":746000,
+        "conversiones":38
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_546",
+        "plataforma":"YouTube Ads",
+        "impresiones":331351,
+        "clics":6097,
+        "gasto_clp":760000,
+        "conversiones":107
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_547",
+        "plataforma":"Google Ads",
+        "impresiones":163611,
+        "clics":12170,
+        "gasto_clp":2037000,
+        "conversiones":483
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_548",
+        "plataforma":"YouTube Ads",
+        "impresiones":331924,
+        "clics":4596,
+        "gasto_clp":462000,
+        "conversiones":114
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_549",
+        "plataforma":"YouTube Ads",
+        "impresiones":177239,
+        "clics":2671,
+        "gasto_clp":190000,
+        "conversiones":166
+    },
+    {
+        "campaña":"Performance_Max_Meta_550",
+        "plataforma":"Meta Ads",
+        "impresiones":82891,
+        "clics":2526,
+        "gasto_clp":138000,
+        "conversiones":56
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_551",
+        "plataforma":"TikTok Ads",
+        "impresiones":171006,
+        "clics":2353,
+        "gasto_clp":276000,
+        "conversiones":101
+    },
+    {
+        "campaña":"Brand_Awareness_Google_552",
+        "plataforma":"Google Ads",
+        "impresiones":92032,
+        "clics":7733,
+        "gasto_clp":865000,
+        "conversiones":272
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_553",
+        "plataforma":"YouTube Ads",
+        "impresiones":360618,
+        "clics":3972,
+        "gasto_clp":418000,
+        "conversiones":167
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_554",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":65669,
+        "clics":1586,
+        "gasto_clp":1098000,
+        "conversiones":36
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_555",
+        "plataforma":"YouTube Ads",
+        "impresiones":163457,
+        "clics":3263,
+        "gasto_clp":207000,
+        "conversiones":64
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_556",
+        "plataforma":"YouTube Ads",
+        "impresiones":288015,
+        "clics":4659,
+        "gasto_clp":467000,
+        "conversiones":196
+    },
+    {
+        "campaña":"Promo_Flash_Google_557",
+        "plataforma":"Google Ads",
+        "impresiones":104071,
+        "clics":7737,
+        "gasto_clp":740000,
+        "conversiones":253
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_558",
+        "plataforma":"YouTube Ads",
+        "impresiones":228066,
+        "clics":2458,
+        "gasto_clp":275000,
+        "conversiones":61
+    },
+    {
+        "campaña":"Promo_Flash_Google_559",
+        "plataforma":"Google Ads",
+        "impresiones":93878,
+        "clics":7379,
+        "gasto_clp":1153000,
+        "conversiones":390
+    },
+    {
+        "campaña":"LeadGen_B2B_LinkedIn_560",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":28171,
+        "clics":715,
+        "gasto_clp":395000,
+        "conversiones":42
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_561",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":33133,
+        "clics":604,
+        "gasto_clp":349000,
+        "conversiones":37
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_562",
+        "plataforma":"TikTok Ads",
+        "impresiones":86823,
+        "clics":2151,
+        "gasto_clp":238000,
+        "conversiones":35
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_563",
+        "plataforma":"YouTube Ads",
+        "impresiones":161816,
+        "clics":1846,
+        "gasto_clp":137000,
+        "conversiones":53
+    },
+    {
+        "campaña":"Instalacion_App_Meta_564",
+        "plataforma":"Meta Ads",
+        "impresiones":221801,
+        "clics":7748,
+        "gasto_clp":418000,
+        "conversiones":370
+    },
+    {
+        "campaña":"Instalacion_App_Meta_565",
+        "plataforma":"Meta Ads",
+        "impresiones":128664,
+        "clics":4107,
+        "gasto_clp":217000,
+        "conversiones":152
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_566",
+        "plataforma":"YouTube Ads",
+        "impresiones":306058,
+        "clics":3996,
+        "gasto_clp":358000,
+        "conversiones":117
+    },
+    {
+        "campaña":"Instalacion_App_Google_567",
+        "plataforma":"Google Ads",
+        "impresiones":63243,
+        "clics":4608,
+        "gasto_clp":547000,
+        "conversiones":141
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_568",
+        "plataforma":"TikTok Ads",
+        "impresiones":251918,
+        "clics":5977,
+        "gasto_clp":540000,
+        "conversiones":136
+    },
+    {
+        "campaña":"Instalacion_App_Google_569",
+        "plataforma":"Google Ads",
+        "impresiones":115445,
+        "clics":8619,
+        "gasto_clp":1072000,
+        "conversiones":498
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_570",
+        "plataforma":"TikTok Ads",
+        "impresiones":145794,
+        "clics":3420,
+        "gasto_clp":203000,
+        "conversiones":138
+    },
+    {
+        "campaña":"Cyber_Ofertas_Meta_571",
+        "plataforma":"Meta Ads",
+        "impresiones":165147,
+        "clics":4303,
+        "gasto_clp":261000,
+        "conversiones":256
+    },
+    {
+        "campaña":"Performance_Max_TikTok_572",
+        "plataforma":"TikTok Ads",
+        "impresiones":359215,
+        "clics":4411,
+        "gasto_clp":364000,
+        "conversiones":201
+    },
+    {
+        "campaña":"Instalacion_App_Meta_573",
+        "plataforma":"Meta Ads",
+        "impresiones":164661,
+        "clics":7526,
+        "gasto_clp":414000,
+        "conversiones":391
+    },
+    {
+        "campaña":"Retargeting_Carro_TikTok_574",
+        "plataforma":"TikTok Ads",
+        "impresiones":447631,
+        "clics":11112,
+        "gasto_clp":958000,
+        "conversiones":234
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_575",
+        "plataforma":"Meta Ads",
+        "impresiones":155357,
+        "clics":6065,
+        "gasto_clp":358000,
+        "conversiones":358
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_576",
+        "plataforma":"TikTok Ads",
+        "impresiones":106170,
+        "clics":1320,
+        "gasto_clp":61000,
+        "conversiones":56
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_577",
+        "plataforma":"Google Ads",
+        "impresiones":56819,
+        "clics":4032,
+        "gasto_clp":825000,
+        "conversiones":76
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_578",
+        "plataforma":"Google Ads",
+        "impresiones":62994,
+        "clics":2795,
+        "gasto_clp":559000,
+        "conversiones":156
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_579",
+        "plataforma":"TikTok Ads",
+        "impresiones":175665,
+        "clics":2048,
+        "gasto_clp":224000,
+        "conversiones":131
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_580",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":36953,
+        "clics":1161,
+        "gasto_clp":789000,
+        "conversiones":38
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_581",
+        "plataforma":"Google Ads",
+        "impresiones":76305,
+        "clics":5796,
+        "gasto_clp":1178000,
+        "conversiones":239
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_582",
+        "plataforma":"YouTube Ads",
+        "impresiones":411759,
+        "clics":8515,
+        "gasto_clp":981000,
+        "conversiones":170
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_583",
+        "plataforma":"TikTok Ads",
+        "impresiones":105556,
+        "clics":1720,
+        "gasto_clp":210000,
+        "conversiones":89
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_584",
+        "plataforma":"YouTube Ads",
+        "impresiones":282041,
+        "clics":5417,
+        "gasto_clp":444000,
+        "conversiones":237
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_Google_585",
+        "plataforma":"Google Ads",
+        "impresiones":167488,
+        "clics":12908,
+        "gasto_clp":1884000,
+        "conversiones":825
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_586",
+        "plataforma":"YouTube Ads",
+        "impresiones":269139,
+        "clics":5675,
+        "gasto_clp":307000,
+        "conversiones":174
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_587",
+        "plataforma":"TikTok Ads",
+        "impresiones":221559,
+        "clics":2447,
+        "gasto_clp":146000,
+        "conversiones":141
+    },
+    {
+        "campaña":"Cyber_Ofertas_YouTube_588",
+        "plataforma":"YouTube Ads",
+        "impresiones":108795,
+        "clics":2706,
+        "gasto_clp":138000,
+        "conversiones":51
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_589",
+        "plataforma":"TikTok Ads",
+        "impresiones":286402,
+        "clics":5846,
+        "gasto_clp":518000,
+        "conversiones":176
+    },
+    {
+        "campaña":"Performance_Max_Meta_590",
+        "plataforma":"Meta Ads",
+        "impresiones":142932,
+        "clics":3000,
+        "gasto_clp":213000,
+        "conversiones":142
+    },
+    {
+        "campaña":"Google_Search_Marca_TikTok_591",
+        "plataforma":"TikTok Ads",
+        "impresiones":390925,
+        "clics":9207,
+        "gasto_clp":596000,
+        "conversiones":509
+    },
+    {
+        "campaña":"Promo_Flash_LinkedIn_592",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":65939,
+        "clics":1866,
+        "gasto_clp":1083000,
+        "conversiones":112
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_593",
+        "plataforma":"TikTok Ads",
+        "impresiones":415098,
+        "clics":4152,
+        "gasto_clp":247000,
+        "conversiones":143
+    },
+    {
+        "campaña":"Performance_Max_Google_594",
+        "plataforma":"Google Ads",
+        "impresiones":163669,
+        "clics":7583,
+        "gasto_clp":1012000,
+        "conversiones":162
+    },
+    {
+        "campaña":"Instalacion_App_Meta_595",
+        "plataforma":"Meta Ads",
+        "impresiones":217810,
+        "clics":10738,
+        "gasto_clp":584000,
+        "conversiones":387
+    },
+    {
+        "campaña":"LeadGen_B2B_LinkedIn_596",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":23472,
+        "clics":549,
+        "gasto_clp":255000,
+        "conversiones":34
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_597",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":68909,
+        "clics":2216,
+        "gasto_clp":1321000,
+        "conversiones":134
+    },
+    {
+        "campaña":"Performance_Max_Meta_598",
+        "plataforma":"Meta Ads",
+        "impresiones":192850,
+        "clics":8513,
+        "gasto_clp":396000,
+        "conversiones":537
+    },
+    {
+        "campaña":"Promo_Flash_TikTok_599",
+        "plataforma":"TikTok Ads",
+        "impresiones":353146,
+        "clics":6859,
+        "gasto_clp":619000,
+        "conversiones":320
+    },
+    {
+        "campaña":"Retargeting_Carro_Meta_600",
+        "plataforma":"Meta Ads",
+        "impresiones":96307,
+        "clics":2251,
+        "gasto_clp":236000,
+        "conversiones":94
+    },
+    {
+        "campaña":"Cyber_Ofertas_Meta_601",
+        "plataforma":"Meta Ads",
+        "impresiones":202727,
+        "clics":5655,
+        "gasto_clp":277000,
+        "conversiones":245
+    },
+    {
+        "campaña":"Performance_Max_TikTok_602",
+        "plataforma":"TikTok Ads",
+        "impresiones":144307,
+        "clics":2095,
+        "gasto_clp":201000,
+        "conversiones":62
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_603",
+        "plataforma":"Meta Ads",
+        "impresiones":132493,
+        "clics":5603,
+        "gasto_clp":275000,
+        "conversiones":336
+    },
+    {
+        "campaña":"Trafico_Catalogo_Google_604",
+        "plataforma":"Google Ads",
+        "impresiones":158775,
+        "clics":12521,
+        "gasto_clp":1581000,
+        "conversiones":400
+    },
+    {
+        "campaña":"Promo_Flash_Google_605",
+        "plataforma":"Google Ads",
+        "impresiones":93095,
+        "clics":4120,
+        "gasto_clp":375000,
+        "conversiones":111
+    },
+    {
+        "campaña":"LeadGen_B2B_YouTube_606",
+        "plataforma":"YouTube Ads",
+        "impresiones":177136,
+        "clics":2529,
+        "gasto_clp":206000,
+        "conversiones":71
+    },
+    {
+        "campaña":"Promo_Flash_LinkedIn_607",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":44165,
+        "clics":1418,
+        "gasto_clp":1008000,
+        "conversiones":25
+    },
+    {
+        "campaña":"Retargeting_Carro_LinkedIn_608",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":59900,
+        "clics":1616,
+        "gasto_clp":820000,
+        "conversiones":31
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_609",
+        "plataforma":"YouTube Ads",
+        "impresiones":427580,
+        "clics":4485,
+        "gasto_clp":533000,
+        "conversiones":81
+    },
+    {
+        "campaña":"Instalacion_App_YouTube_610",
+        "plataforma":"YouTube Ads",
+        "impresiones":139871,
+        "clics":2598,
+        "gasto_clp":231000,
+        "conversiones":94
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_611",
+        "plataforma":"YouTube Ads",
+        "impresiones":303563,
+        "clics":7182,
+        "gasto_clp":607000,
+        "conversiones":157
+    },
+    {
+        "campaña":"LeadGen_B2B_Meta_612",
+        "plataforma":"Meta Ads",
+        "impresiones":66649,
+        "clics":1662,
+        "gasto_clp":99000,
+        "conversiones":103
+    },
+    {
+        "campaña":"Performance_Max_Google_613",
+        "plataforma":"Google Ads",
+        "impresiones":126019,
+        "clics":9380,
+        "gasto_clp":1590000,
+        "conversiones":457
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_YouTube_614",
+        "plataforma":"YouTube Ads",
+        "impresiones":310147,
+        "clics":4890,
+        "gasto_clp":423000,
+        "conversiones":232
+    },
+    {
+        "campaña":"Brand_Awareness_TikTok_615",
+        "plataforma":"TikTok Ads",
+        "impresiones":442455,
+        "clics":8410,
+        "gasto_clp":910000,
+        "conversiones":339
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_616",
+        "plataforma":"TikTok Ads",
+        "impresiones":384214,
+        "clics":6187,
+        "gasto_clp":747000,
+        "conversiones":93
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_617",
+        "plataforma":"TikTok Ads",
+        "impresiones":428939,
+        "clics":8176,
+        "gasto_clp":999000,
+        "conversiones":220
+    },
+    {
+        "campaña":"Google_Search_Marca_YouTube_618",
+        "plataforma":"YouTube Ads",
+        "impresiones":240105,
+        "clics":5900,
+        "gasto_clp":432000,
+        "conversiones":230
+    },
+    {
+        "campaña":"Brand_Awareness_Google_619",
+        "plataforma":"Google Ads",
+        "impresiones":103869,
+        "clics":6807,
+        "gasto_clp":812000,
+        "conversiones":172
+    },
+    {
+        "campaña":"Brand_Awareness_YouTube_620",
+        "plataforma":"YouTube Ads",
+        "impresiones":166716,
+        "clics":1680,
+        "gasto_clp":77000,
+        "conversiones":43
+    },
+    {
+        "campaña":"Instalacion_App_Google_621",
+        "plataforma":"Google Ads",
+        "impresiones":126038,
+        "clics":9469,
+        "gasto_clp":1516000,
+        "conversiones":384
+    },
+    {
+        "campaña":"Cyber_Ofertas_Meta_622",
+        "plataforma":"Meta Ads",
+        "impresiones":176554,
+        "clics":3766,
+        "gasto_clp":258000,
+        "conversiones":210
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_TikTok_623",
+        "plataforma":"TikTok Ads",
+        "impresiones":150448,
+        "clics":2897,
+        "gasto_clp":158000,
+        "conversiones":93
+    },
+    {
+        "campaña":"Instalacion_App_Google_624",
+        "plataforma":"Google Ads",
+        "impresiones":144598,
+        "clics":9216,
+        "gasto_clp":776000,
+        "conversiones":449
+    },
+    {
+        "campaña":"Brand_Awareness_Google_625",
+        "plataforma":"Google Ads",
+        "impresiones":111554,
+        "clics":6417,
+        "gasto_clp":1348000,
+        "conversiones":149
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_626",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":59199,
+        "clics":1387,
+        "gasto_clp":909000,
+        "conversiones":83
+    },
+    {
+        "campaña":"Lanzamiento_Coleccion_LinkedIn_627",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":57092,
+        "clics":1550,
+        "gasto_clp":937000,
+        "conversiones":87
+    },
+    {
+        "campaña":"LeadGen_B2B_Google_628",
+        "plataforma":"Google Ads",
+        "impresiones":164393,
+        "clics":11683,
+        "gasto_clp":2346000,
+        "conversiones":176
+    },
+    {
+        "campaña":"Instalacion_App_Google_629",
+        "plataforma":"Google Ads",
+        "impresiones":96262,
+        "clics":3564,
+        "gasto_clp":720000,
+        "conversiones":99
+    },
+    {
+        "campaña":"Google_Search_Marca_Meta_630",
+        "plataforma":"Meta Ads",
+        "impresiones":78211,
+        "clics":2464,
+        "gasto_clp":206000,
+        "conversiones":82
+    },
+    {
+        "campaña":"Retargeting_Carro_Google_631",
+        "plataforma":"Google Ads",
+        "impresiones":64542,
+        "clics":3610,
+        "gasto_clp":668000,
+        "conversiones":66
+    },
+    {
+        "campaña":"Google_Search_Marca_LinkedIn_632",
+        "plataforma":"LinkedIn Ads",
+        "impresiones":59409,
+        "clics":1272,
+        "gasto_clp":1049000,
+        "conversiones":45
+    },
+    {
+        "campaña":"Brand_Awareness_Google_633",
+        "plataforma":"Google Ads",
+        "impresiones":116120,
+        "clics":7817,
+        "gasto_clp":1597000,
+        "conversiones":351
+    },
+    {
+        "campaña":"Retargeting_Carro_Meta_634",
+        "plataforma":"Meta Ads",
+        "impresiones":114637,
+        "clics":4480,
+        "gasto_clp":549000,
+        "conversiones":204
+    },
+    {
+        "campaña":"LeadGen_B2B_Meta_635",
+        "plataforma":"Meta Ads",
+        "impresiones":217691,
+        "clics":5476,
+        "gasto_clp":543000,
+        "conversiones":285
+    },
+    {
+        "campaña":"Instalacion_App_Google_636",
+        "plataforma":"Google Ads",
+        "impresiones":129932,
+        "clics":4979,
+        "gasto_clp":771000,
+        "conversiones":110
+    },
+    {
+        "campaña":"Cyber_Ofertas_TikTok_637",
+        "plataforma":"TikTok Ads",
+        "impresiones":329768,
+        "clics":5385,
+        "gasto_clp":377000,
+        "conversiones":211
+    },
+    {
+        "campaña":"Google_Search_Marca_Google_638",
+        "plataforma":"Google Ads",
+        "impresiones":97534,
+        "clics":3626,
+        "gasto_clp":353000,
+        "conversiones":155
+    },
+    {
+        "campaña":"Retargeting_Carro_Meta_639",
+        "plataforma":"Meta Ads",
+        "impresiones":159006,
+        "clics":5405,
+        "gasto_clp":618000,
+        "conversiones":99
+    },
+    {
+        "campaña":"Trafico_Catalogo_YouTube_640",
+        "plataforma":"YouTube Ads",
+        "impresiones":352660,
+        "clics":7189,
+        "gasto_clp":586000,
+        "conversiones":349
+    },
+    {
+        "campaña":"Brand_Awareness_Meta_641",
+        "plataforma":"Meta Ads",
+        "impresiones":207860,
+        "clics":9530,
+        "gasto_clp":907000,
+        "conversiones":250
+    },
+    {
+        "campaña":"Performance_Max_YouTube_642",
+        "plataforma":"YouTube Ads",
+        "impresiones":442271,
+        "clics":9878,
+        "gasto_clp":1165000,
+        "conversiones":600
+    },
+    {
+        "campaña":"Trafico_Catalogo_TikTok_643",
+        "plataforma":"TikTok Ads",
+        "impresiones":410814,
+        "clics":4717,
+        "gasto_clp":569000,
+        "conversiones":73
+    }
+]
