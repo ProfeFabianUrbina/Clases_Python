@@ -1,0 +1,327 @@
+﻿lead_id,fecha_registro,canal_adquisicion,ciudad,estado_lead,costo_lead_clp,monto_venta_clp,score_interes
+LEAD-1001,2026-04-05,Google Ads,Concepción,Perdido,8600.0,0.0,4.0
+LEAD-1002,2026-03-08,TikTok Ads,Antofagasta,Perdido,9600.0,0.0,4.0
+LEAD-1003,2026-04-12,Email Marketing,Antofagasta,Convertido,,302000.0,8.0
+LEAD-1004,2026-04-05,Meta Ads,Santiago,Perdido,5700.0,0.0,1.0
+LEAD-1005,2026-03-07,LinkedIn Ads,Puerto Montt,Perdido,9200.0,0.0,3.0
+LEAD-1006,2026-03-24,meta ads,Valparaíso,Perdido,11800.0,0.0,4.0
+LEAD-1007,2026-04-21,Organico,Puerto Montt,Calificado,18200.0,0.0,6.0
+LEAD-1008,2026-05-18,Meta Ads,Valparaíso,En Seguimiento,13700.0,0.0,7.0
+LEAD-1009,2026-05-19,Organico,Santiago,Perdido,7700.0,0.0,1.0
+LEAD-1010,2026-05-06,TikTok Ads,La Serena,Convertido,10200.0,68000.0,10.0
+LEAD-1011,2026-03-30,TikTok Ads,Concepción,Calificado,11800.0,0.0,5.0
+LEAD-1012,2026-05-29,Organico,La Serena,Convertido,7400.0,150000.0,8.0
+LEAD-1013,2026-04-05,TikTok Ads,Concepción,Convertido,4900.0,182000.0,10.0
+LEAD-1014,2026-05-09,LinkedIn Ads,Valparaíso,Convertido,9400.0,236000.0,7.0
+LEAD-1015,2026-03-08,Organico,Temuco,Perdido,15100.0,0.0,3.0
+LEAD-1016,2026-05-09,Meta Ads,Puerto Montt,Calificado,5500.0,0.0,7.0
+LEAD-1017,2026-05-22,Meta Ads,La Serena,En Seguimiento,11600.0,0.0,4.0
+LEAD-1018,2026-03-25,Organico,Antofagasta,Calificado,17000.0,0.0,5.0
+LEAD-1019,2026-05-09,GOOGLE ADS ,Temuco,Calificado,16500.0,0.0,5.0
+LEAD-1020,2026-05-24,Email Marketing,Antofagasta,En Seguimiento,4400.0,0.0,
+LEAD-1021,2026-03-04,LinkedIn Ads,La Serena,En Seguimiento,4100.0,0.0,7.0
+LEAD-1022,2026-04-09,Meta Ads,Valparaíso,Calificado,16700.0,0.0,6.0
+LEAD-1023,2026-03-13,LinkedIn Ads,Antofagasta,Convertido,6000.0,139000.0,8.0
+LEAD-1024,2026-03-19,Organico,La Serena,Perdido,8100.0,0.0,1.0
+LEAD-1025,2026-05-25,TikTok Ads,La Serena,Convertido,16700.0,53000.0,8.0
+LEAD-1026,2026-05-24,Meta Ads,Puerto Montt,En Seguimiento,6900.0,0.0,5.0
+LEAD-1027,2026-05-08,Google Ads,Valparaíso,Perdido,16900.0,0.0,3.0
+LEAD-1028,2026-04-10,Meta Ads,Antofagasta,Convertido,11200.0,115000.0,7.0
+LEAD-1029,2026-03-22,Meta Ads,Puerto Montt,Convertido,14800.0,196000.0,10.0
+LEAD-1030,2026-05-22,Google Ads,,Perdido,,0.0,
+LEAD-1031,2026-04-03,Meta Ads,Puerto Montt,Calificado,7200.0,0.0,6.0
+LEAD-1032,2026-04-29,Meta Ads,Puerto Montt,En Seguimiento,10900.0,0.0,7.0
+LEAD-1033,2026-04-15,Google Ads,Puerto Montt,Perdido,8100.0,0.0,3.0
+LEAD-1034,2026-04-13,Meta Ads,Puerto Montt,Convertido,16000.0,147000.0,8.0
+LEAD-1035,2026-05-13,Google Ads,,Calificado,5700.0,0.0,8.0
+LEAD-1036,2026-05-21,Email Marketing,Valparaíso,Perdido,8700.0,0.0,
+LEAD-1037,2026-05-20,Organico,La Serena,En Seguimiento,17900.0,0.0,8.0
+LEAD-1038,2026-04-18,TikTok Ads,Valparaíso,Perdido,17000.0,0.0,4.0
+LEAD-1039,2026-04-02,Meta Ads,Santiago,Convertido,10400.0,210000.0,8.0
+LEAD-1040,2026-05-25,Google Ads,Concepción,Perdido,,0.0,3.0
+LEAD-1041,2026-04-09,LinkedIn Ads,Puerto Montt,Calificado,11700.0,0.0,4.0
+LEAD-1042,2026-03-18,Meta Ads,La Serena,En Seguimiento,9100.0,0.0,6.0
+LEAD-1043,2026-03-16,tiktok ads,Valparaíso,En Seguimiento,7600.0,0.0,4.0
+LEAD-1044,2026-04-26,Meta Ads,Concepción,Calificado,10500.0,0.0,6.0
+LEAD-1045,2026-05-10,Email Marketing,Temuco,En Seguimiento,16400.0,0.0,8.0
+LEAD-1046,2026-03-12,Organico,Puerto Montt,Perdido,7300.0,0.0,3.0
+LEAD-1047,2026-05-07,TikTok Ads,La Serena,Calificado,13400.0,0.0,5.0
+LEAD-1048,2026-03-12,Google Ads,Puerto Montt,Convertido,,150000.0,10.0
+LEAD-1049,2026-04-21,LinkedIn Ads,Puerto Montt,Convertido,13200.0,136000.0,10.0
+LEAD-1050,2026-05-26,Email Marketing,Antofagasta,Calificado,17700.0,0.0,5.0
+LEAD-1051,2026-05-11,TikTok Ads,Concepción,Convertido,6600.0,225000.0,9.0
+LEAD-1052,2026-04-26,Organico,Santiago,Perdido,16700.0,0.0,2.0
+LEAD-1053,2026-05-04,Meta Ads,Santiago,Perdido,7800.0,0.0,1.0
+LEAD-1054,2026-04-01,Google Ads,Temuco,Calificado,6300.0,0.0,8.0
+LEAD-1055,2026-03-25,Organico,Valparaíso,Perdido,12100.0,0.0,1.0
+LEAD-1056,2026-04-10,TikTok Ads,La Serena,Perdido,3800.0,0.0,1.0
+LEAD-1057,2026-04-22,LinkedIn Ads,Concepción,En Seguimiento,11200.0,0.0,8.0
+LEAD-1058,2026-05-01,Email Marketing,Antofagasta,En Seguimiento,8500.0,0.0,8.0
+LEAD-1059,2026-03-15,Meta Ads,Temuco,Convertido,7000.0,271000.0,8.0
+LEAD-1060,2026-03-25,Organico,Puerto Montt,Perdido,8500.0,0.0,2.0
+LEAD-1061,2026-04-14,Google Ads,,Perdido,9400.0,0.0,3.0
+LEAD-1062,2026-03-10,Meta Ads,Antofagasta,Calificado,12100.0,0.0,5.0
+LEAD-1063,2026-03-26,Email Marketing,Santiago,En Seguimiento,5500.0,0.0,4.0
+LEAD-1064,2026-04-12,Meta Ads,La Serena,Perdido,11700.0,0.0,3.0
+LEAD-1065,2026-04-16,Google Ads,Antofagasta,Calificado,3900.0,0.0,5.0
+LEAD-1066,2026-04-28,Meta Ads,Valparaíso,Convertido,13100.0,102000.0,10.0
+LEAD-1067,2026-05-06,Email Marketing,Temuco,En Seguimiento,3900.0,0.0,6.0
+LEAD-1068,2026-03-11,Email Marketing,Santiago,Calificado,6200.0,0.0,5.0
+LEAD-1069,2026-03-16,Email Marketing,Puerto Montt,En Seguimiento,4700.0,0.0,4.0
+LEAD-1070,2026-05-02,Meta Ads,Concepción,Perdido,15900.0,0.0,4.0
+LEAD-1071,2026-03-02,Organico,Santiago,En Seguimiento,6600.0,0.0,4.0
+LEAD-1072,2026-03-06,LinkedIn Ads,Antofagasta,En Seguimiento,15200.0,0.0,8.0
+LEAD-1073,2026-04-13,TikTok Ads,Puerto Montt,Perdido,8800.0,0.0,3.0
+LEAD-1074,2026-05-17,Meta Ads,Puerto Montt,Calificado,16000.0,0.0,6.0
+LEAD-1075,2026-03-13,Meta Ads,La Serena,En Seguimiento,10700.0,0.0,5.0
+LEAD-1076,2026-05-05,Meta Ads,Temuco,Convertido,11100.0,232000.0,10.0
+LEAD-1077,2026-03-22,Email Marketing,La Serena,Calificado,11000.0,0.0,4.0
+LEAD-1078,2026-05-04,Meta Ads,Santiago,En Seguimiento,5300.0,0.0,6.0
+LEAD-1079,2026-03-23,Email Marketing,Santiago,Calificado,5600.0,0.0,5.0
+LEAD-1080,2026-04-17,Meta Ads,Santiago,Calificado,18100.0,0.0,7.0
+LEAD-1081,2026-03-25,Organico,Santiago,Convertido,11000.0,281000.0,8.0
+LEAD-1082,2026-03-13,Meta Ads,Antofagasta,En Seguimiento,10900.0,0.0,6.0
+LEAD-1083,2026-05-29,Google Ads,Concepción,En Seguimiento,13800.0,0.0,
+LEAD-1084,2026-04-25,LinkedIn Ads,Valparaíso,Perdido,7100.0,0.0,1.0
+LEAD-1085,2026-03-07,Organico,Santiago,En Seguimiento,6400.0,0.0,8.0
+LEAD-1086,2026-05-04,Organico,Valparaíso,Calificado,17900.0,0.0,7.0
+LEAD-1087,2026-03-19,Organico,Puerto Montt,En Seguimiento,7500.0,0.0,4.0
+LEAD-1088,2026-05-02,Meta Ads,Concepción,Perdido,17200.0,0.0,4.0
+LEAD-1089,2026-05-12,LinkedIn Ads,Puerto Montt,En Seguimiento,8000.0,0.0,6.0
+LEAD-1090,2026-04-01,Meta Ads,Puerto Montt,Convertido,5200.0,214000.0,7.0
+LEAD-1091,2026-03-22,LinkedIn Ads,Concepción,En Seguimiento,5800.0,0.0,4.0
+LEAD-1092,2026-03-30,TikTok Ads,Antofagasta,Calificado,10500.0,0.0,4.0
+LEAD-1093,2026-05-20,TikTok Ads,Valparaíso,En Seguimiento,6300.0,0.0,4.0
+LEAD-1094,2026-03-24,LinkedIn Ads,La Serena,Perdido,13200.0,0.0,2.0
+LEAD-1095,2026-03-03,LinkedIn Ads,Valparaíso,Perdido,4100.0,0.0,3.0
+LEAD-1096,2026-03-19,TikTok Ads,Antofagasta,Calificado,14600.0,0.0,5.0
+LEAD-1097,2026-05-20,Organico,Antofagasta,En Seguimiento,10600.0,0.0,5.0
+LEAD-1098,2026-05-23,Meta Ads,Valparaíso,Perdido,6400.0,0.0,4.0
+LEAD-1099,2026-05-22,Google Ads,Santiago,Convertido,14400.0,276000.0,7.0
+LEAD-1100,2026-03-28,LinkedIn Ads,Valparaíso,Perdido,,0.0,2.0
+LEAD-1101,2026-04-15,Organico,Puerto Montt,Calificado,15500.0,0.0,8.0
+LEAD-1102,2026-03-29,TikTok Ads,Valparaíso,Convertido,17700.0,214000.0,10.0
+LEAD-1103,2026-05-02,Organico,Antofagasta,En Seguimiento,3500.0,0.0,8.0
+LEAD-1104,2026-04-28,TikTok Ads,Temuco,Perdido,10600.0,0.0,3.0
+LEAD-1105,2026-03-12,Organico,Valparaíso,Calificado,4900.0,0.0,4.0
+LEAD-1106,2026-05-21,Google Ads,Santiago,Perdido,15100.0,0.0,3.0
+LEAD-1107,2026-05-11,TikTok Ads,Santiago,Perdido,10300.0,0.0,4.0
+LEAD-1108,2026-05-24,Organico,Antofagasta,Convertido,4100.0,242000.0,7.0
+LEAD-1109,2026-04-09,Email Marketing,La Serena,Calificado,9800.0,0.0,6.0
+LEAD-1110,2026-05-05,Meta Ads,Santiago,Calificado,10800.0,0.0,8.0
+LEAD-1111,2026-05-28,Meta Ads,Temuco,En Seguimiento,10300.0,0.0,
+LEAD-1112,2026-04-26,LinkedIn Ads,La Serena,Perdido,12500.0,0.0,1.0
+LEAD-1113,2026-03-30,Google Ads,La Serena,En Seguimiento,17600.0,0.0,5.0
+LEAD-1114,2026-03-19,LinkedIn Ads,Puerto Montt,Calificado,11100.0,0.0,7.0
+LEAD-1115,2026-04-25,Meta Ads,Puerto Montt,Perdido,11400.0,0.0,2.0
+LEAD-1116,2026-05-03,Google Ads,Puerto Montt,Perdido,13400.0,0.0,3.0
+LEAD-1117,2026-05-30,Meta Ads,Concepción,Convertido,14500.0,223000.0,10.0
+LEAD-1118,2026-04-10,Google Ads,Antofagasta,Perdido,15400.0,0.0,4.0
+LEAD-1119,2026-04-01,TikTok Ads,Puerto Montt,Perdido,7300.0,0.0,1.0
+LEAD-1120,2026-05-22,LinkedIn Ads,Antofagasta,En Seguimiento,11300.0,0.0,8.0
+LEAD-1121,2026-03-08,TikTok Ads,Temuco,En Seguimiento,15100.0,0.0,4.0
+LEAD-1122,2026-05-21,Meta Ads,Temuco,Calificado,6200.0,0.0,6.0
+LEAD-1123,2026-03-28,LinkedIn Ads,Santiago,Calificado,18200.0,0.0,5.0
+LEAD-1124,2026-03-12,LinkedIn Ads,La Serena,Convertido,16600.0,174000.0,7.0
+LEAD-1125,2026-03-19,Meta Ads,Antofagasta,Convertido,6700.0,120000.0,7.0
+LEAD-1126,2026-03-21,TikTok Ads,Temuco,Convertido,10900.0,92000.0,7.0
+LEAD-1127,2026-03-20,Meta Ads,Antofagasta,Convertido,12100.0,134000.0,7.0
+LEAD-1128,2026-03-27,Google Ads,Temuco,Perdido,11000.0,0.0,1.0
+LEAD-1129,2026-04-17,TikTok Ads,Temuco,Perdido,7700.0,0.0,
+LEAD-1130,2026-04-09,Email Marketing,Temuco,Calificado,16600.0,0.0,6.0
+LEAD-1131,2026-03-26,LinkedIn Ads,Puerto Montt,Convertido,10300.0,295000.0,8.0
+LEAD-1132,2026-03-14,Meta Ads,Santiago,Calificado,12500.0,0.0,7.0
+LEAD-1133,2026-05-26,LinkedIn Ads,Valparaíso,En Seguimiento,14900.0,0.0,4.0
+LEAD-1134,2026-03-18,Organico,La Serena,Calificado,15800.0,0.0,4.0
+LEAD-1135,2026-03-19,LinkedIn Ads,Santiago,Calificado,7100.0,0.0,8.0
+LEAD-1136,2026-05-07,Organico,Antofagasta,Convertido,9500.0,291000.0,8.0
+LEAD-1137,2026-05-30,Organico,La Serena,En Seguimiento,8900.0,0.0,8.0
+LEAD-1138,2026-03-12,TikTok Ads,Valparaíso,Convertido,18100.0,177000.0,7.0
+LEAD-1139,2026-05-12,TikTok Ads,La Serena,Calificado,15800.0,0.0,6.0
+LEAD-1140,2026-05-04,LinkedIn Ads,Concepción,Convertido,,81000.0,10.0
+LEAD-1141,2026-04-28,LinkedIn Ads,Concepción,Perdido,16900.0,0.0,1.0
+LEAD-1142,2026-03-15,Organico,Concepción,Perdido,18300.0,0.0,3.0
+LEAD-1143,2026-05-10,Organico,Concepción,Perdido,4000.0,0.0,4.0
+LEAD-1144,2026-05-17,LinkedIn Ads,Puerto Montt,Calificado,11500.0,0.0,7.0
+LEAD-1145,2026-04-16,Meta Ads,La Serena,Perdido,17200.0,0.0,3.0
+LEAD-1146,2026-05-07,Organico,Concepción,En Seguimiento,17300.0,0.0,5.0
+LEAD-1147,2026-04-23,Organico,Valparaíso,Convertido,10000.0,177000.0,
+LEAD-1148,2026-04-06,TikTok Ads,Valparaíso,Convertido,,148000.0,10.0
+LEAD-1149,2026-03-02,TikTok Ads,Antofagasta,Calificado,6900.0,0.0,8.0
+LEAD-1150,2026-04-11,Organico,Temuco,Calificado,17000.0,0.0,4.0
+LEAD-1151,2026-03-30,Meta Ads,Puerto Montt,Calificado,11500.0,0.0,6.0
+LEAD-1152,2026-04-21,TikTok Ads,Puerto Montt,Convertido,10300.0,117000.0,9.0
+LEAD-1153,2026-04-26,TikTok Ads,Santiago,Perdido,11400.0,0.0,1.0
+LEAD-1154,2026-04-07,Meta Ads,Santiago,Convertido,3500.0,62000.0,7.0
+LEAD-1155,2026-04-28,Google Ads,Santiago,Calificado,14400.0,0.0,8.0
+LEAD-1156,2026-03-04,LinkedIn Ads,La Serena,Calificado,8300.0,0.0,8.0
+LEAD-1157,2026-04-11,Organico,Valparaíso,En Seguimiento,8300.0,0.0,6.0
+LEAD-1158,2026-04-09,Organico,Temuco,En Seguimiento,,0.0,6.0
+LEAD-1159,2026-03-30,LinkedIn Ads,La Serena,Perdido,5900.0,0.0,
+LEAD-1160,2026-04-05,Google Ads,Valparaíso,Convertido,8900.0,281000.0,7.0
+LEAD-1161,2026-03-02,Google Ads,Antofagasta,Convertido,10400.0,224000.0,7.0
+LEAD-1162,2026-03-28,Organico,Concepción,En Seguimiento,10900.0,0.0,7.0
+LEAD-1163,2026-03-04,Email Marketing,Antofagasta,En Seguimiento,4400.0,0.0,5.0
+LEAD-1164,2026-04-09,Meta Ads,Valparaíso,Calificado,4600.0,0.0,6.0
+LEAD-1165,2026-03-30,Email Marketing,Valparaíso,Perdido,8300.0,0.0,3.0
+LEAD-1166,2026-05-01,Email Marketing,La Serena,Calificado,14200.0,0.0,6.0
+LEAD-1167,2026-04-29,LinkedIn Ads,La Serena,Calificado,12900.0,0.0,7.0
+LEAD-1168,2026-05-30,Email Marketing,Temuco,En Seguimiento,15600.0,0.0,
+LEAD-1169,2026-03-30,Organico,Concepción,En Seguimiento,7300.0,0.0,4.0
+LEAD-1170,2026-05-19,Email Marketing,Antofagasta,Calificado,17000.0,0.0,6.0
+LEAD-1171,2026-05-08,TikTok Ads,Concepción,Convertido,6900.0,240000.0,10.0
+LEAD-1172,2026-05-13,TikTok Ads,Temuco,Convertido,6400.0,261000.0,8.0
+LEAD-1173,2026-03-30,TikTok Ads,Antofagasta,Perdido,3900.0,0.0,3.0
+LEAD-1174,2026-04-20,Meta Ads,Valparaíso,Calificado,6900.0,0.0,6.0
+LEAD-1175,2026-03-12,LinkedIn Ads,,Convertido,13600.0,47000.0,10.0
+LEAD-1176,2026-05-17,Meta Ads,La Serena,Calificado,3900.0,0.0,5.0
+LEAD-1177,2026-05-08,Email Marketing,Puerto Montt,Perdido,10200.0,0.0,4.0
+LEAD-1178,2026-03-18,LinkedIn Ads,Temuco,Convertido,6200.0,273000.0,7.0
+LEAD-1179,2026-03-16,Email Marketing,Valparaíso,Convertido,6200.0,53000.0,9.0
+LEAD-1180,2026-05-10,Organico,Concepción,Convertido,7900.0,174000.0,8.0
+LEAD-1181,2026-04-19,TikTok Ads,Puerto Montt,En Seguimiento,15600.0,0.0,7.0
+LEAD-1182,2026-04-21,Google Ads,Santiago,Convertido,17100.0,116000.0,7.0
+LEAD-1183,2026-05-03,Email Marketing,La Serena,En Seguimiento,7700.0,0.0,6.0
+LEAD-1184,2026-05-02,Meta Ads,Antofagasta,En Seguimiento,4700.0,0.0,4.0
+LEAD-1185,2026-04-04,LinkedIn Ads,,Convertido,7600.0,173000.0,8.0
+LEAD-1186,2026-03-08,Email Marketing,Antofagasta,Calificado,10500.0,0.0,7.0
+LEAD-1187,2026-05-07,Email Marketing,Santiago,En Seguimiento,11400.0,0.0,4.0
+LEAD-1188,2026-05-30,Google Ads,Puerto Montt,Calificado,12600.0,0.0,5.0
+LEAD-1189,2026-04-06,Google Ads,Santiago,Calificado,16300.0,0.0,7.0
+LEAD-1190,2026-03-13,TikTok Ads,Concepción,En Seguimiento,16400.0,0.0,7.0
+LEAD-1191,2026-04-25,Organico,La Serena,Perdido,5700.0,0.0,1.0
+LEAD-1192,2026-04-03,Meta Ads,Santiago,Convertido,10600.0,165000.0,7.0
+LEAD-1193,2026-03-13,Meta Ads,Concepción,Convertido,9100.0,156000.0,8.0
+LEAD-1194,2026-04-09,Google Ads,Temuco,Calificado,9100.0,0.0,5.0
+LEAD-1195,2026-04-05,LinkedIn Ads,Temuco,Convertido,18000.0,258000.0,8.0
+LEAD-1196,2026-03-05,TikTok Ads,Puerto Montt,Perdido,17000.0,0.0,2.0
+LEAD-1197,2026-04-30,Email Marketing,Santiago,Convertido,4500.0,227000.0,7.0
+LEAD-1198,2026-03-15,Google Ads,La Serena,Calificado,14200.0,0.0,8.0
+LEAD-1199,2026-05-13,LinkedIn Ads,Santiago,Perdido,6800.0,0.0,1.0
+LEAD-1200,2026-04-10,Email Marketing,Temuco,Perdido,14900.0,0.0,3.0
+LEAD-1201,2026-05-02,TikTok Ads,Temuco,En Seguimiento,13500.0,0.0,7.0
+LEAD-1202,2026-04-07,TikTok Ads,Valparaíso,En Seguimiento,13000.0,0.0,7.0
+LEAD-1203,2026-04-17,TikTok Ads,Temuco,Convertido,6900.0,98000.0,8.0
+LEAD-1204,2026-04-05,Google Ads,La Serena,Convertido,14600.0,110000.0,10.0
+LEAD-1205,2026-05-19,LinkedIn Ads,Valparaíso,En Seguimiento,4300.0,0.0,6.0
+LEAD-1206,2026-04-24,Email Marketing,Valparaíso,En Seguimiento,7600.0,0.0,4.0
+LEAD-1207,2026-04-26,Meta Ads,Concepción,Calificado,11500.0,0.0,6.0
+LEAD-1208,2026-05-11,TikTok Ads,Puerto Montt,Convertido,8600.0,203000.0,7.0
+LEAD-1209,2026-04-28,TikTok Ads,Santiago,Convertido,6800.0,298000.0,10.0
+LEAD-1210,2026-05-10,LinkedIn Ads,Santiago,Perdido,5800.0,0.0,4.0
+LEAD-1211,2026-04-02,Organico,Antofagasta,Convertido,13500.0,216000.0,10.0
+LEAD-1212,2026-05-09,Email Marketing,La Serena,Perdido,11700.0,0.0,2.0
+LEAD-1213,2026-05-14,Meta Ads,Puerto Montt,En Seguimiento,16100.0,0.0,7.0
+LEAD-1214,2026-04-15,Organico,Temuco,Calificado,17900.0,0.0,4.0
+LEAD-1215,2026-03-16,Email Marketing,Puerto Montt,Perdido,9900.0,0.0,3.0
+LEAD-1216,2026-05-01,Meta Ads,La Serena,En Seguimiento,12600.0,0.0,4.0
+LEAD-1217,2026-03-15,Meta Ads,Puerto Montt,Calificado,8600.0,0.0,7.0
+LEAD-1218,2026-05-18,Google Ads,Antofagasta,En Seguimiento,12400.0,0.0,7.0
+LEAD-1219,2026-04-11,Meta Ads,Temuco,Calificado,11400.0,0.0,7.0
+LEAD-1220,2026-05-29,Email Marketing,Santiago,Convertido,15400.0,230000.0,10.0
+LEAD-1221,2026-04-01,Meta Ads,La Serena,En Seguimiento,9800.0,0.0,7.0
+LEAD-1222,2026-05-05,Email Marketing,Antofagasta,Perdido,10600.0,0.0,
+LEAD-1223,2026-03-03,Organico,Santiago,En Seguimiento,16300.0,0.0,5.0
+LEAD-1224,2026-05-26,Google Ads,Santiago,En Seguimiento,7700.0,0.0,8.0
+LEAD-1225,2026-05-11,Organico,Antofagasta,En Seguimiento,14000.0,0.0,7.0
+LEAD-1226,2026-04-28,TikTok Ads,Puerto Montt,Perdido,10400.0,0.0,3.0
+LEAD-1227,2026-05-01,LinkedIn Ads,Antofagasta,Calificado,9100.0,0.0,5.0
+LEAD-1228,2026-04-19,Organico,Santiago,Perdido,12200.0,0.0,2.0
+LEAD-1229,2026-03-31,Meta Ads,Santiago,Perdido,16500.0,0.0,4.0
+LEAD-1230,2026-04-02,Meta Ads,Antofagasta,Perdido,8000.0,0.0,1.0
+LEAD-1231,2026-04-14,Organico,La Serena,Calificado,15100.0,0.0,7.0
+LEAD-1232,2026-03-09,Meta Ads,Temuco,Perdido,4300.0,0.0,2.0
+LEAD-1233,2026-04-04,LinkedIn Ads,Valparaíso,Convertido,18200.0,52000.0,7.0
+LEAD-1234,2026-03-07,Google Ads,Puerto Montt,Convertido,4300.0,212000.0,10.0
+LEAD-1235,2026-03-16,Organico,Concepción,Convertido,,85000.0,9.0
+LEAD-1236,2026-04-15,LinkedIn Ads,Puerto Montt,Perdido,9900.0,0.0,3.0
+LEAD-1237,2026-03-30,TikTok Ads,,Convertido,4900.0,215000.0,8.0
+LEAD-1238,2026-04-09,Email Marketing,Puerto Montt,En Seguimiento,13800.0,0.0,5.0
+LEAD-1239,2026-04-26,LinkedIn Ads,Antofagasta,Calificado,8800.0,0.0,7.0
+LEAD-1240,2026-05-15,TikTok Ads,Puerto Montt,Perdido,7400.0,0.0,2.0
+LEAD-1241,2026-05-15,Meta Ads,Antofagasta,Perdido,18400.0,0.0,2.0
+LEAD-1242,2026-05-05,TikTok Ads,Antofagasta,Convertido,15300.0,172000.0,8.0
+LEAD-1243,2026-03-26,Email Marketing,Temuco,En Seguimiento,14500.0,0.0,8.0
+LEAD-1244,2026-05-21,TikTok Ads,Puerto Montt,Calificado,15500.0,0.0,8.0
+LEAD-1245,2026-03-21,Email Marketing,La Serena,Convertido,15200.0,70000.0,7.0
+LEAD-1246,2026-04-16,Email Marketing,Puerto Montt,Calificado,7500.0,0.0,7.0
+LEAD-1247,2026-05-08,Google Ads,Santiago,Convertido,13300.0,286000.0,10.0
+LEAD-1248,2026-03-16,Email Marketing,Santiago,Perdido,8100.0,0.0,4.0
+LEAD-1249,2026-04-25,Email Marketing,Valparaíso,Calificado,16300.0,0.0,5.0
+LEAD-1250,2026-04-02,Organico,Temuco,En Seguimiento,18300.0,0.0,6.0
+LEAD-1251,2026-03-03,Email Marketing,Puerto Montt,En Seguimiento,15400.0,0.0,6.0
+LEAD-1252,2026-03-14,Meta Ads,Antofagasta,En Seguimiento,16400.0,0.0,4.0
+LEAD-1253,2026-04-23,Email Marketing,Antofagasta,Calificado,9800.0,0.0,7.0
+LEAD-1254,2026-03-28,Meta Ads,Temuco,Convertido,11100.0,265000.0,10.0
+LEAD-1255,2026-03-30,Google Ads,Temuco,En Seguimiento,9000.0,0.0,4.0
+LEAD-1256,2026-03-24,Organico,Puerto Montt,Perdido,5500.0,0.0,1.0
+LEAD-1257,2026-05-23,Email Marketing,Santiago,Perdido,17300.0,0.0,2.0
+LEAD-1258,2026-03-19,Meta Ads,Valparaíso,Perdido,11900.0,0.0,3.0
+LEAD-1259,2026-03-11,Google Ads,Puerto Montt,Perdido,4600.0,0.0,4.0
+LEAD-1260,2026-04-16,Meta Ads,Puerto Montt,En Seguimiento,4000.0,0.0,7.0
+LEAD-1261,2026-05-30,LinkedIn Ads,La Serena,En Seguimiento,13600.0,0.0,7.0
+LEAD-1262,2026-05-28,Organico,Santiago,Calificado,12600.0,0.0,5.0
+LEAD-1263,2026-05-26,TikTok Ads,Valparaíso,Perdido,10300.0,0.0,2.0
+LEAD-1264,2026-05-16,Google Ads,Valparaíso,Calificado,6900.0,0.0,7.0
+LEAD-1265,2026-04-22,Organico,La Serena,Perdido,11200.0,0.0,1.0
+LEAD-1266,2026-05-10,LinkedIn Ads,Antofagasta,Convertido,8700.0,52000.0,9.0
+LEAD-1267,2026-03-17,Google Ads,Puerto Montt,Convertido,15600.0,282000.0,7.0
+LEAD-1268,2026-04-04,Organico,Santiago,Perdido,16400.0,0.0,4.0
+LEAD-1269,2026-03-16,LinkedIn Ads,,Perdido,16900.0,0.0,1.0
+LEAD-1270,2026-03-11,Google Ads,Antofagasta,En Seguimiento,10800.0,0.0,4.0
+LEAD-1271,2026-05-09,Meta Ads,La Serena,Convertido,3500.0,73000.0,7.0
+LEAD-1272,2026-04-30,LinkedIn Ads,La Serena,Calificado,12900.0,0.0,4.0
+LEAD-1273,2026-03-12,Email Marketing,Temuco,Calificado,17000.0,0.0,5.0
+LEAD-1274,2026-03-08,Meta Ads,La Serena,Convertido,8500.0,140000.0,10.0
+LEAD-1275,2026-03-21,Organico,Valparaíso,Convertido,11200.0,93000.0,7.0
+LEAD-1276,2026-03-24,LinkedIn Ads,Santiago,En Seguimiento,12200.0,0.0,8.0
+LEAD-1277,2026-05-18,Email Marketing,Puerto Montt,Calificado,10900.0,0.0,7.0
+LEAD-1278,2026-05-16,LinkedIn Ads,Puerto Montt,Convertido,4100.0,201000.0,10.0
+LEAD-1279,2026-03-09,LinkedIn Ads,Antofagasta,Convertido,9900.0,219000.0,9.0
+LEAD-1280,2026-05-07,Meta Ads,Antofagasta,Calificado,17300.0,0.0,6.0
+LEAD-1281,2026-03-02,LinkedIn Ads,Antofagasta,Convertido,,160000.0,10.0
+LEAD-1282,2026-03-21,Email Marketing,Puerto Montt,Convertido,,114000.0,7.0
+LEAD-1283,2026-03-20,LinkedIn Ads,Antofagasta,Perdido,6000.0,0.0,4.0
+LEAD-1284,2026-05-09,TikTok Ads,Puerto Montt,Perdido,6600.0,0.0,1.0
+LEAD-1285,2026-04-06,LinkedIn Ads,Temuco,Perdido,17300.0,0.0,2.0
+LEAD-1286,2026-04-26,Email Marketing,Puerto Montt,Convertido,9900.0,261000.0,9.0
+LEAD-1287,2026-04-14,Organico,Valparaíso,Perdido,11700.0,0.0,3.0
+LEAD-1288,2026-04-03,TikTok Ads,Temuco,Convertido,3600.0,74000.0,8.0
+LEAD-1289,2026-04-11,Meta Ads,Antofagasta,Convertido,13400.0,243000.0,8.0
+LEAD-1290,2026-05-15,LinkedIn Ads,Temuco,Perdido,6600.0,0.0,3.0
+LEAD-1291,2026-04-04,Google Ads,Puerto Montt,En Seguimiento,8300.0,0.0,5.0
+LEAD-1292,2026-03-04,Meta Ads,Concepción,Calificado,10000.0,0.0,6.0
+LEAD-1293,2026-03-31,Meta Ads,Temuco,En Seguimiento,10800.0,0.0,6.0
+LEAD-1294,2026-03-04,Google Ads,,Calificado,4400.0,0.0,4.0
+LEAD-1295,2026-03-17,Email Marketing,Antofagasta,Calificado,10100.0,0.0,7.0
+LEAD-1296,2026-03-12,LinkedIn Ads,Santiago,Perdido,4400.0,0.0,4.0
+LEAD-1297,2026-05-22,Google Ads,Temuco,Convertido,13800.0,220000.0,10.0
+LEAD-1298,2026-03-13,Email Marketing,Valparaíso,Convertido,12100.0,249000.0,10.0
+LEAD-1299,2026-03-25,Email Marketing,Valparaíso,Convertido,9800.0,243000.0,9.0
+LEAD-1300,2026-04-24,Meta Ads,Puerto Montt,Convertido,12700.0,279000.0,10.0
+LEAD-1301,2026-03-03,Google Ads,Temuco,Convertido,5900.0,223000.0,7.0
+LEAD-1302,2026-03-22,Meta Ads,Temuco,Calificado,12900.0,0.0,5.0
+LEAD-1303,2026-04-15,LinkedIn Ads,La Serena,Calificado,17400.0,0.0,6.0
+LEAD-1304,2026-05-02,TikTok Ads,Valparaíso,Perdido,13400.0,0.0,2.0
+LEAD-1305,2026-04-10,TikTok Ads,Concepción,En Seguimiento,,0.0,7.0
+LEAD-1306,2026-04-30,LinkedIn Ads,Temuco,Convertido,14600.0,187000.0,7.0
+LEAD-1307,2026-03-09,Organico,Antofagasta,En Seguimiento,5100.0,0.0,8.0
+LEAD-1308,2026-05-23,TikTok Ads,Santiago,Convertido,11100.0,80000.0,9.0
+LEAD-1309,2026-05-07,Organico,Santiago,Perdido,5500.0,0.0,2.0
+LEAD-1310,2026-05-21,LinkedIn Ads,Antofagasta,Calificado,12200.0,0.0,5.0
+LEAD-1311,2026-05-07,Google Ads,Puerto Montt,Convertido,8400.0,222000.0,8.0
+LEAD-1312,2026-04-16,Meta Ads,Puerto Montt,Calificado,4800.0,0.0,5.0
+LEAD-1313,2026-05-10,Meta Ads,Antofagasta,Perdido,6000.0,0.0,3.0
+LEAD-1314,2026-05-25,TikTok Ads,Temuco,Perdido,7700.0,0.0,3.0
+LEAD-1315,2026-03-16,Google Ads,Concepción,Convertido,17000.0,122000.0,8.0
+LEAD-1316,2026-04-18,TikTok Ads,Puerto Montt,Convertido,17600.0,79000.0,9.0
+LEAD-1317,2026-03-13,Email Marketing,Temuco,Perdido,5800.0,0.0,4.0
+LEAD-1318,2026-04-01,Google Ads,Puerto Montt,Calificado,17300.0,0.0,4.0
+LEAD-1319,2026-03-23,TikTok Ads,Puerto Montt,Perdido,6800.0,0.0,3.0
+LEAD-1320,2026-03-05,Organico,Puerto Montt,En Seguimiento,11900.0,0.0,5.0
+LEAD-1011,2026-03-30,TikTok Ads,Concepción,Calificado,11800.0,0.0,5.0
+LEAD-1012,2026-05-29,Organico,La Serena,Convertido,7400.0,150000.0,8.0
+LEAD-1013,2026-04-05,TikTok Ads,Concepción,Convertido,4900.0,182000.0,10.0
+LEAD-1014,2026-05-09,LinkedIn Ads,Valparaíso,Convertido,9400.0,236000.0,7.0
+LEAD-1015,2026-03-08,Organico,Temuco,Perdido,15100.0,0.0,3.0
+LEAD-1016,2026-05-09,Meta Ads,Puerto Montt,Calificado,5500.0,0.0,7.0
