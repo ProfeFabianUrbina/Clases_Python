@@ -1,0 +1,3002 @@
+[
+    {
+        "orden_id":"ORD-2001",
+        "fecha":"2026-04-28",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":202700,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2002",
+        "fecha":"2026-04-11",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":130800,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2003",
+        "fecha":"2026-04-22",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":835400,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2004",
+        "fecha":"2026-05-05",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":25400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2005",
+        "fecha":"2026-05-06",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":3,
+        "monto_total_clp":180300,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2006",
+        "fecha":"2026-04-21",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":159400,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2007",
+        "fecha":"2026-04-12",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":5,
+        "monto_total_clp":45500,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2008",
+        "fecha":"2026-04-23",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":3,
+        "monto_total_clp":123600,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2009",
+        "fecha":"2026-04-21",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":84900,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2010",
+        "fecha":"2026-05-12",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":260700,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2011",
+        "fecha":"2026-04-04",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":138800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2012",
+        "fecha":"2026-04-20",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":12800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2013",
+        "fecha":"2026-05-20",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":108100,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2014",
+        "fecha":"2026-05-15",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":333100,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2015",
+        "fecha":"2026-04-30",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":55500,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2016",
+        "fecha":"2026-04-06",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":318100,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2017",
+        "fecha":"2026-05-29",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":73400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2018",
+        "fecha":"2026-05-04",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":3,
+        "monto_total_clp":221700,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2019",
+        "fecha":"2026-05-18",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":64100,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2020",
+        "fecha":"2026-05-25",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":96100,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2021",
+        "fecha":"2026-04-30",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":119000,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2022",
+        "fecha":"2026-05-29",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":315400,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2023",
+        "fecha":"2026-04-03",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":4,
+        "monto_total_clp":203600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2024",
+        "fecha":"2026-05-19",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":4,
+        "monto_total_clp":387200,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2025",
+        "fecha":"2026-05-19",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":503000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2026",
+        "fecha":"2026-05-03",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":71800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2027",
+        "fecha":"2026-05-31",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":380400,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2028",
+        "fecha":"2026-04-24",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":3,
+        "monto_total_clp":305400,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2029",
+        "fecha":"2026-04-15",
+        "ciudad":"Temuco",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":35400,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2030",
+        "fecha":"2026-04-05",
+        "ciudad":"Temuco",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":452700,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2031",
+        "fecha":"2026-04-09",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":138500,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2032",
+        "fecha":"2026-04-09",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":69700,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2033",
+        "fecha":"2026-05-02",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":359200,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2034",
+        "fecha":"2026-04-14",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":62900,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2035",
+        "fecha":"2026-05-30",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":224300,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2036",
+        "fecha":"2026-05-19",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":548400,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2037",
+        "fecha":"2026-05-01",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":367000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2038",
+        "fecha":"2026-05-03",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":1277000,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2039",
+        "fecha":"2026-05-25",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":55000,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2040",
+        "fecha":"2026-04-25",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":500000,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2041",
+        "fecha":"2026-05-27",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":157000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2042",
+        "fecha":"2026-05-29",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":107400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2043",
+        "fecha":"2026-04-21",
+        "ciudad":"Valparaíso",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":4,
+        "monto_total_clp":202400,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2044",
+        "fecha":"2026-04-24",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":3,
+        "monto_total_clp":142800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2045",
+        "fecha":"2026-04-06",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":3,
+        "monto_total_clp":114600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2046",
+        "fecha":"2026-05-14",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":42400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2047",
+        "fecha":"2026-04-06",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":97600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2048",
+        "fecha":"2026-05-02",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":1060800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2049",
+        "fecha":"2026-05-12",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":539000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2050",
+        "fecha":"2026-04-20",
+        "ciudad":"Temuco",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":380800,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2051",
+        "fecha":"2026-04-20",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":811200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2052",
+        "fecha":"2026-05-12",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":5,
+        "monto_total_clp":983000,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2053",
+        "fecha":"2026-04-04",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":86600,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2054",
+        "fecha":"2026-05-21",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":514400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2055",
+        "fecha":"2026-04-26",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":90400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2056",
+        "fecha":"2026-04-12",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":137600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2057",
+        "fecha":"2026-04-19",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":4,
+        "monto_total_clp":772400,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2058",
+        "fecha":"2026-05-22",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":173800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2059",
+        "fecha":"2026-05-11",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":952200,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2060",
+        "fecha":"2026-05-04",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":443800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2061",
+        "fecha":"2026-05-04",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":74400,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2062",
+        "fecha":"2026-04-15",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":76800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2063",
+        "fecha":"2026-05-16",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":32600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2064",
+        "fecha":"2026-04-30",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":151600,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2065",
+        "fecha":"2026-05-24",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":85400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2066",
+        "fecha":"2026-05-21",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":93600,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2067",
+        "fecha":"2026-05-07",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":67700,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2068",
+        "fecha":"2026-04-12",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":97600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2069",
+        "fecha":"2026-04-20",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":354600,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2070",
+        "fecha":"2026-04-05",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":3,
+        "monto_total_clp":234000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2071",
+        "fecha":"2026-05-15",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":56900,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2072",
+        "fecha":"2026-05-25",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":104000,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2073",
+        "fecha":"2026-05-12",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":97800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2074",
+        "fecha":"2026-04-29",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":531100,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2075",
+        "fecha":"2026-04-08",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":3,
+        "monto_total_clp":45600,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2076",
+        "fecha":"2026-05-29",
+        "ciudad":"Temuco",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":49700,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2077",
+        "fecha":"2026-05-20",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":52200,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2078",
+        "fecha":"2026-05-12",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":112400,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2079",
+        "fecha":"2026-04-23",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":83500,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2080",
+        "fecha":"2026-05-06",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":5,
+        "monto_total_clp":281000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2081",
+        "fecha":"2026-05-08",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":53500,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2082",
+        "fecha":"2026-04-10",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":39700,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2083",
+        "fecha":"2026-05-29",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":625200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2084",
+        "fecha":"2026-05-28",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":542300,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2085",
+        "fecha":"2026-05-18",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":481200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2086",
+        "fecha":"2026-04-15",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":85400,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2087",
+        "fecha":"2026-05-11",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":74000,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2088",
+        "fecha":"2026-05-06",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":104400,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2089",
+        "fecha":"2026-04-13",
+        "ciudad":"Temuco",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":3,
+        "monto_total_clp":657600,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2090",
+        "fecha":"2026-05-08",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":96400,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2091",
+        "fecha":"2026-04-02",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":137000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2092",
+        "fecha":"2026-05-10",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":37100,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2093",
+        "fecha":"2026-05-07",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":27300,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2094",
+        "fecha":"2026-05-13",
+        "ciudad":"Temuco",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":4,
+        "monto_total_clp":116800,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2095",
+        "fecha":"2026-04-24",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":208700,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2096",
+        "fecha":"2026-04-21",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":3,
+        "monto_total_clp":531900,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2097",
+        "fecha":"2026-05-28",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":59200,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2098",
+        "fecha":"2026-04-29",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":4,
+        "monto_total_clp":1070800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2099",
+        "fecha":"2026-05-07",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":37100,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2100",
+        "fecha":"2026-04-24",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":68600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2101",
+        "fecha":"2026-05-27",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":3,
+        "monto_total_clp":1916100,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2102",
+        "fecha":"2026-04-09",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":4,
+        "monto_total_clp":2384400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2103",
+        "fecha":"2026-04-09",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":43900,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2104",
+        "fecha":"2026-04-08",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":10100,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2105",
+        "fecha":"2026-04-01",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":45300,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2106",
+        "fecha":"2026-04-23",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":404200,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2107",
+        "fecha":"2026-04-15",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":723200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2108",
+        "fecha":"2026-05-20",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":367800,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2109",
+        "fecha":"2026-05-10",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":65200,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2110",
+        "fecha":"2026-05-20",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":3,
+        "monto_total_clp":486300,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2111",
+        "fecha":"2026-05-18",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":1096800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2112",
+        "fecha":"2026-05-09",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":204900,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2113",
+        "fecha":"2026-04-24",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":249400,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2114",
+        "fecha":"2026-04-05",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":84800,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2115",
+        "fecha":"2026-05-13",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":26900,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2116",
+        "fecha":"2026-04-21",
+        "ciudad":"Temuco",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":11800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2117",
+        "fecha":"2026-05-21",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":4,
+        "monto_total_clp":130800,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2118",
+        "fecha":"2026-04-11",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":100200,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2119",
+        "fecha":"2026-05-27",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":53600,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2120",
+        "fecha":"2026-05-24",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":68800,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2121",
+        "fecha":"2026-04-06",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":36800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2122",
+        "fecha":"2026-05-11",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":102800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2123",
+        "fecha":"2026-04-15",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":3,
+        "monto_total_clp":1209000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2124",
+        "fecha":"2026-04-17",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":22300,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2125",
+        "fecha":"2026-05-22",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":49000,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2126",
+        "fecha":"2026-05-12",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":121400,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2127",
+        "fecha":"2026-04-23",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":99100,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2128",
+        "fecha":"2026-04-06",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":72300,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2129",
+        "fecha":"2026-04-25",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":86800,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2130",
+        "fecha":"2026-04-29",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":4,
+        "monto_total_clp":2459600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2131",
+        "fecha":"2026-05-15",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":266800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2132",
+        "fecha":"2026-04-16",
+        "ciudad":"Temuco",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":119600,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2133",
+        "fecha":"2026-05-25",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":4,
+        "monto_total_clp":256800,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2134",
+        "fecha":"2026-04-15",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":71400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2135",
+        "fecha":"2026-04-14",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":63200,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2136",
+        "fecha":"2026-04-07",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":87000,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2137",
+        "fecha":"2026-05-01",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":777400,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2138",
+        "fecha":"2026-04-25",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":1201200,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2139",
+        "fecha":"2026-05-28",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":4,
+        "monto_total_clp":1220000,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2140",
+        "fecha":"2026-04-13",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":32100,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2141",
+        "fecha":"2026-04-05",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":575600,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2142",
+        "fecha":"2026-05-27",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":1221600,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2143",
+        "fecha":"2026-04-27",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":214600,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2144",
+        "fecha":"2026-05-07",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":438600,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2145",
+        "fecha":"2026-04-14",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":3,
+        "monto_total_clp":137100,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2146",
+        "fecha":"2026-04-26",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":74700,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2147",
+        "fecha":"2026-04-29",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":118400,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2148",
+        "fecha":"2026-05-12",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":27500,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2149",
+        "fecha":"2026-04-14",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":552800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2150",
+        "fecha":"2026-04-29",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":22600,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2151",
+        "fecha":"2026-04-07",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":50900,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2152",
+        "fecha":"2026-05-13",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":38600,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2153",
+        "fecha":"2026-04-04",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":535900,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2154",
+        "fecha":"2026-04-08",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":336500,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2155",
+        "fecha":"2026-05-19",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":638000,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2156",
+        "fecha":"2026-04-24",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":111100,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2157",
+        "fecha":"2026-04-16",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":45000,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2158",
+        "fecha":"2026-05-13",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":108800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2159",
+        "fecha":"2026-04-27",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":3,
+        "monto_total_clp":165000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2160",
+        "fecha":"2026-04-15",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":33300,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2161",
+        "fecha":"2026-04-18",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":22100,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2162",
+        "fecha":"2026-05-07",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":3,
+        "monto_total_clp":35400,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2163",
+        "fecha":"2026-04-05",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":35700,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2164",
+        "fecha":"2026-04-13",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":107400,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2165",
+        "fecha":"2026-05-02",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":293800,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2166",
+        "fecha":"2026-05-22",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":39800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2167",
+        "fecha":"2026-05-19",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":99200,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2168",
+        "fecha":"2026-05-29",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":5,
+        "monto_total_clp":885500,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2169",
+        "fecha":"2026-05-10",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":17400,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2170",
+        "fecha":"2026-04-23",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":363800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2171",
+        "fecha":"2026-04-20",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":18800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2172",
+        "fecha":"2026-05-24",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":79800,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2173",
+        "fecha":"2026-05-12",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":53600,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2174",
+        "fecha":"2026-05-07",
+        "ciudad":"Valparaíso",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":646200,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2175",
+        "fecha":"2026-05-26",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":80900,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2176",
+        "fecha":"2026-04-14",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":326700,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2177",
+        "fecha":"2026-05-23",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":70000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2178",
+        "fecha":"2026-05-11",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":67500,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2179",
+        "fecha":"2026-05-29",
+        "ciudad":"Valparaíso",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":82600,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2180",
+        "fecha":"2026-04-04",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":95800,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2181",
+        "fecha":"2026-05-14",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":1050400,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2182",
+        "fecha":"2026-04-20",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":70000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2183",
+        "fecha":"2026-05-31",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":416300,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2184",
+        "fecha":"2026-04-05",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":264400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2185",
+        "fecha":"2026-05-23",
+        "ciudad":"Valparaíso",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":4,
+        "monto_total_clp":1445200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2186",
+        "fecha":"2026-05-03",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":140200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2187",
+        "fecha":"2026-05-03",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":114200,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2188",
+        "fecha":"2026-04-26",
+        "ciudad":"Temuco",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":213400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2189",
+        "fecha":"2026-05-08",
+        "ciudad":"Santiago",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":86200,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2190",
+        "fecha":"2026-05-22",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":62100,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2191",
+        "fecha":"2026-05-07",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":3,
+        "monto_total_clp":1942200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2192",
+        "fecha":"2026-04-14",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Marketplace",
+        "categoria":"Moda",
+        "unidades":4,
+        "monto_total_clp":192000,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2193",
+        "fecha":"2026-05-30",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":520900,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2194",
+        "fecha":"2026-05-11",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":47200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2195",
+        "fecha":"2026-04-03",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":77500,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2196",
+        "fecha":"2026-04-28",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":395600,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2197",
+        "fecha":"2026-05-02",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":87200,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2198",
+        "fecha":"2026-05-10",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":52000,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2199",
+        "fecha":"2026-04-26",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Tecnología",
+        "unidades":5,
+        "monto_total_clp":500500,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2200",
+        "fecha":"2026-05-12",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":227800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2201",
+        "fecha":"2026-04-07",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":30700,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2202",
+        "fecha":"2026-05-22",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":46200,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2203",
+        "fecha":"2026-05-14",
+        "ciudad":"Valparaíso",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":22600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2204",
+        "fecha":"2026-05-30",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":49200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2205",
+        "fecha":"2026-05-24",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":285700,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2206",
+        "fecha":"2026-04-28",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":65800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2207",
+        "fecha":"2026-05-21",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":68500,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2208",
+        "fecha":"2026-05-25",
+        "ciudad":"Temuco",
+        "canal_venta":"Marketplace",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":76100,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2209",
+        "fecha":"2026-05-16",
+        "ciudad":"Concepción",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":3,
+        "monto_total_clp":340500,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2210",
+        "fecha":"2026-04-19",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":85500,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2211",
+        "fecha":"2026-04-21",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Deportes",
+        "unidades":5,
+        "monto_total_clp":267000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2212",
+        "fecha":"2026-05-01",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":4,
+        "monto_total_clp":485600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2213",
+        "fecha":"2026-05-12",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":577000,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2214",
+        "fecha":"2026-05-21",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":22100,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2215",
+        "fecha":"2026-04-14",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":280600,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2216",
+        "fecha":"2026-04-24",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":4,
+        "monto_total_clp":195600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2217",
+        "fecha":"2026-05-16",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":5,
+        "monto_total_clp":2073000,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2218",
+        "fecha":"2026-04-07",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":30800,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2219",
+        "fecha":"2026-04-07",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":106700,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2220",
+        "fecha":"2026-05-11",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":26600,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2221",
+        "fecha":"2026-04-22",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":201800,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2222",
+        "fecha":"2026-05-28",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":102400,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2223",
+        "fecha":"2026-04-29",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":626200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2224",
+        "fecha":"2026-05-28",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":385900,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2225",
+        "fecha":"2026-05-21",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":42600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2226",
+        "fecha":"2026-04-09",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":334700,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2227",
+        "fecha":"2026-04-09",
+        "ciudad":"Temuco",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":3,
+        "monto_total_clp":191700,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2228",
+        "fecha":"2026-04-28",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":3,
+        "monto_total_clp":244500,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2229",
+        "fecha":"2026-04-27",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":110900,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2230",
+        "fecha":"2026-04-05",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":71500,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2231",
+        "fecha":"2026-04-19",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Marketplace",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":72400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2232",
+        "fecha":"2026-05-10",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":90500,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2233",
+        "fecha":"2026-04-01",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":51000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2234",
+        "fecha":"2026-05-18",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":60900,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2235",
+        "fecha":"2026-05-15",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":3,
+        "monto_total_clp":420300,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2236",
+        "fecha":"2026-04-22",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":275800,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2237",
+        "fecha":"2026-04-21",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":3,
+        "monto_total_clp":554400,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2238",
+        "fecha":"2026-04-21",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":170000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2239",
+        "fecha":"2026-05-07",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":1061200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2240",
+        "fecha":"2026-04-15",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":120600,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2241",
+        "fecha":"2026-05-28",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":48100,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2242",
+        "fecha":"2026-04-11",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":61400,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2243",
+        "fecha":"2026-04-10",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":19700,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2244",
+        "fecha":"2026-05-04",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":393700,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2245",
+        "fecha":"2026-05-11",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":9400,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2246",
+        "fecha":"2026-04-29",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":522300,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2247",
+        "fecha":"2026-04-01",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":3,
+        "monto_total_clp":1267500,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2248",
+        "fecha":"2026-05-30",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":161600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2249",
+        "fecha":"2026-05-10",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":5,
+        "monto_total_clp":1395000,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2250",
+        "fecha":"2026-05-27",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":40500,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2251",
+        "fecha":"2026-04-02",
+        "ciudad":"Temuco",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":235900,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2252",
+        "fecha":"2026-05-14",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":4,
+        "monto_total_clp":325200,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2253",
+        "fecha":"2026-05-18",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":33200,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2254",
+        "fecha":"2026-04-02",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":3,
+        "monto_total_clp":1080300,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2255",
+        "fecha":"2026-04-04",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":721800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2256",
+        "fecha":"2026-05-01",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":391900,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2257",
+        "fecha":"2026-05-09",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":430900,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2258",
+        "fecha":"2026-04-13",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":326700,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2259",
+        "fecha":"2026-04-22",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":658000,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2260",
+        "fecha":"2026-04-29",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":726600,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2261",
+        "fecha":"2026-04-24",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":465000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2262",
+        "fecha":"2026-04-21",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":2,
+        "monto_total_clp":146600,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2263",
+        "fecha":"2026-04-23",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Línea Blanca",
+        "unidades":1,
+        "monto_total_clp":560000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2264",
+        "fecha":"2026-04-12",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Moda",
+        "unidades":2,
+        "monto_total_clp":51800,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2265",
+        "fecha":"2026-04-11",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":365400,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2266",
+        "fecha":"2026-05-09",
+        "ciudad":"Santiago",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":55400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2267",
+        "fecha":"2026-05-09",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Moda",
+        "unidades":3,
+        "monto_total_clp":181200,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2268",
+        "fecha":"2026-05-04",
+        "ciudad":"Concepción",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":3,
+        "monto_total_clp":29400,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2269",
+        "fecha":"2026-05-10",
+        "ciudad":"Antofagasta",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":114500,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2270",
+        "fecha":"2026-05-31",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":89000,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2271",
+        "fecha":"2026-05-19",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":15300,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2272",
+        "fecha":"2026-05-28",
+        "ciudad":"Santiago",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":3,
+        "monto_total_clp":180600,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2273",
+        "fecha":"2026-05-09",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":164600,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2274",
+        "fecha":"2026-05-14",
+        "ciudad":"Temuco",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":300300,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2275",
+        "fecha":"2026-05-02",
+        "ciudad":"Temuco",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":34700,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2276",
+        "fecha":"2026-04-27",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":3,
+        "monto_total_clp":264900,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2277",
+        "fecha":"2026-05-31",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":4,
+        "monto_total_clp":411200,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2278",
+        "fecha":"2026-04-17",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":24200,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2279",
+        "fecha":"2026-04-21",
+        "ciudad":"La Serena",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":199800,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2280",
+        "fecha":"2026-05-27",
+        "ciudad":"Temuco",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":71800,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2281",
+        "fecha":"2026-04-14",
+        "ciudad":"Valparaíso",
+        "canal_venta":"Sitio Web",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":63200,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2282",
+        "fecha":"2026-05-18",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":5,
+        "monto_total_clp":2037500,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2283",
+        "fecha":"2026-04-21",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":32000,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2284",
+        "fecha":"2026-04-29",
+        "ciudad":"Valparaíso",
+        "canal_venta":"App Móvil",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":470500,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2285",
+        "fecha":"2026-05-09",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Tecnología",
+        "unidades":1,
+        "monto_total_clp":131100,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2286",
+        "fecha":"2026-04-03",
+        "ciudad":"Concepción",
+        "canal_venta":"Tienda Física",
+        "categoria":"Deportes",
+        "unidades":3,
+        "monto_total_clp":333900,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2287",
+        "fecha":"2026-05-04",
+        "ciudad":"Concepción",
+        "canal_venta":"Sitio Web",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":49000,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2288",
+        "fecha":"2026-04-12",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":93300,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2289",
+        "fecha":"2026-05-31",
+        "ciudad":"Santiago",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":207600,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2290",
+        "fecha":"2026-04-06",
+        "ciudad":"Temuco",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":4,
+        "monto_total_clp":190800,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2291",
+        "fecha":"2026-04-20",
+        "ciudad":"Temuco",
+        "canal_venta":"Tienda Física",
+        "categoria":"Línea Blanca",
+        "unidades":3,
+        "monto_total_clp":1831200,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2292",
+        "fecha":"2026-04-28",
+        "ciudad":"La Serena",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":55900,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2293",
+        "fecha":"2026-04-12",
+        "ciudad":"Valparaíso",
+        "canal_venta":"App Móvil",
+        "categoria":"Deportes",
+        "unidades":2,
+        "monto_total_clp":168000,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2294",
+        "fecha":"2026-04-03",
+        "ciudad":"La Serena",
+        "canal_venta":"Sitio Web",
+        "categoria":"Moda",
+        "unidades":3,
+        "monto_total_clp":67500,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2295",
+        "fecha":"2026-04-28",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Deportes",
+        "unidades":1,
+        "monto_total_clp":27700,
+        "metodo_pago":"Tarjeta Débito"
+    },
+    {
+        "orden_id":"ORD-2296",
+        "fecha":"2026-05-23",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Marketplace",
+        "categoria":"Línea Blanca",
+        "unidades":2,
+        "monto_total_clp":220400,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2297",
+        "fecha":"2026-04-22",
+        "ciudad":"Antofagasta",
+        "canal_venta":"Tienda Física",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":35700,
+        "metodo_pago":"Transferencia"
+    },
+    {
+        "orden_id":"ORD-2298",
+        "fecha":"2026-05-22",
+        "ciudad":"Temuco",
+        "canal_venta":"Marketplace",
+        "categoria":"Moda",
+        "unidades":1,
+        "monto_total_clp":14000,
+        "metodo_pago":"Efectivo"
+    },
+    {
+        "orden_id":"ORD-2299",
+        "fecha":"2026-04-20",
+        "ciudad":"Valparaíso",
+        "canal_venta":"App Móvil",
+        "categoria":"Decohogar",
+        "unidades":1,
+        "monto_total_clp":35500,
+        "metodo_pago":"Tarjeta Crédito"
+    },
+    {
+        "orden_id":"ORD-2300",
+        "fecha":"2026-04-16",
+        "ciudad":"La Serena",
+        "canal_venta":"Tienda Física",
+        "categoria":"Tecnología",
+        "unidades":2,
+        "monto_total_clp":752400,
+        "metodo_pago":"Tarjeta Débito"
+    }
+]
