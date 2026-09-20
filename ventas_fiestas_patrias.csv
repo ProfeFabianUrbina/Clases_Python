@@ -1,0 +1,121 @@
+id_boleta,sucursal,categoria,canal_venta,cantidad_items,ticket_clp,tiempo_entrega_min
+BOL-202600,Santiago Centro,Panadería,E-Commerce,5,19990,25.0
+BOL-202601,Viña del Mar,Bebidas y Licores,App Delivery,4,15990,40.0
+BOL-202602,Santiago Centro,Carnicería y Parrilla,Presencial,5,24500,15.0
+BOL-202603,Maipú,Bebidas y Licores,App Delivery,2,8990,40.0
+BOL-202604,Viña del Mar,Snacks y Abarrotes,Presencial,2,24500,35.0
+BOL-202605,Santiago Centro,Carnicería y Parrilla,Presencial,4,19990,20.0
+BOL-202606,Las Condes,Carnicería y Parrilla,Presencial,7,19990,35.0
+BOL-202607,Las Condes,Snacks y Abarrotes,E-Commerce,3,45000,20.0
+BOL-202608,Las Condes,Bebidas y Licores,E-Commerce,2,12500,15.0
+BOL-202609,Maipú,Panadería,Presencial,8,8990,25.0
+BOL-202610,Maipú,Snacks y Abarrotes,Presencial,5,15990,15.0
+BOL-202611,Las Condes,Bebidas y Licores,Presencial,5,24500,40.0
+BOL-202612,Las Condes,Snacks y Abarrotes,App Delivery,5,19990,40.0
+BOL-202613,Santiago Centro,Snacks y Abarrotes,Presencial,7,8990,15.0
+BOL-202614,Santiago Centro,Snacks y Abarrotes,App Delivery,3,8990,20.0
+BOL-202615,Viña del Mar,Bebidas y Licores,Presencial,1,145000,30.0
+BOL-202616,Maipú,Snacks y Abarrotes,Presencial,2,19990,30.0
+BOL-202617,Santiago Centro,Panadería,Presencial,6,24500,25.0
+BOL-202618,Maipú,Snacks y Abarrotes,App Delivery,1,8990,
+BOL-202619,Viña del Mar,Carnicería y Parrilla,E-Commerce,7,19990,30.0
+BOL-202620,Las Condes,Carnicería y Parrilla,Presencial,5,19990,25.0
+BOL-202621,Viña del Mar,Carnicería y Parrilla,App Delivery,6,12500,25.0
+BOL-202622,Santiago Centro,Snacks y Abarrotes,Presencial,2,19990,20.0
+BOL-202623,Santiago Centro,Snacks y Abarrotes,E-Commerce,4,24500,20.0
+BOL-202624,Viña del Mar,Bebidas y Licores,E-Commerce,7,8990,20.0
+BOL-202625,Viña del Mar,Bebidas y Licores,App Delivery,1,32000,15.0
+BOL-202626,Viña del Mar,Snacks y Abarrotes,App Delivery,6,15990,35.0
+BOL-202627,Las Condes,Carnicería y Parrilla,Presencial,5,19990,20.0
+BOL-202628,Las Condes,Bebidas y Licores,Presencial,6,12500,30.0
+BOL-202629,Santiago Centro,Panadería,Presencial,3,24500,40.0
+BOL-202630,Las Condes,Carnicería y Parrilla,Presencial,8,12500,15.0
+BOL-202631,Concepción,Snacks y Abarrotes,Presencial,6,12500,15.0
+BOL-202632,Concepción,Snacks y Abarrotes,Presencial,7,12500,30.0
+BOL-202633,Viña del Mar,Bebidas y Licores,App Delivery,7,24500,30.0
+BOL-202634,Santiago Centro,Bebidas y Licores,Presencial,7,15990,20.0
+BOL-202635,Viña del Mar,Bebidas y Licores,Presencial,5,8990,35.0
+BOL-202636,Las Condes,Carnicería y Parrilla,Presencial,1,19990,25.0
+BOL-202637,Santiago Centro,Panadería,App Delivery,4,15990,30.0
+BOL-202638,Santiago Centro,Carnicería y Parrilla,Presencial,2,15990,15.0
+BOL-202639,Maipú,Panadería,Presencial,3,15990,15.0
+BOL-202640,Maipú,Carnicería y Parrilla,App Delivery,2,8990,30.0
+BOL-202641,Las Condes,Bebidas y Licores,App Delivery,1,19990,15.0
+BOL-202642,Santiago Centro,Carnicería y Parrilla,App Delivery,7,185000,35.0
+BOL-202643,Maipú,Snacks y Abarrotes,Presencial,7,8990,15.0
+BOL-202644,Concepción,Bebidas y Licores,Presencial,7,8990,20.0
+BOL-202645,Viña del Mar,Carnicería y Parrilla,Presencial,4,12500,15.0
+BOL-202646,Concepción,Snacks y Abarrotes,Presencial,6,45000,15.0
+BOL-202647,Concepción,Panadería,Presencial,1,12500,20.0
+BOL-202648,Viña del Mar,Bebidas y Licores,App Delivery,1,8990,30.0
+BOL-202649,Concepción,Snacks y Abarrotes,Presencial,4,8990,20.0
+BOL-202650,Maipú,Snacks y Abarrotes,Presencial,1,12500,25.0
+BOL-202651,Viña del Mar,Bebidas y Licores,Presencial,3,24500,15.0
+BOL-202652,Santiago Centro,Bebidas y Licores,App Delivery,8,12500,30.0
+BOL-202653,Las Condes,Carnicería y Parrilla,Presencial,6,32000,15.0
+BOL-202654,Las Condes,Carnicería y Parrilla,Presencial,2,45000,30.0
+BOL-202655,Viña del Mar,Snacks y Abarrotes,Presencial,3,8990,30.0
+BOL-202656,Santiago Centro,Snacks y Abarrotes,Presencial,4,19990,25.0
+BOL-202657,Concepción,Snacks y Abarrotes,Presencial,5,19990,35.0
+BOL-202658,Maipú,Bebidas y Licores,E-Commerce,2,15990,15.0
+BOL-202659,Concepción,Carnicería y Parrilla,E-Commerce,4,12500,35.0
+BOL-202660,Maipú,Bebidas y Licores,Presencial,6,19990,20.0
+BOL-202661,Maipú,Carnicería y Parrilla,Presencial,4,19990,20.0
+BOL-202662,Maipú,Carnicería y Parrilla,Presencial,8,15990,20.0
+BOL-202663,Santiago Centro,Snacks y Abarrotes,App Delivery,8,45000,40.0
+BOL-202664,Viña del Mar,Carnicería y Parrilla,Presencial,5,15990,15.0
+BOL-202665,Las Condes,Snacks y Abarrotes,Presencial,7,19990,15.0
+BOL-202666,Santiago Centro,Panadería,Presencial,2,12500,30.0
+BOL-202667,Maipú,Bebidas y Licores,App Delivery,6,12500,30.0
+BOL-202668,Concepción,Carnicería y Parrilla,Presencial,1,32000,30.0
+BOL-202669,Las Condes,Snacks y Abarrotes,Presencial,4,19990,20.0
+BOL-202670,Las Condes,Carnicería y Parrilla,App Delivery,5,19990,25.0
+BOL-202671,Santiago Centro,Carnicería y Parrilla,App Delivery,4,8990,15.0
+BOL-202672,Las Condes,Snacks y Abarrotes,Presencial,5,32000,40.0
+BOL-202673,Concepción,Panadería,Presencial,6,12500,25.0
+BOL-202674,Santiago Centro,Bebidas y Licores,App Delivery,6,15990,25.0
+BOL-202675,Las Condes,Snacks y Abarrotes,App Delivery,8,8990,15.0
+BOL-202676,Santiago Centro,Snacks y Abarrotes,Presencial,7,12500,15.0
+BOL-202677,Santiago Centro,Bebidas y Licores,Presencial,6,12500,30.0
+BOL-202678,Las Condes,Bebidas y Licores,Presencial,3,8990,20.0
+BOL-202679,Concepción,Carnicería y Parrilla,App Delivery,1,19990,20.0
+BOL-202680,Santiago Centro,Snacks y Abarrotes,Presencial,8,15990,20.0
+BOL-202681,Santiago Centro,Panadería,Presencial,2,24500,
+BOL-202682,Maipú,Carnicería y Parrilla,App Delivery,7,19990,35.0
+BOL-202683,Concepción,Bebidas y Licores,App Delivery,7,15990,40.0
+BOL-202684,Santiago Centro,Snacks y Abarrotes,App Delivery,1,8990,20.0
+BOL-202685,Maipú,Carnicería y Parrilla,Presencial,8,19990,35.0
+BOL-202686,Viña del Mar,Carnicería y Parrilla,App Delivery,6,12500,15.0
+BOL-202687,Las Condes,Snacks y Abarrotes,Presencial,2,15990,35.0
+BOL-202688,Maipú,Carnicería y Parrilla,App Delivery,2,220000,15.0
+BOL-202689,Concepción,Panadería,App Delivery,8,8990,20.0
+BOL-202690,Santiago Centro,Bebidas y Licores,App Delivery,3,12500,15.0
+BOL-202691,Maipú,Bebidas y Licores,App Delivery,7,12500,35.0
+BOL-202692,Maipú,Bebidas y Licores,Presencial,6,8990,20.0
+BOL-202693,Las Condes,Bebidas y Licores,Presencial,8,12500,30.0
+BOL-202694,Concepción,Carnicería y Parrilla,App Delivery,6,8990,20.0
+BOL-202695,Santiago Centro,Bebidas y Licores,Presencial,7,12500,25.0
+BOL-202696,Santiago Centro,Snacks y Abarrotes,E-Commerce,8,24500,35.0
+BOL-202697,Las Condes,Bebidas y Licores,E-Commerce,4,19990,25.0
+BOL-202698,Santiago Centro,Carnicería y Parrilla,Presencial,7,24500,30.0
+BOL-202699,Concepción,Snacks y Abarrotes,App Delivery,3,8990,40.0
+BOL-202700,Concepción,Bebidas y Licores,App Delivery,3,19990,20.0
+BOL-202701,Santiago Centro,Snacks y Abarrotes,App Delivery,8,15990,
+BOL-202702,Santiago Centro,Carnicería y Parrilla,E-Commerce,1,15990,20.0
+BOL-202703,Santiago Centro,Panadería,Presencial,5,15990,20.0
+BOL-202704,Maipú,Carnicería y Parrilla,E-Commerce,5,15990,20.0
+BOL-202705,Santiago Centro,Carnicería y Parrilla,Presencial,6,15990,15.0
+BOL-202706,Santiago Centro,Bebidas y Licores,App Delivery,7,32000,25.0
+BOL-202707,Santiago Centro,Bebidas y Licores,Presencial,8,15990,40.0
+BOL-202708,Santiago Centro,Carnicería y Parrilla,Presencial,7,15990,20.0
+BOL-202709,Las Condes,Snacks y Abarrotes,Presencial,5,15990,25.0
+BOL-202710,Las Condes,Carnicería y Parrilla,App Delivery,2,12500,20.0
+BOL-202711,Santiago Centro,Bebidas y Licores,Presencial,2,19990,20.0
+BOL-202712,Maipú,Panadería,App Delivery,4,15990,25.0
+BOL-202713,Las Condes,Panadería,Presencial,8,12500,20.0
+BOL-202714,Santiago Centro,Carnicería y Parrilla,E-Commerce,3,24500,25.0
+BOL-202715,Santiago Centro,Carnicería y Parrilla,Presencial,3,8990,30.0
+BOL-202716,Santiago Centro,Bebidas y Licores,App Delivery,3,12500,
+BOL-202717,Viña del Mar,Bebidas y Licores,Presencial,4,45000,25.0
+BOL-202718,Maipú,Bebidas y Licores,Presencial,3,15990,40.0
+BOL-202719,Las Condes,Panadería,Presencial,1,15990,20.0
