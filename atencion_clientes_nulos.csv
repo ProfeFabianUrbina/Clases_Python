@@ -1,0 +1,141 @@
+id_ticket,email_contacto,canal_contacto,costo_adquisicion_clp,calificacion_atencion,descuento_aplicado,monto_compra_clp
+TCK-3000,cliente_1@empresa.cl,WhatsApp,28000.0,4.0,15000.0,95000
+TCK-3001,cliente_2@empresa.cl,Web Chat,35000.0,4.0,,140000
+TCK-3002,cliente_3@empresa.cl,Correo Electrónico,,5.0,10000.0,140000
+TCK-3003,cliente_4@empresa.cl,WhatsApp,15000.0,5.0,20000.0,220000
+TCK-3004,,,15000.0,4.0,,68000
+TCK-3005,cliente_6@empresa.cl,Teléfono,35000.0,4.0,,95000
+TCK-3006,cliente_7@empresa.cl,Teléfono,35000.0,3.0,5000.0,220000
+TCK-3007,cliente_8@empresa.cl,Web Chat,48000.0,4.0,10000.0,95000
+TCK-3008,cliente_9@empresa.cl,WhatsApp,48000.0,4.0,,68000
+TCK-3009,cliente_10@empresa.cl,,28000.0,2.0,10000.0,140000
+TCK-3010,cliente_11@empresa.cl,Teléfono,35000.0,4.0,,45000
+TCK-3011,cliente_12@empresa.cl,Web Chat,15000.0,4.0,,140000
+TCK-3012,cliente_13@empresa.cl,Correo Electrónico,48000.0,5.0,5000.0,220000
+TCK-3013,cliente_14@empresa.cl,Teléfono,48000.0,5.0,5000.0,45000
+TCK-3014,cliente_15@empresa.cl,,,4.0,,220000
+TCK-3015,cliente_16@empresa.cl,Teléfono,48000.0,,5000.0,68000
+TCK-3016,cliente_17@empresa.cl,Teléfono,28000.0,1.0,,45000
+TCK-3017,cliente_18@empresa.cl,WhatsApp,35000.0,5.0,10000.0,220000
+TCK-3018,cliente_19@empresa.cl,WhatsApp,15000.0,5.0,15000.0,68000
+TCK-3019,cliente_20@empresa.cl,Teléfono,35000.0,3.0,,140000
+TCK-3020,cliente_21@empresa.cl,WhatsApp,48000.0,4.0,15000.0,68000
+TCK-3021,cliente_22@empresa.cl,,48000.0,2.0,,95000
+TCK-3022,cliente_23@empresa.cl,Teléfono,15000.0,3.0,10000.0,68000
+TCK-3023,cliente_24@empresa.cl,WhatsApp,28000.0,3.0,,68000
+TCK-3024,cliente_25@empresa.cl,WhatsApp,22000.0,3.0,,95000
+TCK-3025,cliente_26@empresa.cl,,15000.0,5.0,,220000
+TCK-3026,cliente_27@empresa.cl,Teléfono,22000.0,4.0,,220000
+TCK-3027,,WhatsApp,22000.0,3.0,,68000
+TCK-3028,cliente_29@empresa.cl,WhatsApp,28000.0,4.0,15000.0,95000
+TCK-3029,cliente_30@empresa.cl,Teléfono,22000.0,5.0,5000.0,95000
+TCK-3030,cliente_31@empresa.cl,WhatsApp,22000.0,5.0,15000.0,140000
+TCK-3031,cliente_32@empresa.cl,Teléfono,28000.0,2.0,15000.0,220000
+TCK-3032,cliente_33@empresa.cl,Teléfono,22000.0,3.0,15000.0,45000
+TCK-3033,cliente_34@empresa.cl,,22000.0,2.0,15000.0,220000
+TCK-3034,cliente_35@empresa.cl,Web Chat,22000.0,,15000.0,220000
+TCK-3035,cliente_36@empresa.cl,Correo Electrónico,15000.0,3.0,5000.0,140000
+TCK-3036,cliente_37@empresa.cl,Teléfono,15000.0,4.0,5000.0,45000
+TCK-3037,cliente_38@empresa.cl,Teléfono,15000.0,3.0,10000.0,140000
+TCK-3038,cliente_39@empresa.cl,Correo Electrónico,28000.0,3.0,,45000
+TCK-3039,cliente_40@empresa.cl,WhatsApp,48000.0,3.0,5000.0,68000
+TCK-3040,cliente_41@empresa.cl,Teléfono,22000.0,3.0,,45000
+TCK-3041,cliente_42@empresa.cl,WhatsApp,22000.0,3.0,,140000
+TCK-3042,cliente_43@empresa.cl,Teléfono,28000.0,,,220000
+TCK-3043,cliente_44@empresa.cl,Web Chat,22000.0,1.0,,45000
+TCK-3044,cliente_45@empresa.cl,Teléfono,15000.0,3.0,15000.0,45000
+TCK-3045,cliente_46@empresa.cl,Correo Electrónico,48000.0,4.0,10000.0,95000
+TCK-3046,cliente_47@empresa.cl,Teléfono,,4.0,10000.0,220000
+TCK-3047,cliente_48@empresa.cl,WhatsApp,,3.0,10000.0,68000
+TCK-3048,cliente_49@empresa.cl,WhatsApp,15000.0,2.0,10000.0,140000
+TCK-3049,cliente_50@empresa.cl,Teléfono,35000.0,2.0,5000.0,68000
+TCK-3050,cliente_51@empresa.cl,Web Chat,,5.0,5000.0,220000
+TCK-3051,cliente_52@empresa.cl,Correo Electrónico,35000.0,4.0,,45000
+TCK-3052,cliente_53@empresa.cl,Web Chat,15000.0,4.0,,45000
+TCK-3053,cliente_54@empresa.cl,Web Chat,,5.0,5000.0,220000
+TCK-3054,cliente_55@empresa.cl,WhatsApp,28000.0,,10000.0,45000
+TCK-3055,cliente_56@empresa.cl,Web Chat,35000.0,5.0,10000.0,45000
+TCK-3056,cliente_57@empresa.cl,Teléfono,22000.0,4.0,5000.0,45000
+TCK-3057,cliente_58@empresa.cl,Teléfono,22000.0,3.0,,140000
+TCK-3058,cliente_59@empresa.cl,Teléfono,28000.0,4.0,10000.0,140000
+TCK-3059,cliente_60@empresa.cl,Teléfono,15000.0,5.0,5000.0,95000
+TCK-3060,cliente_61@empresa.cl,,22000.0,4.0,,68000
+TCK-3061,cliente_62@empresa.cl,Teléfono,48000.0,5.0,10000.0,220000
+TCK-3062,cliente_63@empresa.cl,Correo Electrónico,22000.0,3.0,15000.0,220000
+TCK-3063,cliente_64@empresa.cl,,22000.0,4.0,,220000
+TCK-3064,cliente_65@empresa.cl,,15000.0,,20000.0,95000
+TCK-3065,cliente_66@empresa.cl,WhatsApp,35000.0,,15000.0,140000
+TCK-3066,cliente_67@empresa.cl,Teléfono,22000.0,4.0,15000.0,95000
+TCK-3067,cliente_68@empresa.cl,Correo Electrónico,28000.0,2.0,,220000
+TCK-3068,cliente_69@empresa.cl,Teléfono,,1.0,,68000
+TCK-3069,cliente_70@empresa.cl,Web Chat,48000.0,2.0,,45000
+TCK-3070,cliente_71@empresa.cl,Correo Electrónico,15000.0,,15000.0,140000
+TCK-3071,,Teléfono,48000.0,,10000.0,140000
+TCK-3072,cliente_73@empresa.cl,Teléfono,35000.0,4.0,,95000
+TCK-3073,,Correo Electrónico,35000.0,4.0,5000.0,140000
+TCK-3074,cliente_75@empresa.cl,Correo Electrónico,35000.0,4.0,,220000
+TCK-3075,cliente_76@empresa.cl,,48000.0,5.0,5000.0,220000
+TCK-3076,cliente_77@empresa.cl,,35000.0,4.0,,95000
+TCK-3077,cliente_78@empresa.cl,Teléfono,,4.0,10000.0,220000
+TCK-3078,cliente_79@empresa.cl,WhatsApp,35000.0,5.0,10000.0,68000
+TCK-3079,cliente_80@empresa.cl,Teléfono,28000.0,3.0,,95000
+TCK-3080,cliente_81@empresa.cl,Web Chat,35000.0,3.0,10000.0,68000
+TCK-3081,cliente_82@empresa.cl,WhatsApp,48000.0,,10000.0,45000
+TCK-3082,cliente_83@empresa.cl,Teléfono,22000.0,3.0,15000.0,68000
+TCK-3083,cliente_84@empresa.cl,Teléfono,35000.0,3.0,5000.0,45000
+TCK-3084,cliente_85@empresa.cl,Teléfono,22000.0,3.0,10000.0,45000
+TCK-3085,cliente_86@empresa.cl,Teléfono,28000.0,5.0,10000.0,68000
+TCK-3086,cliente_87@empresa.cl,Correo Electrónico,15000.0,5.0,15000.0,95000
+TCK-3087,cliente_88@empresa.cl,WhatsApp,,1.0,10000.0,220000
+TCK-3088,cliente_89@empresa.cl,Web Chat,35000.0,3.0,,220000
+TCK-3089,cliente_90@empresa.cl,WhatsApp,22000.0,1.0,20000.0,45000
+TCK-3090,cliente_91@empresa.cl,Teléfono,22000.0,,5000.0,45000
+TCK-3091,cliente_92@empresa.cl,Correo Electrónico,48000.0,4.0,5000.0,95000
+TCK-3092,,Correo Electrónico,22000.0,5.0,10000.0,140000
+TCK-3093,cliente_94@empresa.cl,WhatsApp,48000.0,3.0,5000.0,68000
+TCK-3094,cliente_95@empresa.cl,Correo Electrónico,15000.0,5.0,10000.0,45000
+TCK-3095,cliente_96@empresa.cl,WhatsApp,35000.0,5.0,20000.0,220000
+TCK-3096,cliente_97@empresa.cl,WhatsApp,48000.0,2.0,,95000
+TCK-3097,cliente_98@empresa.cl,WhatsApp,15000.0,5.0,,68000
+TCK-3098,cliente_99@empresa.cl,Teléfono,22000.0,4.0,5000.0,95000
+TCK-3099,cliente_100@empresa.cl,Teléfono,22000.0,,,68000
+TCK-3100,cliente_101@empresa.cl,Teléfono,15000.0,4.0,,68000
+TCK-3101,cliente_102@empresa.cl,WhatsApp,22000.0,5.0,,45000
+TCK-3102,cliente_103@empresa.cl,Teléfono,15000.0,,20000.0,95000
+TCK-3103,,WhatsApp,48000.0,5.0,15000.0,95000
+TCK-3104,cliente_105@empresa.cl,Web Chat,,5.0,5000.0,220000
+TCK-3105,cliente_106@empresa.cl,Teléfono,15000.0,4.0,10000.0,220000
+TCK-3106,cliente_107@empresa.cl,WhatsApp,48000.0,5.0,15000.0,45000
+TCK-3107,cliente_108@empresa.cl,Correo Electrónico,,4.0,5000.0,45000
+TCK-3108,cliente_109@empresa.cl,Teléfono,48000.0,4.0,,140000
+TCK-3109,cliente_110@empresa.cl,Teléfono,28000.0,4.0,5000.0,220000
+TCK-3110,cliente_111@empresa.cl,Teléfono,35000.0,2.0,,68000
+TCK-3111,cliente_112@empresa.cl,Teléfono,22000.0,4.0,15000.0,95000
+TCK-3112,cliente_113@empresa.cl,Web Chat,28000.0,4.0,,45000
+TCK-3113,cliente_114@empresa.cl,Correo Electrónico,48000.0,,5000.0,95000
+TCK-3114,cliente_115@empresa.cl,WhatsApp,15000.0,,5000.0,95000
+TCK-3115,cliente_116@empresa.cl,Web Chat,48000.0,3.0,5000.0,140000
+TCK-3116,cliente_117@empresa.cl,Correo Electrónico,35000.0,4.0,5000.0,220000
+TCK-3117,cliente_118@empresa.cl,Teléfono,48000.0,4.0,15000.0,45000
+TCK-3118,cliente_119@empresa.cl,Web Chat,15000.0,5.0,5000.0,95000
+TCK-3119,cliente_120@empresa.cl,WhatsApp,35000.0,4.0,,45000
+TCK-3120,cliente_121@empresa.cl,,48000.0,,5000.0,68000
+TCK-3121,cliente_122@empresa.cl,Web Chat,35000.0,5.0,10000.0,140000
+TCK-3122,cliente_123@empresa.cl,Teléfono,,2.0,5000.0,68000
+TCK-3123,cliente_124@empresa.cl,Teléfono,22000.0,1.0,,45000
+TCK-3124,cliente_125@empresa.cl,Teléfono,48000.0,4.0,,45000
+TCK-3125,cliente_126@empresa.cl,WhatsApp,,3.0,15000.0,220000
+TCK-3126,cliente_127@empresa.cl,Correo Electrónico,,3.0,,95000
+TCK-3127,cliente_128@empresa.cl,Web Chat,48000.0,4.0,5000.0,95000
+TCK-3128,cliente_129@empresa.cl,Teléfono,22000.0,3.0,,68000
+TCK-3129,cliente_130@empresa.cl,WhatsApp,22000.0,,15000.0,140000
+TCK-3130,,WhatsApp,48000.0,4.0,20000.0,95000
+TCK-3131,cliente_132@empresa.cl,Teléfono,35000.0,,10000.0,220000
+TCK-3132,cliente_133@empresa.cl,Teléfono,22000.0,4.0,,68000
+TCK-3133,cliente_134@empresa.cl,Teléfono,35000.0,4.0,,68000
+TCK-3134,cliente_135@empresa.cl,Web Chat,22000.0,3.0,,220000
+TCK-3135,cliente_136@empresa.cl,Teléfono,22000.0,,5000.0,140000
+TCK-3136,cliente_137@empresa.cl,WhatsApp,,4.0,,220000
+TCK-3137,cliente_138@empresa.cl,Correo Electrónico,22000.0,5.0,5000.0,140000
+TCK-3138,,WhatsApp,15000.0,4.0,10000.0,220000
+TCK-3139,cliente_140@empresa.cl,Web Chat,48000.0,5.0,5000.0,220000
