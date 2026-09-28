@@ -1,0 +1,161 @@
+id_lead,fecha_registro,canal_adquisicion,region,costo_adquisicion_clp,convertido,monto_venta_clp
+LEAD-7000,2026-08-02,,Metropolitana,24500,0,0
+LEAD-7001,2026-08-07,linkedin,Biobío,12500,0,0
+LEAD-7002,2026-08-27,  google ads  ,Biobío,31000,1,150000
+LEAD-7003,2026-08-14,LINKEDIN,Araucanía,24500,0,0
+LEAD-7004,2026-08-14,,Metropolitana,24500,0,0
+LEAD-7005,2026-08-30,organico,Metropolitana,12500,0,0
+LEAD-7006,2026-09-22,LINKEDIN,Araucanía,45000,0,0
+LEAD-7007,2026-08-29,organico,Metropolitana,45000,0,0
+LEAD-7008,2026-09-21,google ads,Araucanía,12500,0,0
+LEAD-7009,2026-08-06,organico,Valparaíso,12500,0,0
+LEAD-7010,2026-08-13, facebook ads ,Antofagasta,18900,0,280000
+LEAD-7011,2026-08-29,organico,Metropolitana,31000,1,280000
+LEAD-7012,2026-08-03,facebook ads,Araucanía,45000,0,420000
+LEAD-7013,2026-09-24,FACEBOOK ADS,Metropolitana,12500,1,0
+LEAD-7014,2026-08-14,linkedin,Metropolitana,12500,0,0
+LEAD-7015,2026-08-28,LINKEDIN,Metropolitana,12500,0,0
+LEAD-7016,2026-09-02,linkedin,Valparaíso,18900,1,280000
+LEAD-7017,2026-08-08,LINKEDIN,Metropolitana,12500,0,420000
+LEAD-7018,2026-09-02,facebook ads,Valparaíso,18900,0,0
+LEAD-7019,2026-08-08,organico,Biobío,24500,0,0
+LEAD-7020,2026-09-17,linkedin,Valparaíso,18900,0,0
+LEAD-7021,2026-08-21,facebook ads,Metropolitana,12500,0,0
+LEAD-7022,2026-09-03,linkedin,Valparaíso,12500,0,750000
+LEAD-7023,2026-09-18,organico,Metropolitana,24500,1,0
+LEAD-7024,2026-09-08,  google ads  ,Valparaíso,24500,0,420000
+LEAD-7025,2026-08-26,FACEBOOK ADS,Metropolitana,12500,0,280000
+LEAD-7026,2026-08-05,GOOGLE ADS,Antofagasta,31000,1,0
+LEAD-7027,2026-09-21,organico,Metropolitana,24500,0,420000
+LEAD-7028,2026-09-18,linkedin,Antofagasta,18900,1,0
+LEAD-7029,2026-08-18,linkedin,Metropolitana,31000,0,0
+LEAD-7030,2026-08-10,LINKEDIN,Metropolitana,24500,1,0
+LEAD-7031,2026-09-22,  google ads  ,Valparaíso,45000,0,150000
+LEAD-7032,2026-09-17,organico,Metropolitana,24500,0,420000
+LEAD-7033,2026-08-16,organico,Antofagasta,12500,0,0
+LEAD-7034,2026-08-30,ORGANICO,Metropolitana,12500,1,0
+LEAD-7035,2026-08-21, facebook ads ,Metropolitana,12500,0,0
+LEAD-7036,2026-09-11,FACEBOOK ADS,Metropolitana,45000,0,0
+LEAD-7037,2026-09-01,facebook ads,Valparaíso,31000,0,0
+LEAD-7038,2026-08-30,,Metropolitana,45000,0,0
+LEAD-7039,2026-08-07,google ads,Metropolitana,12500,0,0
+LEAD-7040,2026-09-24, linkedin ,Valparaíso,24500,0,0
+LEAD-7041,2026-09-10, organico ,Araucanía,24500,0,0
+LEAD-7042,2026-09-23, organico ,Araucanía,31000,0,0
+LEAD-7043,2026-08-01,LINKEDIN,Metropolitana,18900,0,150000
+LEAD-7044,2026-08-16, linkedin ,Antofagasta,12500,1,150000
+LEAD-7045,2026-08-04,linkedin,Metropolitana,18900,0,0
+LEAD-7046,2026-09-06, facebook ads ,Valparaíso,24500,1,0
+LEAD-7047,2026-09-03,google ads,Biobío,45000,0,0
+LEAD-7048,2026-09-07, facebook ads ,Metropolitana,31000,0,150000
+LEAD-7049,2026-08-10,linkedin,Valparaíso,18900,1,0
+LEAD-7050,2026-08-25, facebook ads ,Biobío,31000,1,0
+LEAD-7051,2026-09-19,google ads,Araucanía,24500,0,280000
+LEAD-7052,2026-08-20,google ads,Biobío,12500,0,0
+LEAD-7053,2026-09-04,ORGANICO,Metropolitana,18900,0,280000
+LEAD-7054,2026-09-05,google ads,Araucanía,12500,0,0
+LEAD-7055,2026-08-25,LINKEDIN,Biobío,18900,1,0
+LEAD-7056,2026-09-01,ORGANICO,Biobío,18900,1,0
+LEAD-7057,2026-09-25,linkedin,Biobío,12500,0,0
+LEAD-7058,2026-08-04,LINKEDIN,Metropolitana,18900,1,0
+LEAD-7059,2026-08-10,ORGANICO,Araucanía,18900,0,0
+LEAD-7060,2026-09-08,google ads,Valparaíso,12500,0,150000
+LEAD-7061,2026-09-02,,Metropolitana,31000,0,150000
+LEAD-7062,2026-09-15,GOOGLE ADS,Valparaíso,12500,0,150000
+LEAD-7063,2026-09-07, organico ,Metropolitana,24500,0,0
+LEAD-7064,2026-08-23, organico ,Metropolitana,45000,0,0
+LEAD-7065,2026-08-25, organico ,Valparaíso,18900,0,150000
+LEAD-7066,2026-08-16, linkedin ,Metropolitana,31000,1,0
+LEAD-7067,2026-08-12,organico,Metropolitana,45000,0,0
+LEAD-7068,2026-08-12,GOOGLE ADS,Valparaíso,12500,1,0
+LEAD-7069,2026-08-30,google ads,Araucanía,12500,0,0
+LEAD-7070,2026-08-13,GOOGLE ADS,Metropolitana,24500,0,0
+LEAD-7071,2026-08-15,facebook ads,Metropolitana,18900,1,150000
+LEAD-7072,2026-08-08,,Metropolitana,12500,0,0
+LEAD-7073,2026-09-02, organico ,Biobío,12500,1,0
+LEAD-7074,2026-08-08,FACEBOOK ADS,Valparaíso,12500,0,0
+LEAD-7075,2026-08-03,ORGANICO,Biobío,24500,1,0
+LEAD-7076,2026-08-21,GOOGLE ADS,Valparaíso,18900,0,420000
+LEAD-7077,2026-09-06,ORGANICO,Biobío,31000,0,0
+LEAD-7078,2026-09-02, linkedin ,Metropolitana,31000,0,0
+LEAD-7079,2026-08-21,FACEBOOK ADS,Biobío,45000,0,150000
+LEAD-7080,2026-09-03,linkedin,Araucanía,18900,1,150000
+LEAD-7081,2026-08-03,,Biobío,18900,1,0
+LEAD-7082,2026-08-16,GOOGLE ADS,Araucanía,24500,1,0
+LEAD-7083,2026-08-01, facebook ads ,Valparaíso,18900,0,150000
+LEAD-7084,2026-08-15,organico,Araucanía,24500,1,0
+LEAD-7085,2026-09-13,ORGANICO,Metropolitana,45000,0,0
+LEAD-7086,2026-09-03,linkedin,Antofagasta,12500,0,420000
+LEAD-7087,2026-08-15,,Metropolitana,18900,0,0
+LEAD-7088,2026-08-31,GOOGLE ADS,Metropolitana,45000,0,0
+LEAD-7089,2026-09-02,google ads,Metropolitana,31000,0,0
+LEAD-7090,2026-09-21, facebook ads ,Biobío,24500,1,0
+LEAD-7091,2026-09-21,GOOGLE ADS,Biobío,24500,1,0
+LEAD-7092,2026-09-18, organico ,Antofagasta,24500,0,750000
+LEAD-7093,2026-09-22,,Valparaíso,45000,1,420000
+LEAD-7094,2026-08-04,GOOGLE ADS,Metropolitana,12500,0,0
+LEAD-7095,2026-08-20,  google ads  ,Metropolitana,18900,0,0
+LEAD-7096,2026-08-03, facebook ads ,Metropolitana,12500,1,0
+LEAD-7097,2026-08-26,,Araucanía,24500,0,0
+LEAD-7098,2026-08-06,linkedin,Metropolitana,24500,0,150000
+LEAD-7099,2026-09-25,ORGANICO,Metropolitana,31000,0,0
+LEAD-7100,2026-09-07,google ads,Metropolitana,31000,0,0
+LEAD-7101,2026-08-15,GOOGLE ADS,Metropolitana,12500,1,0
+LEAD-7102,2026-09-09,  google ads  ,Metropolitana,12500,0,0
+LEAD-7103,2026-09-14,organico,Valparaíso,18900,0,280000
+LEAD-7104,2026-08-24, linkedin ,Valparaíso,45000,0,0
+LEAD-7105,2026-09-18,  google ads  ,Valparaíso,12500,0,750000
+LEAD-7106,2026-08-04,google ads,Biobío,18900,0,0
+LEAD-7107,2026-08-22,google ads,Valparaíso,31000,0,0
+LEAD-7108,2026-09-03,  google ads  ,Araucanía,24500,1,0
+LEAD-7109,2026-09-07, facebook ads ,Metropolitana,45000,0,0
+LEAD-7110,2026-08-30,ORGANICO,Valparaíso,18900,0,0
+LEAD-7111,2026-08-18,  google ads  ,Metropolitana,45000,0,280000
+LEAD-7112,2026-09-04,google ads,Metropolitana,12500,0,0
+LEAD-7113,2026-08-14,  google ads  ,Valparaíso,12500,0,0
+LEAD-7114,2026-08-23,organico,Metropolitana,31000,0,0
+LEAD-7115,2026-09-19,ORGANICO,Metropolitana,24500,0,0
+LEAD-7116,2026-08-22,google ads,Metropolitana,18900,0,280000
+LEAD-7117,2026-09-05, organico ,Metropolitana,24500,0,0
+LEAD-7118,2026-08-20,ORGANICO,Araucanía,24500,0,0
+LEAD-7119,2026-08-09,LINKEDIN,Araucanía,18900,0,0
+LEAD-7120,2026-09-05,LINKEDIN,Valparaíso,12500,0,750000
+LEAD-7121,2026-09-03, linkedin ,Metropolitana,12500,0,280000
+LEAD-7122,2026-08-15,google ads,Valparaíso,18900,0,0
+LEAD-7123,2026-09-01,GOOGLE ADS,Metropolitana,18900,0,0
+LEAD-7124,2026-08-05,facebook ads,Antofagasta,18900,0,0
+LEAD-7125,2026-09-08,facebook ads,Metropolitana,24500,0,0
+LEAD-7126,2026-08-29,facebook ads,Araucanía,24500,0,0
+LEAD-7127,2026-08-23,  google ads  ,Valparaíso,31000,0,0
+LEAD-7128,2026-09-04, facebook ads ,Metropolitana,24500,0,0
+LEAD-7129,2026-08-01,google ads,Metropolitana,31000,0,150000
+LEAD-7130,2026-09-24,organico,Antofagasta,18900,1,0
+LEAD-7131,2026-09-24, organico ,Biobío,45000,0,150000
+LEAD-7132,2026-09-02,linkedin,Araucanía,24500,1,0
+LEAD-7133,2026-09-14,google ads,Valparaíso,12500,0,0
+LEAD-7134,2026-08-09,google ads,Metropolitana,45000,0,0
+LEAD-7135,2026-08-17,FACEBOOK ADS,Metropolitana,18900,1,0
+LEAD-7136,2026-08-26, organico ,Biobío,12500,0,750000
+LEAD-7137,2026-08-23,LINKEDIN,Antofagasta,12500,0,0
+LEAD-7138,2026-09-13, linkedin ,Biobío,24500,0,0
+LEAD-7139,2026-08-26, organico ,Araucanía,18900,1,0
+LEAD-7140,2026-09-03,  google ads  ,Valparaíso,18900,0,0
+LEAD-7141,2026-08-05,google ads,Metropolitana,24500,1,280000
+LEAD-7142,2026-08-11,LINKEDIN,Valparaíso,45000,0,0
+LEAD-7143,2026-08-18,facebook ads,Valparaíso,24500,0,0
+LEAD-7144,2026-08-22, linkedin ,Metropolitana,31000,0,0
+LEAD-7145,2026-08-21,  google ads  ,Valparaíso,45000,0,0
+LEAD-7146,2026-08-07, linkedin ,Metropolitana,12500,0,0
+LEAD-7147,2026-09-23, linkedin ,Araucanía,18900,0,0
+LEAD-7148,2026-09-21,linkedin,Antofagasta,24500,0,0
+LEAD-7149,2026-08-28,LINKEDIN,Antofagasta,12500,0,0
+LEAD-7150,2026-08-11,google ads,Valparaíso,45000,1,0
+LEAD-7151,2026-08-10,ORGANICO,Biobío,24500,0,0
+LEAD-7152,2026-08-24,LINKEDIN,Antofagasta,31000,1,420000
+LEAD-7153,2026-09-02,LINKEDIN,Valparaíso,12500,0,0
+LEAD-7154,2026-09-09,FACEBOOK ADS,Metropolitana,24500,0,0
+LEAD-7155,2026-08-01,FACEBOOK ADS,Metropolitana,24500,0,0
+LEAD-7156,2026-08-09, organico ,Metropolitana,45000,1,0
+LEAD-7157,2026-09-18,  google ads  ,Metropolitana,24500,1,280000
+LEAD-7158,2026-08-27,,Araucanía,12500,1,280000
+LEAD-7159,2026-09-09, facebook ads ,Araucanía,24500,0,0
