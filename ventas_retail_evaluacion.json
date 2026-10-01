@@ -1,0 +1,1502 @@
+[
+  {
+    "id_transaccion":"TRX-5000",
+    "fecha":"2026-09-08",
+    "sucursal":"CONCEPCION",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5001",
+    "fecha":"2026-09-21",
+    "sucursal":"SANTIAGO",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5002",
+    "fecha":"2026-08-29",
+    "sucursal":"  santiago  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":2,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5003",
+    "fecha":"2026-08-15",
+    "sucursal":"  concepcion  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":2,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":null,
+    "fecha":"2026-09-12",
+    "sucursal":"  concepcion  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":2,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5005",
+    "fecha":"2026-08-08",
+    "sucursal":"CONCEPCION",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":3,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5006",
+    "fecha":"2026-09-30",
+    "sucursal":"VALPARAISO",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":5,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5007",
+    "fecha":"2026-08-21",
+    "sucursal":"Santiago",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":5,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5008",
+    "fecha":"2026-09-08",
+    "sucursal":"CONCEPCION",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":1,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5009",
+    "fecha":"2026-09-27",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5010",
+    "fecha":"2026-08-19",
+    "sucursal":"Santiago",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5011",
+    "fecha":"2026-08-23",
+    "sucursal":"  santiago  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5012",
+    "fecha":"2026-08-11",
+    "sucursal":"Santiago",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5013",
+    "fecha":"2026-08-11",
+    "sucursal":"VALPARAISO",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":5,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5014",
+    "fecha":"2026-08-24",
+    "sucursal":"Santiago",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":2,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5015",
+    "fecha":"2026-09-22",
+    "sucursal":"  santiago  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5016",
+    "fecha":"2026-09-05",
+    "sucursal":"VALPARAISO",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5017",
+    "fecha":"2026-09-09",
+    "sucursal":"  concepcion  ",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":3,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5018",
+    "fecha":"2026-08-24",
+    "sucursal":"  concepcion  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5019",
+    "fecha":"2026-08-03",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5020",
+    "fecha":"2026-08-22",
+    "sucursal":"Santiago",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5021",
+    "fecha":"2026-09-22",
+    "sucursal":"  concepcion  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5022",
+    "fecha":"2026-08-02",
+    "sucursal":"  santiago  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":1,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5023",
+    "fecha":"2026-08-24",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":3,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5024",
+    "fecha":"2026-09-13",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":1,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5025",
+    "fecha":"2026-08-30",
+    "sucursal":"VALPARAISO",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5026",
+    "fecha":"2026-09-07",
+    "sucursal":"  concepcion  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":4,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":null,
+    "fecha":"2026-08-02",
+    "sucursal":"  concepcion  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5028",
+    "fecha":"2026-09-29",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5029",
+    "fecha":"2026-08-21",
+    "sucursal":"  concepcion  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5030",
+    "fecha":"2026-09-02",
+    "sucursal":"Santiago",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":3,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5031",
+    "fecha":"2026-08-12",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":5,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5032",
+    "fecha":"2026-09-27",
+    "sucursal":"SANTIAGO",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Web",
+    "cantidad_items":5,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5033",
+    "fecha":"2026-08-22",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Web",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5034",
+    "fecha":"2026-09-30",
+    "sucursal":"VALPARAISO",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5035",
+    "fecha":"2026-09-13",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5036",
+    "fecha":"2026-08-25",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":2,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5037",
+    "fecha":"2026-09-18",
+    "sucursal":"  concepcion  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":3,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5038",
+    "fecha":"2026-08-27",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5039",
+    "fecha":"2026-09-28",
+    "sucursal":"  concepcion  ",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5040",
+    "fecha":"2026-09-11",
+    "sucursal":"  santiago  ",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":1,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5041",
+    "fecha":"2026-08-28",
+    "sucursal":"  santiago  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5042",
+    "fecha":"2026-09-29",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":3,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5043",
+    "fecha":"2026-08-16",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5044",
+    "fecha":"2026-08-15",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":5,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5045",
+    "fecha":"2026-09-16",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":4,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5046",
+    "fecha":"2026-09-20",
+    "sucursal":"Santiago",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":1,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":null,
+    "fecha":"2026-09-13",
+    "sucursal":"  concepcion  ",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5048",
+    "fecha":"2026-09-24",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":499990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5049",
+    "fecha":"2026-09-21",
+    "sucursal":"CONCEPCION",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":4,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5050",
+    "fecha":"2026-09-26",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5051",
+    "fecha":"2026-08-03",
+    "sucursal":"VALPARAISO",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5052",
+    "fecha":"2026-09-06",
+    "sucursal":"  santiago  ",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":2,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5053",
+    "fecha":"2026-09-20",
+    "sucursal":"Santiago",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":3,
+    "monto_subtotal_clp":499990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5054",
+    "fecha":"2026-08-07",
+    "sucursal":"CONCEPCION",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":3,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5055",
+    "fecha":"2026-08-21",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":2,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5056",
+    "fecha":"2026-08-09",
+    "sucursal":"CONCEPCION",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":4,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5057",
+    "fecha":"2026-09-08",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5058",
+    "fecha":"2026-08-18",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":4,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5059",
+    "fecha":"2026-08-04",
+    "sucursal":"  santiago  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5060",
+    "fecha":"2026-08-25",
+    "sucursal":"  santiago  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":3,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5061",
+    "fecha":"2026-09-29",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":1,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5062",
+    "fecha":"2026-08-14",
+    "sucursal":"  concepcion  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":1,
+    "monto_subtotal_clp":499990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5063",
+    "fecha":"2026-09-19",
+    "sucursal":"SANTIAGO",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Web",
+    "cantidad_items":5,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5064",
+    "fecha":"2026-09-27",
+    "sucursal":"Santiago",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5065",
+    "fecha":"2026-08-09",
+    "sucursal":"  santiago  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5066",
+    "fecha":"2026-08-26",
+    "sucursal":"VALPARAISO",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":3,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5067",
+    "fecha":"2026-09-22",
+    "sucursal":"  santiago  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5068",
+    "fecha":"2026-08-02",
+    "sucursal":"CONCEPCION",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":4,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5069",
+    "fecha":"2026-08-20",
+    "sucursal":"  santiago  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5070",
+    "fecha":"2026-08-28",
+    "sucursal":"  santiago  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5071",
+    "fecha":"2026-09-16",
+    "sucursal":"SANTIAGO",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5072",
+    "fecha":"2026-09-29",
+    "sucursal":"SANTIAGO",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":2,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5073",
+    "fecha":"2026-08-07",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":3,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5074",
+    "fecha":"2026-09-13",
+    "sucursal":"  concepcion  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5075",
+    "fecha":"2026-09-30",
+    "sucursal":"VALPARAISO",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5076",
+    "fecha":"2026-08-08",
+    "sucursal":"  santiago  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":4,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5077",
+    "fecha":"2026-09-16",
+    "sucursal":"  santiago  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5078",
+    "fecha":"2026-09-04",
+    "sucursal":"Santiago",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":1,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5079",
+    "fecha":"2026-08-14",
+    "sucursal":"SANTIAGO",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":4,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5080",
+    "fecha":"2026-08-17",
+    "sucursal":"VALPARAISO",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5081",
+    "fecha":"2026-09-05",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5082",
+    "fecha":"2026-09-19",
+    "sucursal":"  concepcion  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":1,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":null,
+    "fecha":"2026-09-09",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":5,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5084",
+    "fecha":"2026-08-04",
+    "sucursal":"  concepcion  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5085",
+    "fecha":"2026-08-02",
+    "sucursal":"CONCEPCION",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":4,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5086",
+    "fecha":"2026-08-06",
+    "sucursal":"  santiago  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":2,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5087",
+    "fecha":"2026-09-23",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":1,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5088",
+    "fecha":"2026-09-11",
+    "sucursal":"CONCEPCION",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":2,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5089",
+    "fecha":"2026-08-04",
+    "sucursal":"VALPARAISO",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5090",
+    "fecha":"2026-09-23",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":4,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5091",
+    "fecha":"2026-08-29",
+    "sucursal":"SANTIAGO",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":4,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5092",
+    "fecha":"2026-08-18",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":499990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5093",
+    "fecha":"2026-08-26",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5094",
+    "fecha":"2026-09-13",
+    "sucursal":"  santiago  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5095",
+    "fecha":"2026-09-03",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5096",
+    "fecha":"2026-08-10",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5097",
+    "fecha":"2026-09-05",
+    "sucursal":"Santiago",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5098",
+    "fecha":"2026-08-14",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":3,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5099",
+    "fecha":"2026-08-31",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5100",
+    "fecha":"2026-09-17",
+    "sucursal":"Santiago",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5101",
+    "fecha":"2026-08-15",
+    "sucursal":"Santiago",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5102",
+    "fecha":"2026-08-08",
+    "sucursal":"Santiago",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":3,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5103",
+    "fecha":"2026-08-14",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":4,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5104",
+    "fecha":"2026-08-23",
+    "sucursal":"  concepcion  ",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":4,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5105",
+    "fecha":"2026-09-29",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":1,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5106",
+    "fecha":"2026-09-26",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5107",
+    "fecha":"2026-09-09",
+    "sucursal":"  santiago  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5108",
+    "fecha":"2026-08-21",
+    "sucursal":"CONCEPCION",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":3,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5109",
+    "fecha":"2026-08-16",
+    "sucursal":"  concepcion  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":5,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5110",
+    "fecha":"2026-09-14",
+    "sucursal":"SANTIAGO",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":2,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5111",
+    "fecha":"2026-08-18",
+    "sucursal":"CONCEPCION",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":5,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5112",
+    "fecha":"2026-09-16",
+    "sucursal":"  santiago  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":2,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5113",
+    "fecha":"2026-09-22",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5114",
+    "fecha":"2026-08-24",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":3,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5115",
+    "fecha":"2026-08-26",
+    "sucursal":"SANTIAGO",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5116",
+    "fecha":"2026-08-25",
+    "sucursal":"  concepcion  ",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":5,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5117",
+    "fecha":"2026-09-29",
+    "sucursal":"Santiago",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5118",
+    "fecha":"2026-09-29",
+    "sucursal":"  concepcion  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":4,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5119",
+    "fecha":"2026-09-29",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":2,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5120",
+    "fecha":"2026-09-14",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5121",
+    "fecha":"2026-09-10",
+    "sucursal":"  santiago  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5122",
+    "fecha":"2026-08-29",
+    "sucursal":"SANTIAGO",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":1,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5123",
+    "fecha":"2026-08-15",
+    "sucursal":"  santiago  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5124",
+    "fecha":"2026-09-14",
+    "sucursal":"VALPARAISO",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":1,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5125",
+    "fecha":"2026-08-01",
+    "sucursal":"VALPARAISO",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":4,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5126",
+    "fecha":"2026-08-25",
+    "sucursal":"  concepcion  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":2,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5127",
+    "fecha":"2026-08-07",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5128",
+    "fecha":"2026-08-09",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":249990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5129",
+    "fecha":"2026-08-24",
+    "sucursal":"Santiago",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":2,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5130",
+    "fecha":"2026-08-01",
+    "sucursal":"Santiago",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":5,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":null,
+    "fecha":"2026-09-13",
+    "sucursal":"Santiago",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":3,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5132",
+    "fecha":"2026-08-08",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":1,
+    "monto_subtotal_clp":499990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5133",
+    "fecha":"2026-08-24",
+    "sucursal":"CONCEPCION",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5134",
+    "fecha":"2026-08-11",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5135",
+    "fecha":"2026-09-20",
+    "sucursal":"CONCEPCION",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":1,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5136",
+    "fecha":"2026-08-17",
+    "sucursal":"  santiago  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5137",
+    "fecha":"2026-08-08",
+    "sucursal":"CONCEPCION",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":5,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5138",
+    "fecha":"2026-09-04",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Web",
+    "cantidad_items":1,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5139",
+    "fecha":"2026-09-04",
+    "sucursal":"  santiago  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":2,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5140",
+    "fecha":"2026-09-02",
+    "sucursal":"CONCEPCION",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":4,
+    "monto_subtotal_clp":129990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":null,
+    "fecha":"2026-09-28",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":1,
+    "monto_subtotal_clp":19990,
+    "descuento_promo_clp":10000.0
+  },
+  {
+    "id_transaccion":"TRX-5142",
+    "fecha":"2026-08-05",
+    "sucursal":"Valpara\u00edso",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":1,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5143",
+    "fecha":"2026-09-11",
+    "sucursal":"CONCEPCION",
+    "categoria":"Hogar y Muebles",
+    "canal_venta":"Web",
+    "cantidad_items":3,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5144",
+    "fecha":"2026-09-08",
+    "sucursal":"  valparaiso  ",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":20000.0
+  },
+  {
+    "id_transaccion":"TRX-5145",
+    "fecha":"2026-09-27",
+    "sucursal":"Santiago",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"App M\u00f3vil",
+    "cantidad_items":4,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5146",
+    "fecha":"2026-09-10",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Web",
+    "cantidad_items":2,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":null
+  },
+  {
+    "id_transaccion":"TRX-5147",
+    "fecha":"2026-08-28",
+    "sucursal":"Santiago",
+    "categoria":"Tecnolog\u00eda",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":4,
+    "monto_subtotal_clp":69990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5148",
+    "fecha":"2026-08-07",
+    "sucursal":"Concepci\u00f3n",
+    "categoria":"Electrodom\u00e9sticos",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":2,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":5000.0
+  },
+  {
+    "id_transaccion":"TRX-5149",
+    "fecha":"2026-08-09",
+    "sucursal":"SANTIAGO",
+    "categoria":"Moda y Calzado",
+    "canal_venta":"Tienda F\u00edsica",
+    "cantidad_items":5,
+    "monto_subtotal_clp":39990,
+    "descuento_promo_clp":10000.0
+  }
+]
