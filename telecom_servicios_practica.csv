@@ -1,0 +1,221 @@
+id_abonado,zona_cobertura,plan_servicio,canal_atencion,estado_cuenta,trafico_datos_gb,cargo_mensual_clp,duracion_llamadas_min,satisfaccion_nps
+TEL-10001,RM - Santiago,Móvil Prepago,Call Center,Activo,74.7,14990,417,1
+TEL-10002,RM - Santiago,Plan Dúo,Portal Web,Pendiente Validación,42.5,14990,567,4
+TEL-10003,Antofagasta,Fibra Óptica,Sucursal Presencial,Suspendido,94.6,14990,156,5
+TEL-10004,RM - Santiago,Fibra Óptica,Portal Web,Activo,143.4,24990,552,4
+TEL-10005,Valparaíso,Móvil Prepago,App Móvil,Activo,52.7,9990,381,2
+TEL-10006,Antofagasta,Móvil Prepago,App Móvil,Activo,43.8,19990,321,4
+TEL-10007,RM - Santiago,Móvil Pospago,App Móvil,Activo,14.8,14990,271,5
+TEL-10008,Antofagasta,Fibra Óptica,Sucursal Presencial,Suspendido,42.2,24990,290,4
+TEL-10009,Valparaíso,Móvil Pospago,Call Center,Activo,127.6,14990,201,1
+TEL-10010,Biobío,Móvil Pospago,Sucursal Presencial,Activo,124.0,19990,490,2
+TEL-10011,RM - Santiago,Fibra Óptica,App Móvil,Activo,23.3,24990,510,5
+TEL-10012,RM - Santiago,Móvil Prepago,Portal Web,Activo,68.3,44990,219,3
+TEL-10013,RM - Santiago,Móvil Prepago,Call Center,Pendiente Validación,112.0,19990,261,5
+TEL-10014,Araucanía,Fibra Óptica,Call Center,Activo,112.4,19990,599,4
+TEL-10015,RM - Santiago,Móvil Pospago,Portal Web,Activo,145.2,9990,546,3
+TEL-10016,RM - Santiago,Móvil Pospago,App Móvil,Activo,92.4,9990,414,3
+TEL-10017,Valparaíso,Móvil Prepago,Portal Web,Activo,86.4,19990,551,1
+TEL-10018,RM - Santiago,Móvil Pospago,Portal Web,Activo,79.3,32990,160,4
+TEL-10019,Biobío,Móvil Pospago,Sucursal Presencial,Activo,79.4,24990,140,2
+TEL-10020,Antofagasta,Fibra Óptica,Call Center,Pendiente Validación,134.8,19990,45,3
+TEL-10021,RM - Santiago,Fibra Óptica,Portal Web,Activo,55.7,9990,423,5
+TEL-10022,RM - Santiago,Móvil Prepago,Call Center,Activo,43.6,19990,480,4
+TEL-10023,RM - Santiago,Fibra Óptica,Portal Web,Activo,11.9,9990,410,5
+TEL-10024,Valparaíso,Móvil Pospago,App Móvil,Activo,51.1,19990,139,3
+TEL-10025,RM - Santiago,Móvil Pospago,App Móvil,Activo,123.4,9990,142,2
+TEL-10026,Antofagasta,Móvil Pospago,App Móvil,Activo,24.8,32990,162,4
+TEL-10027,RM - Santiago,Móvil Pospago,Portal Web,Activo,130.7,14990,238,5
+TEL-10028,RM - Santiago,Fibra Óptica,Portal Web,Activo,60.5,19990,352,4
+TEL-10029,Valparaíso,Móvil Prepago,App Móvil,Activo,143.3,32990,570,5
+TEL-10030,Biobío,Plan Dúo,App Móvil,Activo,112.8,19990,431,2
+TEL-10031,Araucanía,Móvil Pospago,App Móvil,Activo,104.8,19990,535,5
+TEL-10032,Biobío,Móvil Prepago,App Móvil,Activo,67.3,24990,242,5
+TEL-10033,Valparaíso,Fibra Óptica,Call Center,Activo,112.4,32990,226,3
+TEL-10034,Valparaíso,Fibra Óptica,App Móvil,Activo,11.3,19990,50,4
+TEL-10035,RM - Santiago,Fibra Óptica,Portal Web,Activo,119.3,24990,271,5
+TEL-10036,Valparaíso,Móvil Pospago,Sucursal Presencial,Activo,145.6,19990,415,4
+TEL-10037,Valparaíso,Móvil Pospago,Portal Web,Activo,75.7,14990,69,4
+TEL-10038,Valparaíso,Fibra Óptica,Call Center,Activo,87.7,9990,201,3
+TEL-10039,RM - Santiago,Móvil Pospago,Sucursal Presencial,Activo,121.6,32990,457,3
+TEL-10040,Valparaíso,Fibra Óptica,App Móvil,Activo,46.1,32990,432,4
+TEL-10041,Antofagasta,Móvil Pospago,App Móvil,Activo,106.2,9990,461,4
+TEL-10042,RM - Santiago,Plan Dúo,Portal Web,Activo,124.2,9990,331,3
+TEL-10043,RM - Santiago,Móvil Prepago,Portal Web,Activo,44.6,9990,440,5
+TEL-10044,RM - Santiago,Plan Dúo,App Móvil,Suspendido,101.0,19990,535,4
+TEL-10045,RM - Santiago,Móvil Pospago,App Móvil,Activo,117.2,19990,352,4
+TEL-10046,RM - Santiago,Móvil Prepago,App Móvil,Activo,32.5,14990,413,5
+TEL-10047,Biobío,Móvil Pospago,Call Center,Pendiente Validación,126.6,19990,123,5
+TEL-10048,Biobío,Móvil Pospago,Portal Web,Activo,125.7,19990,82,4
+TEL-10049,Araucanía,Móvil Pospago,Call Center,Activo,34.6,9990,459,4
+TEL-10050,RM - Santiago,Móvil Pospago,Call Center,Activo,74.8,24990,292,1
+TEL-10051,RM - Santiago,Fibra Óptica,Sucursal Presencial,Pendiente Validación,116.9,19990,417,2
+TEL-10052,Antofagasta,Fibra Óptica,App Móvil,Activo,69.7,14990,334,4
+TEL-10053,RM - Santiago,Móvil Pospago,Portal Web,Pendiente Validación,124.8,32990,39,5
+TEL-10054,Valparaíso,Móvil Pospago,Call Center,Activo,53.5,24990,162,3
+TEL-10055,RM - Santiago,Móvil Prepago,App Móvil,Activo,127.6,14990,571,1
+TEL-10056,Biobío,Móvil Pospago,Portal Web,Activo,55.5,14990,427,3
+TEL-10057,Antofagasta,Móvil Prepago,Sucursal Presencial,Activo,61.9,19990,20,5
+TEL-10058,Valparaíso,Plan Dúo,App Móvil,Activo,107.4,32990,502,3
+TEL-10059,RM - Santiago,Móvil Prepago,App Móvil,Activo,51.8,14990,546,5
+TEL-10060,Biobío,Plan Dúo,Sucursal Presencial,Activo,86.2,14990,470,4
+TEL-10061,Biobío,Móvil Pospago,Call Center,Activo,21.1,14990,537,3
+TEL-10062,Valparaíso,Móvil Prepago,Portal Web,Pendiente Validación,28.3,14990,224,3
+TEL-10063,Valparaíso,Móvil Pospago,Call Center,Activo,119.7,14990,242,5
+TEL-10064,RM - Santiago,Móvil Pospago,Call Center,Activo,145.6,9990,561,5
+TEL-10065,Antofagasta,Plan Dúo,Sucursal Presencial,Activo,76.0,19990,197,2
+TEL-10066,Valparaíso,Móvil Prepago,App Móvil,Activo,23.9,14990,294,4
+TEL-10067,RM - Santiago,Móvil Pospago,Portal Web,Activo,80.4,14990,529,3
+TEL-10068,Antofagasta,Móvil Pospago,App Móvil,Pendiente Validación,143.0,19990,323,5
+TEL-10069,RM - Santiago,Fibra Óptica,Portal Web,Pendiente Validación,136.7,14990,503,2
+TEL-10070,RM - Santiago,Móvil Prepago,Portal Web,Activo,103.9,44990,190,2
+TEL-10071,Valparaíso,Móvil Prepago,Sucursal Presencial,Activo,141.9,44990,228,3
+TEL-10072,RM - Santiago,Móvil Pospago,Call Center,Activo,89.1,44990,218,3
+TEL-10073,Valparaíso,Plan Dúo,App Móvil,Activo,5.2,14990,411,4
+TEL-10074,Valparaíso,Fibra Óptica,App Móvil,Activo,136.8,14990,448,2
+TEL-10075,RM - Santiago,Móvil Pospago,Portal Web,Activo,35.6,14990,219,3
+TEL-10076,Biobío,Plan Dúo,Sucursal Presencial,Activo,6.9,14990,89,4
+TEL-10077,RM - Santiago,Móvil Pospago,App Móvil,Activo,65.7,14990,80,2
+TEL-10078,RM - Santiago,Fibra Óptica,App Móvil,Activo,129.7,19990,231,4
+TEL-10079,Araucanía,Fibra Óptica,Sucursal Presencial,Activo,54.3,24990,153,1
+TEL-10080,Biobío,Móvil Prepago,Portal Web,Activo,51.1,14990,304,5
+TEL-10081,RM - Santiago,Fibra Óptica,Sucursal Presencial,Activo,51.9,19990,279,4
+TEL-10082,Araucanía,Fibra Óptica,Portal Web,Pendiente Validación,69.9,9990,34,1
+TEL-10083,Biobío,Plan Dúo,Sucursal Presencial,Pendiente Validación,114.0,9990,536,4
+TEL-10084,Antofagasta,Fibra Óptica,App Móvil,Suspendido,94.6,14990,152,4
+TEL-10085,RM - Santiago,Móvil Prepago,App Móvil,Activo,35.8,9990,312,4
+TEL-10086,RM - Santiago,Plan Dúo,Call Center,Activo,54.5,19990,236,3
+TEL-10087,RM - Santiago,Fibra Óptica,Portal Web,Activo,76.1,14990,165,3
+TEL-10088,Araucanía,Fibra Óptica,Portal Web,Pendiente Validación,110.4,19990,20,5
+TEL-10089,Araucanía,Fibra Óptica,Call Center,Pendiente Validación,137.6,14990,152,4
+TEL-10090,RM - Santiago,Móvil Pospago,Portal Web,Activo,92.5,44990,532,4
+TEL-10091,Valparaíso,Fibra Óptica,Portal Web,Activo,57.2,9990,286,4
+TEL-10092,Antofagasta,Móvil Pospago,App Móvil,Activo,147.0,24990,106,4
+TEL-10093,Biobío,Móvil Prepago,App Móvil,Activo,28.2,9990,52,2
+TEL-10094,RM - Santiago,Fibra Óptica,Portal Web,Suspendido,132.2,9990,346,4
+TEL-10095,Valparaíso,Móvil Prepago,Portal Web,Activo,59.8,24990,301,3
+TEL-10096,Antofagasta,Móvil Prepago,App Móvil,Suspendido,142.4,24990,60,5
+TEL-10097,Antofagasta,Fibra Óptica,Portal Web,Pendiente Validación,30.0,9990,499,5
+TEL-10098,Valparaíso,Móvil Prepago,Call Center,Activo,60.6,24990,391,5
+TEL-10099,Araucanía,Móvil Pospago,Call Center,Suspendido,14.5,14990,149,5
+TEL-10100,RM - Santiago,Fibra Óptica,Portal Web,Activo,135.5,14990,40,3
+TEL-10101,Antofagasta,Fibra Óptica,Call Center,Activo,23.9,14990,518,2
+TEL-10102,RM - Santiago,Móvil Pospago,Portal Web,Activo,89.7,24990,346,5
+TEL-10103,Antofagasta,Móvil Prepago,Sucursal Presencial,Activo,37.2,14990,496,2
+TEL-10104,RM - Santiago,Móvil Prepago,Portal Web,Pendiente Validación,143.1,14990,149,3
+TEL-10105,RM - Santiago,Fibra Óptica,App Móvil,Activo,102.1,9990,503,5
+TEL-10106,Valparaíso,Móvil Pospago,Sucursal Presencial,Activo,71.2,19990,91,4
+TEL-10107,Valparaíso,Fibra Óptica,Portal Web,Activo,9.4,14990,548,4
+TEL-10108,Biobío,Fibra Óptica,App Móvil,Activo,21.4,24990,372,4
+TEL-10109,Valparaíso,Fibra Óptica,App Móvil,Activo,97.6,19990,72,5
+TEL-10110,Valparaíso,Móvil Pospago,Call Center,Activo,71.5,9990,275,2
+TEL-10111,Antofagasta,Fibra Óptica,App Móvil,Activo,112.4,32990,548,4
+TEL-10112,Biobío,Plan Dúo,App Móvil,Activo,97.1,24990,445,5
+TEL-10113,RM - Santiago,Fibra Óptica,Call Center,Activo,11.4,9990,439,4
+TEL-10114,Biobío,Plan Dúo,Sucursal Presencial,Activo,9.7,9990,519,5
+TEL-10115,Antofagasta,Móvil Pospago,Portal Web,Pendiente Validación,45.2,14990,101,3
+TEL-10116,RM - Santiago,Fibra Óptica,Call Center,Pendiente Validación,87.4,19990,42,3
+TEL-10117,RM - Santiago,Móvil Prepago,Sucursal Presencial,Activo,31.7,44990,81,5
+TEL-10118,RM - Santiago,Plan Dúo,App Móvil,Activo,73.5,19990,448,4
+TEL-10119,Antofagasta,Móvil Prepago,Portal Web,Activo,110.8,44990,576,3
+TEL-10120,Biobío,Móvil Prepago,Portal Web,Pendiente Validación,64.9,24990,139,4
+TEL-10121,Biobío,Móvil Prepago,App Móvil,Activo,19.8,9990,63,4
+TEL-10122,Valparaíso,Fibra Óptica,Sucursal Presencial,Activo,72.3,14990,310,4
+TEL-10123,RM - Santiago,Fibra Óptica,Portal Web,Pendiente Validación,101.3,19990,527,1
+TEL-10124,Antofagasta,Plan Dúo,Call Center,Activo,146.0,44990,30,4
+TEL-10125,Araucanía,Móvil Pospago,App Móvil,Pendiente Validación,139.0,14990,122,1
+TEL-10126,Araucanía,Móvil Pospago,Portal Web,Activo,118.2,19990,436,2
+TEL-10127,RM - Santiago,Móvil Pospago,Portal Web,Activo,116.9,14990,157,4
+TEL-10128,RM - Santiago,Móvil Prepago,Sucursal Presencial,Activo,99.4,14990,544,3
+TEL-10129,Valparaíso,Plan Dúo,Portal Web,Activo,50.2,14990,158,4
+TEL-10130,Antofagasta,Móvil Pospago,App Móvil,Activo,41.9,19990,25,2
+TEL-10131,RM - Santiago,Móvil Prepago,Portal Web,Activo,94.1,32990,520,3
+TEL-10132,Valparaíso,Móvil Prepago,App Móvil,Activo,59.0,24990,447,5
+TEL-10133,Biobío,Móvil Pospago,Portal Web,Activo,74.8,24990,524,5
+TEL-10134,Biobío,Móvil Pospago,Call Center,Pendiente Validación,94.5,24990,315,4
+TEL-10135,Valparaíso,Móvil Pospago,App Móvil,Activo,16.8,9990,252,2
+TEL-10136,Valparaíso,Móvil Pospago,App Móvil,Activo,41.2,19990,74,5
+TEL-10137,Biobío,Móvil Pospago,Portal Web,Activo,22.3,14990,357,3
+TEL-10138,RM - Santiago,Fibra Óptica,App Móvil,Activo,35.7,24990,301,3
+TEL-10139,RM - Santiago,Móvil Pospago,App Móvil,Activo,137.6,9990,517,5
+TEL-10140,RM - Santiago,Fibra Óptica,Portal Web,Activo,105.3,44990,125,2
+TEL-10141,Biobío,Móvil Pospago,App Móvil,Activo,62.0,14990,558,3
+TEL-10142,RM - Santiago,Móvil Pospago,Portal Web,Activo,132.2,14990,542,4
+TEL-10143,RM - Santiago,Móvil Prepago,Call Center,Activo,35.1,14990,153,4
+TEL-10144,RM - Santiago,Móvil Pospago,App Móvil,Activo,103.2,24990,52,5
+TEL-10145,Araucanía,Móvil Pospago,Call Center,Activo,117.9,19990,237,4
+TEL-10146,RM - Santiago,Móvil Pospago,Portal Web,Activo,58.9,24990,213,5
+TEL-10147,Valparaíso,Móvil Prepago,App Móvil,Activo,53.7,44990,365,3
+TEL-10148,Araucanía,Móvil Pospago,Call Center,Suspendido,56.6,19990,169,2
+TEL-10149,Valparaíso,Móvil Pospago,Portal Web,Activo,62.5,14990,365,5
+TEL-10150,Valparaíso,Plan Dúo,Portal Web,Activo,23.8,19990,149,3
+TEL-10151,Araucanía,Fibra Óptica,Portal Web,Activo,71.9,9990,192,4
+TEL-10152,RM - Santiago,Móvil Pospago,App Móvil,Activo,140.6,24990,176,3
+TEL-10153,Antofagasta,Móvil Prepago,App Móvil,Activo,94.4,19990,86,5
+TEL-10154,RM - Santiago,Móvil Pospago,App Móvil,Activo,106.5,24990,277,4
+TEL-10155,Biobío,Móvil Prepago,Call Center,Activo,58.0,19990,216,4
+TEL-10156,Biobío,Plan Dúo,Portal Web,Activo,149.9,24990,574,5
+TEL-10157,Biobío,Móvil Pospago,App Móvil,Activo,118.7,44990,348,4
+TEL-10158,Valparaíso,Fibra Óptica,Call Center,Suspendido,85.2,14990,189,5
+TEL-10159,Antofagasta,Móvil Pospago,App Móvil,Activo,62.8,32990,521,5
+TEL-10160,RM - Santiago,Móvil Prepago,Sucursal Presencial,Activo,75.4,14990,298,4
+TEL-10161,RM - Santiago,Móvil Pospago,App Móvil,Activo,75.3,19990,499,2
+TEL-10162,RM - Santiago,Plan Dúo,Sucursal Presencial,Activo,143.8,32990,29,3
+TEL-10163,RM - Santiago,Fibra Óptica,App Móvil,Activo,145.9,9990,565,5
+TEL-10164,Antofagasta,Fibra Óptica,App Móvil,Suspendido,123.3,19990,457,4
+TEL-10165,Biobío,Móvil Pospago,Portal Web,Pendiente Validación,134.3,19990,241,1
+TEL-10166,RM - Santiago,Móvil Prepago,Call Center,Activo,140.8,14990,540,4
+TEL-10167,Araucanía,Móvil Pospago,App Móvil,Activo,134.4,9990,380,4
+TEL-10168,RM - Santiago,Fibra Óptica,App Móvil,Activo,9.3,24990,378,3
+TEL-10169,Araucanía,Plan Dúo,App Móvil,Activo,87.5,14990,85,2
+TEL-10170,Valparaíso,Fibra Óptica,App Móvil,Activo,90.8,14990,245,3
+TEL-10171,RM - Santiago,Fibra Óptica,App Móvil,Activo,17.7,9990,121,2
+TEL-10172,Biobío,Móvil Pospago,App Móvil,Activo,99.7,14990,20,4
+TEL-10173,Antofagasta,Móvil Prepago,App Móvil,Activo,81.7,19990,324,4
+TEL-10174,RM - Santiago,Móvil Pospago,Portal Web,Activo,106.4,19990,426,4
+TEL-10175,RM - Santiago,Móvil Pospago,Portal Web,Pendiente Validación,75.4,24990,351,4
+TEL-10176,Araucanía,Móvil Prepago,Call Center,Activo,99.1,14990,220,4
+TEL-10177,Araucanía,Móvil Pospago,App Móvil,Suspendido,114.0,14990,42,3
+TEL-10178,Biobío,Móvil Pospago,Call Center,Activo,52.1,14990,290,5
+TEL-10179,Antofagasta,Plan Dúo,App Móvil,Activo,108.8,14990,265,4
+TEL-10180,RM - Santiago,Plan Dúo,Portal Web,Activo,12.4,9990,86,3
+TEL-10181,RM - Santiago,Plan Dúo,Sucursal Presencial,Activo,78.0,14990,60,3
+TEL-10182,RM - Santiago,Fibra Óptica,Call Center,Activo,110.5,24990,73,4
+TEL-10183,RM - Santiago,Fibra Óptica,Portal Web,Pendiente Validación,109.3,32990,117,3
+TEL-10184,Biobío,Plan Dúo,App Móvil,Activo,12.7,19990,440,5
+TEL-10185,Antofagasta,Fibra Óptica,Portal Web,Activo,53.0,14990,452,1
+TEL-10186,RM - Santiago,Móvil Prepago,Portal Web,Activo,15.5,14990,441,5
+TEL-10187,RM - Santiago,Móvil Prepago,Call Center,Activo,139.2,9990,576,4
+TEL-10188,RM - Santiago,Móvil Prepago,Sucursal Presencial,Pendiente Validación,112.7,44990,449,3
+TEL-10189,Antofagasta,Móvil Pospago,Portal Web,Activo,111.3,14990,238,5
+TEL-10190,Biobío,Fibra Óptica,Call Center,Activo,147.2,19990,249,5
+TEL-10191,Araucanía,Fibra Óptica,App Móvil,Activo,138.0,19990,358,5
+TEL-10192,RM - Santiago,Fibra Óptica,App Móvil,Suspendido,126.5,14990,442,4
+TEL-10193,RM - Santiago,Móvil Prepago,App Móvil,Pendiente Validación,56.1,44990,201,3
+TEL-10194,RM - Santiago,Fibra Óptica,Portal Web,Activo,76.5,14990,302,4
+TEL-10195,Antofagasta,Móvil Pospago,App Móvil,Activo,12.3,32990,149,2
+TEL-10196,Valparaíso,Fibra Óptica,Portal Web,Activo,115.1,9990,472,3
+TEL-10197,RM - Santiago,Móvil Prepago,App Móvil,Activo,80.3,24990,127,4
+TEL-10198,RM - Santiago,Plan Dúo,Call Center,Activo,77.6,14990,202,1
+TEL-10199,RM - Santiago,Plan Dúo,App Móvil,Activo,149.8,14990,384,5
+TEL-10200,RM - Santiago,Móvil Prepago,Sucursal Presencial,Activo,81.2,14990,522,4
+TEL-10201,RM - Santiago,Móvil Pospago,App Móvil,Activo,145.6,24990,279,4
+TEL-10202,Araucanía,Móvil Pospago,App Móvil,Activo,19.9,19990,82,5
+TEL-10203,RM - Santiago,Fibra Óptica,Call Center,Activo,128.3,14990,300,3
+TEL-10204,RM - Santiago,Plan Dúo,Portal Web,Activo,18.3,9990,425,4
+TEL-10205,RM - Santiago,Móvil Prepago,Call Center,Activo,130.8,14990,245,4
+TEL-10206,Antofagasta,Móvil Pospago,App Móvil,Activo,89.2,14990,402,5
+TEL-10207,Araucanía,Móvil Prepago,Call Center,Activo,18.3,19990,550,4
+TEL-10208,RM - Santiago,Móvil Pospago,App Móvil,Suspendido,28.5,14990,39,4
+TEL-10209,Biobío,Móvil Pospago,Portal Web,Activo,76.4,24990,416,4
+TEL-10210,Araucanía,Móvil Pospago,Portal Web,Activo,113.8,14990,541,3
+TEL-10211,Valparaíso,Fibra Óptica,App Móvil,Activo,68.6,24990,128,4
+TEL-10212,Valparaíso,Móvil Pospago,Sucursal Presencial,Activo,130.6,9990,508,4
+TEL-10213,Valparaíso,Móvil Prepago,Sucursal Presencial,Pendiente Validación,116.1,14990,383,5
+TEL-10214,RM - Santiago,Móvil Prepago,Sucursal Presencial,Activo,50.7,14990,381,4
+TEL-10215,RM - Santiago,Móvil Pospago,Portal Web,Activo,146.9,19990,206,4
+TEL-10216,RM - Santiago,Fibra Óptica,Call Center,Activo,86.0,19990,44,5
+TEL-10217,RM - Santiago,Móvil Prepago,Portal Web,Activo,82.2,14990,485,1
+TEL-10218,RM - Santiago,Fibra Óptica,App Móvil,Activo,100.2,14990,372,3
+TEL-10219,RM - Santiago,Fibra Óptica,App Móvil,Activo,93.0,44990,443,5
+TEL-10220,RM - Santiago,Móvil Pospago,App Móvil,Activo,54.7,9990,426,5
